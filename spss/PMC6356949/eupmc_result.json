@@ -1,0 +1,325 @@
+{
+  "id": [
+    "30621018"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30621018"
+  ],
+  "pmcid": [
+    "PMC6356949"
+  ],
+  "doi": [
+    "10.3390/cancers11010047"
+  ],
+  "title": [
+    "Chimeric Antigen Receptor T-cell (CAR T) Therapy for Hematologic and Solid Malignancies: Efficacy and Safety-A Systematic Review with Meta-Analysis."
+  ],
+  "authorString": [
+    "Yu WL, Hua ZC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yu WL"
+          ],
+          "firstName": [
+            "Wen-Liang"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "WL"
+          ],
+          "affiliation": [
+            "The State Key Laboratory of Quality Research in Chinese Medicine, Macau Institute for Applied Research in Medicine and Health, Macau University of Science and Technology, Avenida Wai Long, Taipa, Macao 999078, China. q1050574228@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Hua ZC"
+          ],
+          "firstName": [
+            "Zi-Chun"
+          ],
+          "lastName": [
+            "Hua"
+          ],
+          "initials": [
+            "ZC"
+          ],
+          "affiliation": [
+            "Jiangsu Target Pharma Laboratories Inc., Changzhou High-Tech Research Institute of Nanjing University, Changzhou 213164, China. huazc@nju.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2766965"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cancers"
+          ],
+          "ISOAbbreviation": [
+            "Cancers (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Cancers (Basel)"
+          ],
+          "NLMid": [
+            "101526829"
+          ],
+          "ISSN": [
+            "2072-6694"
+          ],
+          "ESSN": [
+            "2072-6694"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Chimeric antigen receptors T cells (CAR T) had been used for treating various tumor patients in clinic, and owned an incredible efficacy in part of malignancies. However, CAR T therapy remains controversial due to doubts about its efficacy and safety in the clinical treatment of various malignancies. A total of 997 tumor patients from 52 studies were included in this review. Eligible studies were searched and reviewed from the databases of PubMed, Web of Science, Wanfang and Clinicaltrials.gov. Then meta-analysis and subgroup analysis were used to investigate the overall response rate (ORR), complete response rate (CRR), common side effect rate (CSER) and relapse rate (RR) of CAR T therapy for patients in clinical researches, respectively. The results further confirmed that CAR T therapy had a higher response rate for hematologic malignancies. More importantly, CAR T therapy had a higher CSER in patients with hematologic malignancies, and it had a similar RR in patients with different malignancies. Cell cultured without the addition of IL-2 and total administration less than 10⁸ cells were recommended. This study offers a reference for future research regarding the application in solid and hematologic malignancies, side effects and relapse, and even the production processes of CAR T cells."
+  ],
+  "affiliation": [
+    "The State Key Laboratory of Quality Research in Chinese Medicine, Macau Institute for Applied Research in Medicine and Health, Macau University of Science and Technology, Avenida Wai Long, Taipa, Macao 999078, China. q1050574228@163.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2017YFA0104301, 2016YFC0902700, 2017YFA0506002"
+          ],
+          "agency": [
+            "the National Key R&D Research Program by Ministry of Science and Technology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "81630092, 31801084, 81773099, 81570790, 81573338"
+          ],
+          "agency": [
+            "the Chinese National Natural Sciences Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "KQTD20140630165057031"
+          ],
+          "agency": [
+            "Shenzhen Peacock Plan"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "JCYJ20160331152141936"
+          ],
+          "agency": [
+            "Shenzhen Science and Technology Innovation Committee"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BZ2017018, BRA2017347, BK20171202"
+          ],
+          "agency": [
+            "Jiangsu Province Science and Technology Innovation Committee"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Response",
+        "Meta-analysis",
+        "Side effect",
+        "Relapse",
+        "Subgroup Analysis",
+        "Meta-regression Analysis",
+        "Chimeric Antigen Receptor T Cell"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6356949?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6356949"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/cancers11010047"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-10"
+  ],
+  "dateOfRevision": [
+    "2019-02-06"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-07"
+  ],
+  "firstPublicationDate": [
+    "2019-01-07"
+  ]
+}

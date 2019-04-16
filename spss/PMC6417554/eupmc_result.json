@@ -1,0 +1,482 @@
+{
+  "id": [
+    "30855482"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30855482"
+  ],
+  "pmcid": [
+    "PMC6417554"
+  ],
+  "doi": [
+    "10.1097/MD.0000000000014769"
+  ],
+  "title": [
+    "The utility of 18F-FDG and 68Ga-DOTA-Peptide PET/CT in the evaluation of primary pulmonary carcinoid: A systematic review and meta-analysis."
+  ],
+  "authorString": [
+    "Jiang Y, Hou G, Cheng W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jiang Y"
+          ],
+          "firstName": [
+            "Yuanyuan"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Nuclear Medicine, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College."
+          ]
+        },
+        {
+          "fullName": [
+            "Hou G"
+          ],
+          "firstName": [
+            "Guozhu"
+          ],
+          "lastName": [
+            "Hou"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Nuclear Medicine, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College."
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng W"
+          ],
+          "firstName": [
+            "Wuying"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Nuclear Medicine, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "98"
+      ],
+      "journalIssueId": [
+        "2792688"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medicine"
+          ],
+          "ISOAbbreviation": [
+            "Medicine (Baltimore)"
+          ],
+          "medlineAbbreviation": [
+            "Medicine (Baltimore)"
+          ],
+          "NLMid": [
+            "2985248R"
+          ],
+          "ISSN": [
+            "0025-7974"
+          ],
+          "ESSN": [
+            "1536-5964"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e14769"
+  ],
+  "abstractText": [
+    "BACKGROUND:Pulmonary carcinoids (PC) are histologically classified into typical carcinoid (TC) and atypical carcinoid (AC). The diagnosis of pulmonary carcinoid and possibly the differentiation between TC and AC could make a significant effect on the treatment planning as well as prognosis. Several studies have explored the utility of Ga-DOTA-Peptide (Ga-labelled [1,4,7,10-tetraazacyclododecane-1,4,7,10-tetraacetic acid]-peptide) and F-flurodeoxyglucose (FDG) positron emission tomography (PET)/computed tomography (CT) in the evaluation of primary pulmonary carcinoids. Therefore, we performed a meta-analysis to evaluate the diagnostic accuracy and prediction efficiency of histological subtypes of these two imaging modalities in primary PC. METHODS:Relevant studies were identified by searching PubMed, Web of Science, and EMBASE published from 2006 to 2016. Two authors extracted characteristics of patients and their lesions using predefined criteria. RESULTS:Fourteen studies comprising 352 patients were included in this meta-analysis. The pooled sensitivity of Ga-DOTA-Peptide and F-FDG PET/CT in detecting pulmonary carcinoid were 90.0% (95% CI = 82.0-95.0%; P = .07; I = 49.6%) and 71.0% (95% CI = 66.0-76.0%; P < .001; I = 59.3%), respectively. An SUVmax ratio between Ga-DOTA-Peptide and F-FDG higher than the cutoff value of 4.28 was predictive of TC with 89.3% sensitivity and 100% specificity (AUC, 96.4%; 95% CI, 91.1-100%). The ratio of tumor uptake to atelectatic lung uptake was significantly higher for Ga-DOTA-peptide (2.5-91, mean 30.5 ± 28.1) than for F-FDG (0.3-10.3, mean 2.1 ± 2.3) (P < .001). CONCLUSIONS:Both Ga-DOTA-peptide and F-FDG are highly sensitive in detecting pulmonary carcinoid, while Ga-DOTA-peptide is more sensitive than F-FDG (90.0% vs 71.0%). The SUVmax ratio was an accurate predictor of the histopathologic variety of the carcinoid tumor, and Ga-DOTA-peptide was better than F-FDG in cases with atelectasis."
+  ],
+  "affiliation": [
+    "Department of Nuclear Medicine, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Carcinoid Tumor"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lung Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gallium Radioisotopes"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Acetates"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Peptides, Cyclic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Fluorodeoxyglucose F18"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Radiopharmaceuticals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Positron Emission Tomography Computed Tomography"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Acetates"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Gallium Radioisotopes"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Peptides, Cyclic"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Radiopharmaceuticals"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Fluorodeoxyglucose F18"
+          ],
+          "registryNumber": [
+            "0Z5B2CJX4D"
+          ]
+        },
+        {
+          "name": [
+            "68Ga-DOTA-Peptide"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "AIM"
+          ],
+          "name": [
+            "Core clinical journals"
+          ]
+        },
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6417554?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6417554"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1097/MD.0000000000014769"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-03-25"
+  ],
+  "dateOfCreation": [
+    "2019-03-12"
+  ],
+  "dateOfRevision": [
+    "2019-04-09"
+  ],
+  "firstPublicationDate": [
+    "2019-03-01"
+  ]
+}

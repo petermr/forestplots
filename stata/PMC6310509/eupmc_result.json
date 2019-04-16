@@ -1,0 +1,405 @@
+{
+  "id": [
+    "30544398"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30544398"
+  ],
+  "pmcid": [
+    "PMC6310509"
+  ],
+  "doi": [
+    "10.1097/MD.0000000000013340"
+  ],
+  "title": [
+    "Preoperative elevated neutrophil-to-lymphocyte ratio (NLR) and derived NLR are associated with poor prognosis in patients with breast cancer: A meta-analysis."
+  ],
+  "authorString": [
+    "Duan J, Pan L, Yang M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Duan J"
+          ],
+          "firstName": [
+            "Junwu"
+          ],
+          "lastName": [
+            "Duan"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Breast Surgery, The First Hospital of Jilin University, Changchun, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Pan L"
+          ],
+          "firstName": [
+            "Linlin"
+          ],
+          "lastName": [
+            "Pan"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Yang M"
+          ],
+          "firstName": [
+            "Ming"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "M"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "49"
+      ],
+      "volume": [
+        "97"
+      ],
+      "journalIssueId": [
+        "2760867"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medicine"
+          ],
+          "ISOAbbreviation": [
+            "Medicine (Baltimore)"
+          ],
+          "medlineAbbreviation": [
+            "Medicine (Baltimore)"
+          ],
+          "NLMid": [
+            "2985248R"
+          ],
+          "ISSN": [
+            "0025-7974"
+          ],
+          "ESSN": [
+            "1536-5964"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e13340"
+  ],
+  "abstractText": [
+    "BACKGROUND:Preoperative neutrophil-lymphocyte ratio (NLR) and derived NLR (dNLR) have been suggested to be correlated with the prognosis of patients with breast cancer (BC). However, the results still remain controversial. Therefore, this study was to further evaluate the prognostic potential of preoperative NLR and dNLR for BC patients using a meta-analysis. METHODS:Relevant articles were sought in PubMed and Cochrane Library databases up to September 2018. The associations between preoperative NLR/dNLR and overall survival (OS), disease-free survival (DFS) and recurrence-free survival (RFS) were assessed by the STATA software with the results presented as pooled hazard ratio (HR) with 95% confidence interval (CI). RESULTS:Twenty-one studies were enrolled. Pooled results showed that elevated NLR was significantly associated with poorer OS (HR = 2.45, 95% CI: 1.69-3.54), DFS (HR = 1.54, 95% CI: 1.28-1.87) and RFS (HR = 4.05, 95% CI: 1.94-8.47) in BC patients undergoing surgery. High-preoperative dNLR was also significantly associated with worse OS (HR = 1.75, 95% CI: 1.39-2.19) and DFS (HR = 1.62, 95% CI: 1.09-2.41). Moreover, subgroup analysis showed significant associations between preoperative elevated NLR and poor prognosis were not changed by the stratification of ethnicity, cutoff of NLR, pathological stage, neoadjuvant, and adjuvant therapy. CONCLUSION:Preoperative NLR and dNLR may be effective predictive biomarkers for prognosis in patients with BC. Detection of NLR and dNLR may be helpful to identify the patients who may benefit from the surgery."
+  ],
+  "affiliation": [
+    "Department of Breast Surgery, The First Hospital of Jilin University, Changchun, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neutrophils"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Breast Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Leukocyte Count"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Lymphocyte Count"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prognosis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Preoperative Period"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biomarkers, Tumor"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Biomarkers, Tumor"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "AIM"
+          ],
+          "name": [
+            "Core clinical journals"
+          ]
+        },
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6310509?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6310509"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1097/MD.0000000000013340"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-12-27"
+  ],
+  "dateOfCreation": [
+    "2018-12-15"
+  ],
+  "dateOfRevision": [
+    "2019-01-15"
+  ],
+  "firstPublicationDate": [
+    "2018-12-01"
+  ]
+}

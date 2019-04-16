@@ -1,0 +1,571 @@
+{
+  "id": [
+    "30383624"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30383624"
+  ],
+  "pmcid": [
+    "PMC6221679"
+  ],
+  "doi": [
+    "10.1097/MD.0000000000012542"
+  ],
+  "title": [
+    "Evaluation of the efficacy and safety of elemene in treating malignant pleural effusion caused by tumors: A PRISMA guided meta-analysis."
+  ],
+  "authorString": [
+    "Wang QT, Zhang ZL, Xiong H, Zhou DS, Li J, Liang J, Wang YF."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang QT"
+          ],
+          "firstName": [
+            "Qing-Tao"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "QT"
+          ],
+          "affiliation": [
+            "Department of Cardiothoracic and Breast Surgery, Xiang Yang No. 1 People's Hospital, HuBei University of Medicine, XiangYang, Hubei, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang ZL"
+          ],
+          "firstName": [
+            "Ze-Lin"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "ZL"
+          ]
+        },
+        {
+          "fullName": [
+            "Xiong H"
+          ],
+          "firstName": [
+            "Hui"
+          ],
+          "lastName": [
+            "Xiong"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou DS"
+          ],
+          "firstName": [
+            "Dong-Sheng"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "DS"
+          ]
+        },
+        {
+          "fullName": [
+            "Li J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Liang J"
+          ],
+          "firstName": [
+            "Jian"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Wang YF"
+          ],
+          "firstName": [
+            "Ya-Fei"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "YF"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "44"
+      ],
+      "volume": [
+        "97"
+      ],
+      "journalIssueId": [
+        "2743545"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medicine"
+          ],
+          "ISOAbbreviation": [
+            "Medicine (Baltimore)"
+          ],
+          "medlineAbbreviation": [
+            "Medicine (Baltimore)"
+          ],
+          "NLMid": [
+            "2985248R"
+          ],
+          "ISSN": [
+            "0025-7974"
+          ],
+          "ESSN": [
+            "1536-5964"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e12542"
+  ],
+  "abstractText": [
+    "OBJECTIVE:Elemene is widely used to treat malignant pleural effusion in China. This meta-analysis aimed to evaluate the efficacy and safety of elemene in treating malignant pleural effusion. METHODS:Electronic databases including Pubmed, the Cochrane Library, Embase and Chinese biomedical literature database were searched until March 2017. Clinical controlled trials (CCTs) assessing the efficacy and safety of elemene in the treatment of malignant pleural effusion were included. The quality of the included studies was evaluated using the quality evaluation criteria of the Cochrane Handbook version 5.1.0. RESULTS:A total of 46 CCTs were included, with 2992 patients. Results of meta-analysis showed that elemene significantly improved the overall response rate (ORR) in controlling malignant pleural effusion (risk ratio [RR] = 1.16; 95% CI: 1.08-1.23; P < .05). Subgroup results showed that the ORR of elemene in the treatment of lung cancer patients with malignant pleural effusion (RR = 1.20, 95% CI: 1.07-1.34; P < .05) was higher than that of other cancers (RR = 1.14, 95% CI: 1.05-1.23; P < .05). Meanwhile, elemene did not significantly increase the incidences of chest pain and fever (P > .05). CONCLUSION:Elemene is suggested to have the ability of improving the treatment outcome of malignant pleural effusion with acceptable safety."
+  ],
+  "affiliation": [
+    "Department of Cardiothoracic and Breast Surgery, Xiang Yang No. 1 People's Hospital, HuBei University of Medicine, XiangYang, Hubei, P.R. China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pleural Effusion, Malignant"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sesquiterpenes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Drugs, Chinese Herbal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged, 80 and over"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "elemene"
+          ],
+          "registryNumber": [
+            "11029-06-4"
+          ]
+        },
+        {
+          "name": [
+            "Sesquiterpenes"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Drugs, Chinese Herbal"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "AIM"
+          ],
+          "name": [
+            "Core clinical journals"
+          ]
+        },
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6221679?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6221679"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1097/MD.0000000000012542"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-11-14"
+  ],
+  "dateOfCreation": [
+    "2018-11-02"
+  ],
+  "dateOfRevision": [
+    "2018-11-14"
+  ],
+  "firstPublicationDate": [
+    "2018-11-01"
+  ]
+}

@@ -1,0 +1,499 @@
+{
+  "id": [
+    "30241543"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30241543"
+  ],
+  "pmcid": [
+    "PMC6151011"
+  ],
+  "doi": [
+    "10.1186/s13018-018-0948-1"
+  ],
+  "title": [
+    "Comparative effectiveness and safety of tranexamic acid plus diluted epinephrine to control blood loss during total hip arthroplasty: a meta-analysis."
+  ],
+  "authorString": [
+    "Wang Z, Zhang HJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang Z"
+          ],
+          "firstName": [
+            "Zhao"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Orthopedics, Jingjiang People's Hospital, Jingjiang, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang HJ"
+          ],
+          "firstName": [
+            "Hao-Jie"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "HJ"
+          ],
+          "affiliation": [
+            "Department of Orthopaedics, The 82rn Hospital of People's Liberation Army of China, No. 100, Jiankangdong Road, Huai'an, Jiangsu, China. 2046293417@qq.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2722485"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of orthopaedic surgery and research"
+          ],
+          "ISOAbbreviation": [
+            "J Orthop Surg Res"
+          ],
+          "medlineAbbreviation": [
+            "J Orthop Surg Res"
+          ],
+          "NLMid": [
+            "101265112"
+          ],
+          "ISSN": [
+            "1749-799X"
+          ],
+          "ESSN": [
+            "1749-799X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "242"
+  ],
+  "abstractText": [
+    "BACKGROUND:The standard protocol to achieve haemostasis during total hip arthroplasty (THA) is uncertain. Tranexamic acid plus diluted epinephrine (DEP) and tranexamic acid (TXA) alone are the two most common alternatives. The purpose of this study was to compare the efficacy and safety of TXA plus DEP to treat blood loss in THA patients. METHODS:Published randomized controlled trials (RCTs) were identified from the following electronic databases: PubMed, Embase, Web of Science, Cochrane Library and Google from inception to July 10, 2018. Studies comparing TXA plus DEP with TXA alone to treat blood loss were included. Either a random-effects model or a fixed-effects model was used for meta-analysis depending on the heterogeneity. We used the need for transfusion as the primary outcome. Stata 12.0 was used for meta-analysis. RESULTS:Six studies involving 703 patients were included in the present meta-analysis. The pooled results demonstrated that TXA plus DEP was associated with a lower transfusion rate than TXA alone (RR = 0.57, 95% CI 0.38-0.86, P = 0.006). Furthermore, TXA plus DEP was associated with less total blood loss and hidden blood loss by approximately 209.79 ml and 297.74 ml, respectively, than TXA alone. There was no significant difference in terms of intraoperative blood loss or the occurrence of deep venous thrombosis or haematoma between the TXA plus DEP and TXA alone groups (P > 0.05). CONCLUSIONS:Our meta-analysis suggested that TXA plus DEP significantly decreased the need for transfusion, total blood loss and hidden blood loss among THA patients. Furthermore, TXA plus DEP did not increase the occurrence of DVT or haemostasis. Additional long-term follow-up RCTs are needed to identify the optimal doses of TXA and DEP."
+  ],
+  "affiliation": [
+    "Department of Orthopedics, Jingjiang People's Hospital, Jingjiang, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Blood Loss, Surgical"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Epinephrine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tranexamic Acid"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vasoconstrictor Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antifibrinolytic Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Blood Transfusion"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Arthroplasty, Replacement, Hip"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Randomized Controlled Trials as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Comparative Effectiveness Research"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Meta-analysis",
+        "Blood Loss",
+        "Tranexamic Acid",
+        "Total Hip Arthroplasty"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Vasoconstrictor Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Antifibrinolytic Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Epinephrine"
+          ],
+          "registryNumber": [
+            "YKH834O4BH"
+          ]
+        },
+        {
+          "name": [
+            "Tranexamic Acid"
+          ],
+          "registryNumber": [
+            "6T84R30KC1"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6151011?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6151011"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13018-018-0948-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-12-11"
+  ],
+  "dateOfCreation": [
+    "2018-09-23"
+  ],
+  "dateOfRevision": [
+    "2018-12-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-21"
+  ],
+  "firstPublicationDate": [
+    "2018-09-21"
+  ]
+}

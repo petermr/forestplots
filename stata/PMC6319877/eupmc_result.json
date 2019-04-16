@@ -1,0 +1,414 @@
+{
+  "id": [
+    "30572521"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30572521"
+  ],
+  "pmcid": [
+    "PMC6319877"
+  ],
+  "doi": [
+    "10.1097/MD.0000000000013753"
+  ],
+  "title": [
+    "VEGF overexpression is associated with optic nerve involvement and differentiation of retinoblastoma: A PRISMA-compliant meta-analysis."
+  ],
+  "authorString": [
+    "Wu Q, Sun X, Zheng G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wu Q"
+          ],
+          "firstName": [
+            "Qizheng"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Department of Ophthalmology, Liaocheng People's Hospital, Liaocheng City, Shandong Province, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Sun X"
+          ],
+          "firstName": [
+            "Xiao"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "X"
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng G"
+          ],
+          "firstName": [
+            "Guangying"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "G"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "51"
+      ],
+      "volume": [
+        "97"
+      ],
+      "journalIssueId": [
+        "2763212"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medicine"
+          ],
+          "ISOAbbreviation": [
+            "Medicine (Baltimore)"
+          ],
+          "medlineAbbreviation": [
+            "Medicine (Baltimore)"
+          ],
+          "NLMid": [
+            "2985248R"
+          ],
+          "ISSN": [
+            "0025-7974"
+          ],
+          "ESSN": [
+            "1536-5964"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e13753"
+  ],
+  "abstractText": [
+    "BACKGROUND:Vascular endothelial growth factor (VEGF) plays an important role in the pathogenesis of cancer. Although numerous studies have investigated the association between VEGF expression and pathogenesis of retinoblastoma, the results remained inconsistent. To illuminate the association, we performed a meta-analysis study. METHODS:According to the PRISMA guideline, eligible studies were searched in the Medicine, Embase, Web of Science, Chinese National Knowledge Infrastructure, and Wanfang databases. Stata 14.0 software was used to calculate the relevant statistical parameters. RESULTS:Seventeen studies with 296 controls and 470 patients with retinoblastoma were included from 17 eligible literatures. Overall, significant association between VEGF overexpression and susceptibility of retinoblastoma was observed in Chinese population (odds ratio [OR] = 21.67, 95% confidence interval [CI] = 13.96-33.62). Subgroup analysis based on control sample type showed that VEGF overexpression was significantly associated with the risk of retinoblastoma (Normal retina tissue, OR = 23.97, 95% CI = 9.67-59.42; retinoblastoma adjacent tissue, OR = 20.85, 95% CI = 12.64-34.37). Significant associations of VEGF overexpression with optic nerve involvement and differentiation of retinoblastoma were found (Optic nerve involvement, OR = 6.90, 95% CI = 4.01-11.88; Differentiation, OR = 0.18, 95% CI = 0.12-0.28). In addition, only 1 study was included to analyze the role of VEGF protein expression in the prognosis of retinoblastoma, and the result showed that VEGF expression was significantly associated with the prognosis of retinoblastoma, which should be verified in the future studies. CONCLUSIONS:Our findings demonstrated that VEGF overexpression was significantly associated with the risk of retinoblastoma. Besides, the results suggested that VEGF overexpression might have a crucial effect on the optic nerve involvement and differentiation of retinoblastoma."
+  ],
+  "affiliation": [
+    "Department of Ophthalmology, Liaocheng People's Hospital, Liaocheng City, Shandong Province, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Optic Nerve"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Retinoblastoma"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vascular Endothelial Growth Factor A"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biomarkers, Tumor"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Vascular Endothelial Growth Factor A"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "VEGFA protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Biomarkers, Tumor"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "AIM"
+          ],
+          "name": [
+            "Core clinical journals"
+          ]
+        },
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6319877?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6319877"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1097/MD.0000000000013753"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-07"
+  ],
+  "dateOfCreation": [
+    "2018-12-22"
+  ],
+  "dateOfRevision": [
+    "2019-01-25"
+  ],
+  "firstPublicationDate": [
+    "2018-12-01"
+  ]
+}

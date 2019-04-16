@@ -1,2 +1,2 @@
-# forestplots
-forest plots and software to analyse them
+# forest plot tools and example for STATA and SPSS
+
