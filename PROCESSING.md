@@ -32,7 +32,7 @@ will split the files into `pdfimages/` and `svg/`.
 
 ## editing
 
-The files were manually edited to 
+The files were **manually edited** to 
 
 * exclude papers without Forest Plots
 * then exclude images which are not forest plots.
