@@ -2,27 +2,92 @@
 	"project": "spss",
 	"documents": [
 		{
-			"id": "PMC5882397",
-			"plots": "ST,G,OR,WT",
-			"numplots": "4",
-			"nested": "2",
-			"stats": "Isq, p",
-			"xscale": "lin"
+			"id": "PMC5502154",
+			"plots": "ST,(X(E,T),Y(E,T),Wt,OR,MH,Fix,CI,Year)",
+			"numplots": "5",
+			"heterogeneity": "Chisq,df,P,Isq",
+			"overall": "Z,P",
+			"xscale": "log"
 		},
-		PMC5502154
-		PMC5779749
-		PMC5911624
-		PMC6112962
-		PMC6200462
-		PMC6240187
-		PMC6294855
-		PMC6313124
-		PMC6315527
-		PMC6356949
-		PMC6397911
-		PMC6408124
-		PMC6417514
-		PMC6417554
-		PMC6441598
+		{
+			"id": "PMC5779749",
+			"plots": "?",
+			"overall": "Z,P",
+			"numplots": "?",
+			"hetereogenity": "Chisq,df,P,Isq",
+			"xscale": "log"
+		},
+		{
+			"id": "PMC5911624",
+			"plots": "?",
+			"overall": "Z,P",
+			"numplots": "?",
+			"hetereogenity": "Chisq,df,P,Isq",
+			"xscale": "log"
+		},
+		{
+			"id": "PMC6112962",
+			"plots": "?",
+			"overall": "Z,P",
+			"numplots": "?",
+			"hetereogenity": "Chisq,df,P,Isq",
+			"xscale": "log"
+		},
+		{
+			"id": "PMC6200462",
+			"plots": "?",
+			"overall": "Z,P",
+			"numplots": "?",
+			"hetereogenity": "Chisq,df,P,Isq",
+			"xscale": "log"
+		},
+		{
+			"id": "PMC6240187",
+			"plots": "?",
+			"overall": "Z,P",
+			"numplots": "?",
+			"hetereogenity": "Chisq,df,P,Isq",
+			"xscale": "log"
+		},
+		{
+			"id": "PMC6294855",
+			"plots": "?",
+			"overall": "Z,P",
+			"numplots": "?",
+			"hetereogenity": "Chisq,df,P,Isq",
+			"xscale": "log"
+		},
+		{
+			"id": "PMC6313124",
+			"plots": "?",
+			"overall": "Z,P",
+			"numplots": "?",
+			"hetereogenity": "Chisq,df,P,Isq",
+			"xscale": "log"
+		},
+		{
+			"id": "PMC6315527",
+			"plots": "?",
+			"overall": "Z,P",
+			"numplots": "?",
+			"hetereogenity": "Chisq,df,P,Isq",
+			"xscale": "log"
+		},
+		{
+			"id": "PMC6397911",
+			"plots": "?",
+			"overall": "Z,P",
+			"numplots": "?",
+			"hetereogenity": "Chisq,df,P,Isq",
+			"xscale": "log"
+		},
+		{
+			"id": "PMC6417514",
+			"plots": "?",
+			"overall": "Z,P",
+			"numplots": "?",
+			"hetereogenity": "Chisq,df,P,Isq",
+			"xscale": "log"
+		}
 	]
 }
