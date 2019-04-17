@@ -1,5 +1,5 @@
 {
-	"project": "stata",
+	"project": "spss",
 	"documents": [
 		{
 			"id": "PMC5882397",
@@ -9,95 +9,20 @@
 			"stats": "Isq, p",
 			"xscale": "lin"
 		},
-		{
-			"id": "PMC5992663",
-			"plots": "ST,G,WMD,WT",
-			"numplots": "8",
-			"stats": "Isq, p, P",
-			"xscale": "lin"
-		},
-		{
-			"id": "PMC6090707",
-			"plots": "ST,G,WMD,WT",
-			"numplots": "8",
-			"stats": "Isq, p, P",
-			"xscale": "lin"
-		},
-		{
-			"id": "PMC6127950",
-			"plots": "ST,G",
-			"numplots": "9",
-			"arrows":"1",
-			"stats": "Isq, p, P",
-			"xscale": "lin"
-		},
-		{
-			"id": "PMC6133534",
-			"plots": "ST,G,RR,WT",
-			"numplots": "11",
-			"nested":"5",
-			"stats": "Isq, p, P",
-			"xscale": "log"
-		},
-		{
-			"id": "PMC6148779",
-			"plots": "ST,G,WMD,WT",
-			"numplots": "6",
-			"stats": "Isq, p, P",
-			"xscale": "lin"
-		},
-		{
-			"id": "PMC6151011",
-			"plots": "ST,G,RR,WT",
-			"numplots": "6",
-			"stats": "Isq, p, P",
-			"xscale": "log"
-		},
-		{
-			"id": "PMC6221679",
-			"plots": "ST,G,RR,WT",
-			"numplots": "7",
-			"overlap":"Y",
-			"nested": "3",
-			"stats": "Isq, p",
- 			"xscale": "log"
- 		},
-		{
-			"id": "PMC6240665",
-			"plots": "ST,G,WMD,WT",
-			"numplots": "7",
-			"nexted":"7",
-			"stats": "Isq, p",
-			"xscale": "lin"
-		},
-		{
-			"id": "PMC6250441",
-			"plots": "ST,G,WMD,WT",
-			"numplots": "6",
-			"stats": "Isq, p",
-			"xscale": "lin"
-		},
-		{
-			"id": "PMC6310497",
-			"plots": "ST,G,WMD,WT",
-			"numplots": "5",
-			"nested":"4",
-			"stats": "Isq, p, P",
-			"xscale": "lin"
-		},
-		{
-			"id": "PMC6310588",
-			"plots": "ST,G,HR,WT",
-			"numplots": "7",
-			"stats": "Isq, p",
-			"xscale": "log"
-		},
-		{
-			"id": "PMC6320077",
-			"plots": "ST,G,WMD,WT",
-			"numplots": "1",
-			"stats": "Isq, p,P",
-			"xscale": "lin"
-		}
+		PMC5502154
+		PMC5779749
+		PMC5911624
+		PMC6112962
+		PMC6200462
+		PMC6240187
+		PMC6294855
+		PMC6313124
+		PMC6315527
+		PMC6356949
+		PMC6397911
+		PMC6408124
+		PMC6417514
+		PMC6417554
+		PMC6441598
 	]
 }
