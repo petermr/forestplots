@@ -9,7 +9,7 @@
       <rect x="32.0" y="95.0" width="55.0" height="22.0" style="fill:orange;opacity:0.2;"/>
       <g id="word_1_1" class="word" x_wconf="96">
        <rect x="32.0" y="95.0" width="55.0" height="22.0" style="fill:green;opacity:0.2;"/>
-       <text x="32.0" y="110.4" style="font-size:16.923076923076923px;">Study</text>
+       <text x="32.0" y="110.4" class="text" style="font-size:16.923076923076923px;">Study</text>
       </g>
      </g>
     </g>
@@ -21,11 +21,11 @@
       <rect x="32.0" y="347.0" width="142.0" height="21.0" style="fill:orange;opacity:0.2;"/>
       <g id="word_1_2" class="word" x_wconf="96">
        <rect x="32.0" y="347.0" width="89.0" height="21.0" style="fill:green;opacity:0.2;"/>
-       <text x="32.0" y="361.7" style="font-size:16.153846153846153px;">Bergeson</text>
+       <text x="32.0" y="361.7" class="text" style="font-size:16.153846153846153px;">Bergeson</text>
       </g>
       <g id="word_1_3" class="word" x_wconf="96">
        <rect x="128.0" y="347.0" width="46.0" height="16.0" style="fill:green;opacity:0.2;"/>
-       <text x="128.0" y="363.0" style="font-size:20.8px;">2012</text>
+       <text x="128.0" y="363.0" class="text" style="font-size:20.8px;">2012</text>
       </g>
      </g>
     </g>
@@ -37,11 +37,11 @@
       <rect x="32.0" y="429.0" width="113.0" height="18.0" style="fill:orange;opacity:0.2;"/>
       <g id="word_1_4" class="word" x_wconf="96">
        <rect x="32.0" y="429.0" width="61.0" height="18.0" style="fill:green;opacity:0.2;"/>
-       <text x="32.0" y="447.0" style="font-size:18.0px;">Rodeo</text>
+       <text x="32.0" y="447.0" class="text" style="font-size:18.0px;">Rodeo</text>
       </g>
       <g id="word_1_5" class="word" x_wconf="96">
        <rect x="99.0" y="431.0" width="46.0" height="16.0" style="fill:green;opacity:0.2;"/>
-       <text x="99.0" y="447.0" style="font-size:20.8px;">2012</text>
+       <text x="99.0" y="447.0" class="text" style="font-size:20.8px;">2012</text>
       </g>
      </g>
     </g>
@@ -53,11 +53,11 @@
       <rect x="31.0" y="513.0" width="115.0" height="17.0" style="fill:orange;opacity:0.2;"/>
       <g id="word_1_6" class="word" x_wconf="96">
        <rect x="31.0" y="513.0" width="55.0" height="17.0" style="fill:green;opacity:0.2;"/>
-       <text x="31.0" y="530.0" style="font-size:17.0px;">Weber</text>
+       <text x="31.0" y="530.0" class="text" style="font-size:17.0px;">Weber</text>
       </g>
       <g id="word_1_7" class="word" x_wconf="96">
        <rect x="89.0" y="514.0" width="57.0" height="16.0" style="fill:green;opacity:0.2;"/>
-       <text x="89.0" y="530.0" style="font-size:20.8px;">2013</text>
+       <text x="89.0" y="530.0" class="text" style="font-size:20.8px;">2013</text>
       </g>
      </g>
     </g>
@@ -69,11 +69,11 @@
       <rect x="32.0" y="597.0" width="140.0" height="21.0" style="fill:orange;opacity:0.2;"/>
       <g id="word_1_8" class="word" x_wconf="35">
        <rect x="32.0" y="597.0" width="91.0" height="21.0" style="fill:green;opacity:0.2;stroke-width:3.0;"/>
-       <text x="32.0" y="611.7" style="fill:red;font-size:16.153846153846153px;opacity:0.245;">M"¢rquez</text>
+       <text x="32.0" y="611.7" class="text" style="fill:red;font-size:16.153846153846153px;opacity:0.245;">M"¢rquez</text>
       </g>
       <g id="word_1_9" class="word" x_wconf="96">
        <rect x="129.0" y="598.0" width="43.0" height="16.0" style="fill:green;opacity:0.2;"/>
-       <text x="129.0" y="614.0" style="font-size:20.8px;">2011</text>
+       <text x="129.0" y="614.0" class="text" style="font-size:20.8px;">2011</text>
       </g>
      </g>
     </g>
@@ -85,31 +85,31 @@
       <rect x="32.0" y="680.0" width="369.0" height="22.0" style="fill:orange;opacity:0.2;"/>
       <g id="word_1_10" class="word" x_wconf="92">
        <rect x="32.0" y="680.0" width="66.0" height="17.0" style="fill:green;opacity:0.2;"/>
-       <text x="32.0" y="697.0" style="font-size:17.0px;">Overall</text>
+       <text x="32.0" y="697.0" class="text" style="font-size:17.0px;">Overall</text>
       </g>
       <g id="word_1_11" class="word" x_wconf="67">
        <rect x="111.0" y="680.0" width="101.0" height="22.0" style="fill:green;opacity:0.2;"/>
-       <text x="111.0" y="695.4" style="font-size:16.923076923076923px;">(I-squared</text>
+       <text x="111.0" y="695.4" class="text" style="font-size:16.923076923076923px;">(I-squared</text>
       </g>
       <g id="word_1_12" class="word" x_wconf="96">
        <rect x="220.0" y="687.0" width="12.0" height="7.0" style="fill:green;opacity:0.2;"/>
-       <text x="220.0" y="694.0" style="font-size:9.100000000000001px;">=</text>
+       <text x="220.0" y="694.0" class="text" style="font-size:9.100000000000001px;">=</text>
       </g>
       <g id="word_1_13" class="word" x_wconf="93">
        <rect x="240.0" y="681.0" width="61.0" height="19.0" style="fill:green;opacity:0.2;"/>
-       <text x="240.0" y="700.0" style="font-size:24.700000000000003px;">15.0%,</text>
+       <text x="240.0" y="700.0" class="text" style="font-size:24.700000000000003px;">15.0%,</text>
       </g>
       <g id="word_1_14" class="word" x_wconf="93">
        <rect x="308.0" y="685.0" width="11.0" height="16.0" style="fill:green;opacity:0.2;"/>
-       <text x="308.0" y="696.2" style="font-size:12.307692307692307px;">p</text>
+       <text x="308.0" y="696.2" class="text" style="font-size:12.307692307692307px;">p</text>
       </g>
       <g id="word_1_15" class="word" x_wconf="92">
        <rect x="325.0" y="687.0" width="12.0" height="7.0" style="fill:green;opacity:0.2;"/>
-       <text x="325.0" y="694.0" style="font-size:9.100000000000001px;">=</text>
+       <text x="325.0" y="694.0" class="text" style="font-size:9.100000000000001px;">=</text>
       </g>
       <g id="word_1_16" class="word" x_wconf="92">
        <rect x="344.0" y="680.0" width="57.0" height="20.0" style="fill:green;opacity:0.2;"/>
-       <text x="344.0" y="694.0" style="font-size:15.384615384615383px;">0.317)</text>
+       <text x="344.0" y="694.0" class="text" style="font-size:15.384615384615383px;">0.317)</text>
       </g>
      </g>
     </g>
@@ -121,7 +121,7 @@
       <rect x="43.0" y="743.0" width="113.0" height="24.0" style="fill:orange;opacity:0.2;"/>
       <g id="word_1_17" class="word" x_wconf="92">
        <rect x="43.0" y="743.0" width="113.0" height="24.0" style="fill:green;opacity:0.2;"/>
-       <text x="43.0" y="767.0" style="font-size:24.0px;">P=0.066</text>
+       <text x="43.0" y="767.0" class="text" style="font-size:24.0px;">P=0.066</text>
       </g>
      </g>
     </g>
@@ -133,31 +133,31 @@
       <rect x="32.0" y="805.0" width="460.0" height="22.0" style="fill:orange;opacity:0.2;"/>
       <g id="word_1_18" class="word" x_wconf="96">
        <rect x="32.0" y="806.0" width="57.0" height="17.0" style="fill:green;opacity:0.2;"/>
-       <text x="32.0" y="823.0" style="font-size:17.0px;">NOTE:</text>
+       <text x="32.0" y="823.0" class="text" style="font-size:17.0px;">NOTE:</text>
       </g>
       <g id="word_1_19" class="word" x_wconf="96">
        <rect x="95.0" y="805.0" width="79.0" height="22.0" style="fill:green;opacity:0.2;"/>
-       <text x="95.0" y="820.4" style="font-size:16.923076923076923px;">Weights</text>
+       <text x="95.0" y="820.4" class="text" style="font-size:16.923076923076923px;">Weights</text>
       </g>
       <g id="word_1_20" class="word" x_wconf="96">
        <rect x="180.0" y="811.0" width="29.0" height="12.0" style="fill:green;opacity:0.2;"/>
-       <text x="180.0" y="823.0" style="font-size:15.600000000000001px;">are</text>
+       <text x="180.0" y="823.0" class="text" style="font-size:15.600000000000001px;">are</text>
       </g>
       <g id="word_1_21" class="word" x_wconf="95">
        <rect x="215.0" y="805.0" width="45.0" height="18.0" style="fill:green;opacity:0.2;"/>
-       <text x="215.0" y="823.0" style="font-size:18.0px;">from</text>
+       <text x="215.0" y="823.0" class="text" style="font-size:18.0px;">from</text>
       </g>
       <g id="word_1_22" class="word" x_wconf="95">
        <rect x="268.0" y="806.0" width="55.0" height="17.0" style="fill:green;opacity:0.2;"/>
-       <text x="268.0" y="823.0" style="font-size:17.0px;">random</text>
+       <text x="268.0" y="823.0" class="text" style="font-size:17.0px;">random</text>
       </g>
       <g id="word_1_23" class="word" x_wconf="96">
        <rect x="325.0" y="805.0" width="86.0" height="18.0" style="fill:green;opacity:0.2;"/>
-       <text x="325.0" y="823.0" style="font-size:18.0px;">effects</text>
+       <text x="325.0" y="823.0" class="text" style="font-size:18.0px;">effects</text>
       </g>
       <g id="word_1_24" class="word" x_wconf="90">
        <rect x="417.0" y="805.0" width="75.0" height="22.0" style="fill:green;opacity:0.2;"/>
-       <text x="417.0" y="820.4" style="font-size:16.923076923076923px;">analysis</text>
+       <text x="417.0" y="820.4" class="text" style="font-size:16.923076923076923px;">analysis</text>
       </g>
      </g>
     </g>
@@ -169,7 +169,7 @@
       <rect x="482.0" y="349.0" width="257.0" height="374.0" style="fill:orange;opacity:0.2;"/>
       <g id="word_1_25" class="word" x_wconf="41">
        <rect x="482.0" y="349.0" width="257.0" height="374.0" style="fill:green;opacity:0.2;stroke-width:3.0;"/>
-       <text x="482.0" y="379.0" style="fill:red;font-size:39.0px;opacity:0.28700000000000003;">wae</text>
+       <text x="482.0" y="379.0" class="text" style="fill:red;font-size:39.0px;opacity:0.28700000000000003;">wae</text>
       </g>
      </g>
     </g>
@@ -181,15 +181,15 @@
       <rect x="912.0" y="179.0" width="137.0" height="19.0" style="fill:orange;opacity:0.2;"/>
       <g id="word_1_26" class="word" x_wconf="91">
        <rect x="912.0" y="180.0" width="37.0" height="16.0" style="fill:green;opacity:0.2;"/>
-       <text x="912.0" y="196.0" style="font-size:16.0px;">WMD</text>
+       <text x="912.0" y="196.0" class="text" style="font-size:16.0px;">WMD</text>
       </g>
       <g id="word_1_27" class="word" x_wconf="96">
        <rect x="952.0" y="179.0" width="67.0" height="19.0" style="fill:green;opacity:0.2;"/>
-       <text x="952.0" y="192.3" style="font-size:14.615384615384615px;">(95%</text>
+       <text x="952.0" y="192.3" class="text" style="font-size:14.615384615384615px;">(95%</text>
       </g>
       <g id="word_1_28" class="word" x_wconf="93">
        <rect x="1025.0" y="179.0" width="24.0" height="19.0" style="fill:green;opacity:0.2;"/>
-       <text x="1025.0" y="192.3" style="font-size:14.615384615384615px;">Cl)</text>
+       <text x="1025.0" y="192.3" class="text" style="font-size:14.615384615384615px;">Cl)</text>
       </g>
      </g>
     </g>
@@ -201,15 +201,15 @@
       <rect x="913.0" y="346.0" width="161.0" height="20.0" style="fill:orange;opacity:0.2;"/>
       <g id="word_1_29" class="word" x_wconf="91">
        <rect x="913.0" y="347.0" width="39.0" height="16.0" style="fill:green;opacity:0.2;"/>
-       <text x="913.0" y="363.0" style="font-size:20.8px;">0.00</text>
+       <text x="913.0" y="363.0" class="text" style="font-size:20.8px;">0.00</text>
       </g>
       <g id="word_1_30" class="word" x_wconf="72">
        <rect x="959.0" y="346.0" width="63.0" height="20.0" style="fill:green;opacity:0.2;"/>
-       <text x="959.0" y="360.0" style="font-size:15.384615384615383px;">(—2.35,</text>
+       <text x="959.0" y="360.0" class="text" style="font-size:15.384615384615383px;">(—2.35,</text>
       </g>
       <g id="word_1_31" class="word" x_wconf="96">
        <rect x="1029.0" y="346.0" width="45.0" height="20.0" style="fill:green;opacity:0.2;"/>
-       <text x="1029.0" y="360.0" style="font-size:15.384615384615383px;">2.35)</text>
+       <text x="1029.0" y="360.0" class="text" style="font-size:15.384615384615383px;">2.35)</text>
       </g>
      </g>
     </g>
@@ -221,15 +221,15 @@
       <rect x="913.0" y="430.0" width="201.0" height="19.0" style="fill:orange;opacity:0.2;"/>
       <g id="word_1_32" class="word" x_wconf="84">
        <rect x="913.0" y="431.0" width="52.0" height="16.0" style="fill:green;opacity:0.2;"/>
-       <text x="913.0" y="447.0" style="font-size:20.8px;">—5.13</text>
+       <text x="913.0" y="447.0" class="text" style="font-size:20.8px;">—5.13</text>
       </g>
       <g id="word_1_33" class="word" x_wconf="42">
        <rect x="973.0" y="430.0" width="75.0" height="19.0" style="fill:green;opacity:0.2;stroke-width:3.0;"/>
-       <text x="973.0" y="443.3" style="fill:red;font-size:14.615384615384615px;opacity:0.294;">(-10.00,</text>
+       <text x="973.0" y="443.3" class="text" style="fill:red;font-size:14.615384615384615px;opacity:0.294;">(-10.00,</text>
       </g>
       <g id="word_1_34" class="word" x_wconf="47">
        <rect x="1055.0" y="430.0" width="59.0" height="19.0" style="fill:green;opacity:0.2;stroke-width:3.0;"/>
-       <text x="1055.0" y="443.3" style="fill:red;font-size:14.615384615384615px;opacity:0.329;">—0.26)</text>
+       <text x="1055.0" y="443.3" class="text" style="fill:red;font-size:14.615384615384615px;opacity:0.329;">—0.26)</text>
       </g>
      </g>
     </g>
@@ -241,15 +241,15 @@
       <rect x="913.0" y="513.0" width="175.0" height="19.0" style="fill:orange;opacity:0.2;"/>
       <g id="word_1_35" class="word" x_wconf="80">
        <rect x="913.0" y="514.0" width="52.0" height="16.0" style="fill:green;opacity:0.2;"/>
-       <text x="913.0" y="530.0" style="font-size:20.8px;">—1.35</text>
+       <text x="913.0" y="530.0" class="text" style="font-size:20.8px;">—1.35</text>
       </g>
       <g id="word_1_36" class="word" x_wconf="88">
        <rect x="973.0" y="513.0" width="63.0" height="19.0" style="fill:green;opacity:0.2;"/>
-       <text x="973.0" y="526.3" style="font-size:14.615384615384615px;">(—3.26,</text>
+       <text x="973.0" y="526.3" class="text" style="font-size:14.615384615384615px;">(—3.26,</text>
       </g>
       <g id="word_1_37" class="word" x_wconf="96">
        <rect x="1043.0" y="513.0" width="45.0" height="19.0" style="fill:green;opacity:0.2;"/>
-       <text x="1043.0" y="526.3" style="font-size:14.615384615384615px;">0.56)</text>
+       <text x="1043.0" y="526.3" class="text" style="font-size:14.615384615384615px;">0.56)</text>
       </g>
      </g>
     </g>
@@ -261,15 +261,15 @@
       <rect x="913.0" y="597.0" width="175.0" height="19.0" style="fill:orange;opacity:0.2;"/>
       <g id="word_1_38" class="word" x_wconf="78">
        <rect x="913.0" y="598.0" width="49.0" height="16.0" style="fill:green;opacity:0.2;"/>
-       <text x="913.0" y="614.0" style="font-size:20.8px;">—1.31</text>
+       <text x="913.0" y="614.0" class="text" style="font-size:20.8px;">—1.31</text>
       </g>
       <g id="word_1_39" class="word" x_wconf="74">
        <rect x="973.0" y="597.0" width="63.0" height="19.0" style="fill:green;opacity:0.2;"/>
-       <text x="973.0" y="610.3" style="font-size:14.615384615384615px;">(—3.54,</text>
+       <text x="973.0" y="610.3" class="text" style="font-size:14.615384615384615px;">(—3.54,</text>
       </g>
       <g id="word_1_40" class="word" x_wconf="96">
        <rect x="1043.0" y="597.0" width="45.0" height="19.0" style="fill:green;opacity:0.2;"/>
-       <text x="1043.0" y="610.3" style="font-size:14.615384615384615px;">0.92)</text>
+       <text x="1043.0" y="610.3" class="text" style="font-size:14.615384615384615px;">0.92)</text>
       </g>
      </g>
     </g>
@@ -281,15 +281,15 @@
       <rect x="913.0" y="680.0" width="175.0" height="20.0" style="fill:orange;opacity:0.2;"/>
       <g id="word_1_41" class="word" x_wconf="69">
        <rect x="913.0" y="681.0" width="52.0" height="16.0" style="fill:green;opacity:0.2;"/>
-       <text x="913.0" y="697.0" style="font-size:20.8px;">—1.25</text>
+       <text x="913.0" y="697.0" class="text" style="font-size:20.8px;">—1.25</text>
       </g>
       <g id="word_1_42" class="word" x_wconf="25">
        <rect x="973.0" y="680.0" width="63.0" height="20.0" style="fill:green;opacity:0.2;stroke-width:3.0;"/>
-       <text x="973.0" y="694.0" style="fill:red;font-size:15.384615384615383px;opacity:0.17500000000000002;">(2.58,</text>
+       <text x="973.0" y="694.0" class="text" style="fill:red;font-size:15.384615384615383px;opacity:0.17500000000000002;">(2.58,</text>
       </g>
       <g id="word_1_43" class="word" x_wconf="95">
        <rect x="1043.0" y="680.0" width="45.0" height="20.0" style="fill:green;opacity:0.2;"/>
-       <text x="1043.0" y="694.0" style="font-size:15.384615384615383px;">0.08)</text>
+       <text x="1043.0" y="694.0" class="text" style="font-size:15.384615384615383px;">0.08)</text>
       </g>
      </g>
     </g>
@@ -301,7 +301,7 @@
       <rect x="1239.0" y="96.0" width="17.0" height="16.0" style="fill:orange;opacity:0.2;"/>
       <g id="word_1_44" class="word" x_wconf="92">
        <rect x="1239.0" y="96.0" width="17.0" height="16.0" style="fill:green;opacity:0.2;"/>
-       <text x="1239.0" y="112.0" style="font-size:20.8px;">%</text>
+       <text x="1239.0" y="112.0" class="text" style="font-size:20.8px;">%</text>
       </g>
      </g>
     </g>
@@ -313,7 +313,7 @@
       <rect x="1239.0" y="179.0" width="69.0" height="21.0" style="fill:orange;opacity:0.2;"/>
       <g id="word_1_45" class="word" x_wconf="96">
        <rect x="1239.0" y="179.0" width="69.0" height="21.0" style="fill:green;opacity:0.2;"/>
-       <text x="1239.0" y="193.7" style="font-size:16.153846153846153px;">Weight</text>
+       <text x="1239.0" y="193.7" class="text" style="font-size:16.153846153846153px;">Weight</text>
       </g>
      </g>
     </g>
@@ -325,7 +325,7 @@
       <rect x="1240.0" y="347.0" width="50.0" height="16.0" style="fill:orange;opacity:0.2;"/>
       <g id="word_1_46" class="word" x_wconf="96">
        <rect x="1240.0" y="347.0" width="50.0" height="16.0" style="fill:green;opacity:0.2;"/>
-       <text x="1240.0" y="363.0" style="font-size:20.8px;">26.65</text>
+       <text x="1240.0" y="363.0" class="text" style="font-size:20.8px;">26.65</text>
       </g>
      </g>
     </g>
@@ -337,7 +337,7 @@
       <rect x="1240.0" y="514.0" width="47.0" height="16.0" style="fill:orange;opacity:0.2;"/>
       <g id="word_1_47" class="word" x_wconf="95">
        <rect x="1240.0" y="514.0" width="47.0" height="16.0" style="fill:green;opacity:0.2;"/>
-       <text x="1240.0" y="530.0" style="font-size:20.8px;">37.21</text>
+       <text x="1240.0" y="530.0" class="text" style="font-size:20.8px;">37.21</text>
       </g>
      </g>
     </g>
@@ -349,7 +349,7 @@
       <rect x="1240.0" y="598.0" width="50.0" height="16.0" style="fill:orange;opacity:0.2;"/>
       <g id="word_1_48" class="word" x_wconf="96">
        <rect x="1240.0" y="598.0" width="50.0" height="16.0" style="fill:green;opacity:0.2;"/>
-       <text x="1240.0" y="614.0" style="font-size:20.8px;">29.02</text>
+       <text x="1240.0" y="614.0" class="text" style="font-size:20.8px;">29.02</text>
       </g>
      </g>
     </g>
@@ -361,7 +361,7 @@
       <rect x="1241.0" y="681.0" width="61.0" height="16.0" style="fill:orange;opacity:0.2;"/>
       <g id="word_1_49" class="word" x_wconf="96">
        <rect x="1241.0" y="681.0" width="61.0" height="16.0" style="fill:green;opacity:0.2;"/>
-       <text x="1241.0" y="697.0" style="font-size:20.8px;">100.00</text>
+       <text x="1241.0" y="697.0" class="text" style="font-size:20.8px;">100.00</text>
       </g>
      </g>
     </g>
@@ -379,7 +379,7 @@
       <rect x="464.0" y="877.0" width="37.0" height="16.0" style="fill:orange;opacity:0.2;"/>
       <g id="word_1_52" class="word" x_wconf="63">
        <rect x="464.0" y="877.0" width="37.0" height="16.0" style="fill:green;opacity:0.2;"/>
-       <text x="464.0" y="893.0" style="font-size:20.8px;">-10</text>
+       <text x="464.0" y="893.0" class="text" style="font-size:20.8px;">-10</text>
       </g>
      </g>
     </g>

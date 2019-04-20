@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg style="font-family:helvetica;font-size:10.0px;" tesseractVersion="tesseract 4.0.0" height="125.0" width="698.0" xmlns="http://www.w3.org/2000/svg">
+ <g class="wordPageList">
+  <g class="wordPage" id="page_1">
+   <g class="wordBlock" id="block_1_1">
+    <g class="para" id="par_1_1">
+     <g id="line_1_1" baseline="(0.0,-10.0)" style="font-size:30.0px;" class="line">
+      <text x="324.0" y="11.0" style="font-size:7.0px;">50.0</text>
+      <rect x="324.0" y="11.0" width="364.0" height="51.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_1" class="word" x_wconf="96">
+       <rect x="324.0" y="12.0" width="134.0" height="41.0" style="fill:green;opacity:0.2;stroke-width:3.0;"/>
+       <text x="324.0" y="42.0" class="text" style="fill:red;font-size:30.0px;opacity:0.672;">World</text>
+      </g>
+      <g id="word_1_2" class="word" x_wconf="96">
+       <rect x="466.0" y="14.0" width="151.0" height="48.0" style="fill:green;opacity:0.2;stroke-width:3.0;"/>
+       <text x="466.0" y="44.0" class="text" style="fill:red;font-size:30.0px;opacity:0.672;">Journal</text>
+      </g>
+      <g id="word_1_3" class="word" x_wconf="96">
+       <rect x="623.0" y="11.0" width="65.0" height="42.0" style="fill:green;opacity:0.2;stroke-width:3.0;"/>
+       <text x="623.0" y="41.0" class="text" style="fill:red;font-size:30.0px;opacity:0.672;">of</text>
+      </g>
+     </g>
+     <g id="line_1_2" baseline="(0.0,-13.0)" style="font-size:30.0px;" class="line">
+      <text x="254.0" y="63.0" style="font-size:7.0px;">52.0</text>
+      <rect x="254.0" y="63.0" width="434.0" height="52.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_4" class="word" x_wconf="96">
+       <rect x="254.0" y="64.0" width="249.0" height="51.0" style="fill:green;opacity:0.2;stroke-width:3.0;"/>
+       <text x="254.0" y="85.0" class="text" style="fill:red;font-size:23.076923076923077px;opacity:0.672;">Emergency</text>
+      </g>
+      <g id="word_1_5" class="word" x_wconf="95">
+       <rect x="515.0" y="63.0" width="173.0" height="52.0" style="fill:green;opacity:0.2;stroke-width:3.0;"/>
+       <text x="515.0" y="84.0" class="text" style="fill:red;font-size:23.076923076923077px;opacity:0.665;">Surgery</text>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
