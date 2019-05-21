@@ -1,0 +1,10 @@
+<template name="spss">
+	<image source="raw.png" split="horizontal" sections="plotA plotB plotC plotD" borders="445 916 1212" extension="png">
+		<image source="raw.plotA.png" split="vertical" sections="table graph" borders="810" extension="png">
+			<image source="raw.plotA.table.png" split="horizontal" sections="header body" borders="53" extension="png">
+			</image>
+			<image source="raw.plotA.graph.png" split="horizontal" sections="header plot footer" borders="53 393" extension="png">
+			</image>
+		</image>
+	</image>
+</template>

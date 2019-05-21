@@ -1,0 +1,38 @@
+<template name="spss">
+	<image source="raw.png" split="horizontal" sections="header plotA plotB plotC plotD summary" borders="56 354 573 818 1037 " extension="png">
+		<image source="raw.header.png" split="vertical" sections="table graph" borders="800" extension="png">
+			<image source="raw.plotA.table.png" split="horizontal" sections="header body" borders="26" extension="png">
+			</image>
+			<image source="raw.plotA.graph.png" split="horizontal" sections="header plot footer" borders="26 393" extension="png">
+			</image>
+		</image>
+		<image source="raw.plotA.png" split="vertical" sections="table graph" borders="800" extension="png">
+			<image source="raw.plotA.table.png" split="horizontal" sections="header body" borders="26" extension="png">
+			</image>
+			<image source="raw.plotA.graph.png" split="horizontal" sections="header plot" borders="26" extension="png">
+			</image>
+		</image>
+		<image source="raw.plotB.png" split="vertical" sections="table graph" borders="800" extension="png">
+			<image source="raw.plotB.table.png" split="horizontal" sections="header body" borders="26" extension="png">
+			</image>
+			<image source="raw.plotB.graph.png" split="horizontal" sections="header plot" borders="26" extension="png">
+			</image>
+		</image>
+		<image source="raw.plotC.png" split="vertical" sections="table graph" borders="800" extension="png">
+			<image source="raw.plotC.table.png" split="horizontal" sections="header body" borders="26" extension="png">
+			</image>
+			<image source="raw.plotC.graph.png" split="horizontal" sections="header plot" borders="26" extension="png">
+			</image>
+		</image>
+		<image source="raw.plotD.png" split="vertical" sections="table graph" borders="800" extension="png">
+			<image source="raw.plotD.table.png" split="horizontal" sections="header body" borders="26" extension="png">
+			</image>
+			<image source="raw.plotD.graph.png" split="horizontal" sections="header plot" borders="26" extension="png">
+			</image>
+		</image>
+		<image source="raw.summary.png" split="vertical" sections="table graph" borders="800" extension="png">
+			<image source="raw.summary.graph.png" split="horizontal" sections="plot footer" borders="80" extension="png">
+			</image>
+		</image>
+	</image>
+</template>
