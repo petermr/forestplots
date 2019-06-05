@@ -1,0 +1,413 @@
+{
+  "id": [
+    "30236132"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30236132"
+  ],
+  "pmcid": [
+    "PMC6148779"
+  ],
+  "doi": [
+    "10.1186/s13018-018-0941-8"
+  ],
+  "title": [
+    "Is minimally invasive superior than open transforaminal lumbar interbody fusion for single-level degenerative lumbar diseases: a meta-analysis."
+  ],
+  "authorString": [
+    "Li A, Li X, Zhong Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li A"
+          ],
+          "firstName": [
+            "Aimin"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Orthopedics, The 5th Central Hospital of Tianjin, Tianjin, 30000, People's Republic of China. chengzou07@sina.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Li X"
+          ],
+          "firstName": [
+            "Xiang"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Orthopedics, The 5th Central Hospital of Tianjin, Tianjin, 30000, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhong Y"
+          ],
+          "firstName": [
+            "Yang"
+          ],
+          "lastName": [
+            "Zhong"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Orthopedics, The 5th Central Hospital of Tianjin, Tianjin, 30000, People's Republic of China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2722485"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of orthopaedic surgery and research"
+          ],
+          "ISOAbbreviation": [
+            "J Orthop Surg Res"
+          ],
+          "medlineAbbreviation": [
+            "J Orthop Surg Res"
+          ],
+          "NLMid": [
+            "101265112"
+          ],
+          "ISSN": [
+            "1749-799X"
+          ],
+          "ESSN": [
+            "1749-799X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "241"
+  ],
+  "abstractText": [
+    "BACKGROUND:In recent years, the minimally invasive transforaminal lumbar interbody fusion (MI-TLIF) is increasingly used to manage the lumbar degenerative disease. However, whether MI-TLIF was superior than open transforaminal lumbar interbody fusion (O-TLIF) was controversial. The aim of this meta-analysis was to compare the clinical outcomes between the MI-TLIF and O-TLIF in single-level degenerative lumbar diseases. METHODS:Two reviewers independently searched EMBASE, PubMed, Web of Science, and Google database from inception to February 2018 for studies comparing the MI-TLIF and O-TLIF approach for single-level lumbar degenerative disease. The data were extracted and analyzed for primary outcomes such as total blood loss, visual analog score (VAS), and other secondary outcomes (length of hospital stay, operation time, fluroscopic time, and Oswestry Disability Index (ODI)). Meta-analysis was performed by Stata 12.0. RESULTS:Seven RCTs were finally included in this meta-analysis. Compared with O-TLIF, MI-TLIF was associated with significantly less blood loss (weighted mean difference (WMD) = - 291.46; 95% confidence interval (CI) - 366.66 to - 216.47; P = 0.000,). There was no significant difference between the length of hospital stay, postoperative VAS, and ODI. Compared with O-TLIF, MI-TLIF was associated with an increase of the fluroscopic time (P < 0.05). CONCLUSION:The MI-TLIF showed significantly less blood loss compared with O-TLIF and more fluroscopic time. There was no significant difference between the length of hospital stay, postoperative VAS, and ODI. More high-quality studies and subsequent meta-analyses are needed in the future."
+  ],
+  "affiliation": [
+    "Department of Orthopedics, The 5th Central Hospital of Tianjin, Tianjin, 30000, People's Republic of China. chengzou07@sina.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "Comparative Study",
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lumbar Vertebrae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SU"
+                  ],
+                  "qualifierName": [
+                    "surgery"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Spinal Fusion"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Randomized Controlled Trials as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Intervertebral Disc Degeneration"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SU"
+                  ],
+                  "qualifierName": [
+                    "surgery"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Minimally Invasive Surgical Procedures"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Minimally invasive",
+        "Transforaminal Lumbar Interbody Fusion",
+        "Single-level",
+        "Degenerative Lumbar Disease"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6148779?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6148779"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13018-018-0941-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-12-11"
+  ],
+  "dateOfCreation": [
+    "2018-09-22"
+  ],
+  "dateOfRevision": [
+    "2018-12-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-20"
+  ],
+  "firstPublicationDate": [
+    "2018-09-20"
+  ]
+}

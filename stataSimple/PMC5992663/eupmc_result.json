@@ -1,0 +1,263 @@
+{
+  "id": [
+    "29880021"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29880021"
+  ],
+  "pmcid": [
+    "PMC5992663"
+  ],
+  "doi": [
+    "10.1186/s13018-018-0794-1"
+  ],
+  "title": [
+    "Oral risedronate increases Gruen zone bone mineral density after primary total hip arthroplasty: a meta-analysis."
+  ],
+  "authorString": [
+    "Li Q, Xu B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li Q"
+          ],
+          "firstName": [
+            "Qifeng"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Graduate school, Tianjin Medical University, No. 22, Qixiangtai road, Heping district, Tianjin, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu B"
+          ],
+          "firstName": [
+            "Baoshan"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of orthopaedics, Tianjin Hospital, 406. No, Jiefangnan Road, Hexi district, Tianjin, 300000, China. drlooking@163.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2691295"
+      ],
+      "dateOfPublication": [
+        "2018 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of orthopaedic surgery and research"
+          ],
+          "ISOAbbreviation": [
+            "J Orthop Surg Res"
+          ],
+          "medlineAbbreviation": [
+            "J Orthop Surg Res"
+          ],
+          "NLMid": [
+            "101265112"
+          ],
+          "ISSN": [
+            "1749-799X"
+          ],
+          "ESSN": [
+            "1749-799X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "144"
+  ],
+  "abstractText": [
+    "This meta-analysis was performed to assess the efficacy of risedronate in increasing bone mineral density (BMD) in patients undergoing primary total hip arthroplasty (THA).We systematically searched the following databases: PubMed, Embase, Web of Science, Cochrane Library, and Chinese Wanfang database from inception up to October 2017. Included patients were prepared for THA and were separated into two groups: intervention group (risedronate treatment) and control group (placebo treatment). BMD change in Gruen zone 1 and 7 were primary outcomes. Meta-analysis was performed using Stata 12.0 software.Five randomized controlled trials (RCTs) involving 259 patients (risedronate group = 127, control group = 132) were finally included in this meta-analysis. Meta-analysis indicated that oral risedronate significantly increased the BMD change in Gruen zone 1. However, there was little clinical significance between the risedronate and control group in terms of the Gruen zones 2, 3, and 7. Oral risedronate significantly increased the Harris hip scores compared with the control group (P < 0.05).Oral risedronate could significantly reduce peri-prosthetic bone resorption around an uncemented femoral stem (Gruen zone 1) after THA. Due to the limited included studies, more high-quality randomized controlled trials (RCTs) were still needed to identify the efficacy of risedronate for bone loss in THA."
+  ],
+  "affiliation": [
+    "Graduate school, Tianjin Medical University, No. 22, Qixiangtai road, Heping district, Tianjin, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Meta-analysis",
+        "Total Hip Arthroplasty",
+        "Risedronate"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5992663?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5992663"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13018-018-0794-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-06-09"
+  ],
+  "dateOfRevision": [
+    "2018-06-22"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-07"
+  ],
+  "firstPublicationDate": [
+    "2018-06-07"
+  ]
+}

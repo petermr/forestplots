@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg style="font-family:helvetica;font-size:10.0px;" tesseractVersion="tesseract 4.0.0" height="129.0" width="697.0" xmlns="http://www.w3.org/2000/svg">
+ <g class="wordPageList">
+  <g class="wordPage" id="page_1">
+   <g class="wordBlock" id="block_1_1">
+    <g class="para" id="par_1_1">
+     <g id="line_1_1" baseline="(0.0,-12.0)" style="font-size:30.0px;" class="line">
+      <text x="173.0" y="11.0" style="font-size:7.0px;">54.0</text>
+      <rect x="173.0" y="11.0" width="514.0" height="54.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_1" class="word" x_wconf="96">
+       <rect x="173.0" y="12.0" width="161.0" height="51.0" style="fill:green;opacity:0.2;stroke-width:3.0;"/>
+       <text x="173.0" y="42.0" class="text" style="fill:red;font-size:30.0px;opacity:0.672;">Journal</text>
+      </g>
+      <g id="word_1_2" class="word" x_wconf="96">
+       <rect x="350.0" y="11.0" width="47.0" height="42.0" style="fill:green;opacity:0.2;stroke-width:3.0;"/>
+       <text x="350.0" y="41.0" class="text" style="fill:red;font-size:30.0px;opacity:0.672;">of</text>
+      </g>
+      <g id="word_1_3" class="word" x_wconf="94">
+       <rect x="407.0" y="12.0" width="280.0" height="53.0" style="fill:green;opacity:0.2;stroke-width:3.0;"/>
+       <text x="407.0" y="33.0" class="text" style="fill:red;font-size:23.076923076923077px;opacity:0.658;">Orthopaedic</text>
+      </g>
+     </g>
+     <g id="line_1_2" baseline="(0.0,-13.0)" style="font-size:30.0px;" class="line">
+      <text x="199.0" y="65.0" style="font-size:7.0px;">54.0</text>
+      <rect x="199.0" y="65.0" width="485.0" height="54.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_4" class="word" x_wconf="95">
+       <rect x="199.0" y="67.0" width="173.0" height="52.0" style="fill:green;opacity:0.2;stroke-width:3.0;"/>
+       <text x="199.0" y="88.0" class="text" style="fill:red;font-size:23.076923076923077px;opacity:0.665;">Surgery</text>
+      </g>
+      <g id="word_1_5" class="word" x_wconf="95">
+       <rect x="383.0" y="65.0" width="83.0" height="41.0" style="fill:green;opacity:0.2;stroke-width:3.0;"/>
+       <text x="383.0" y="95.0" class="text" style="fill:red;font-size:30.0px;opacity:0.665;">and</text>
+      </g>
+      <g id="word_1_6" class="word" x_wconf="96">
+       <rect x="484.0" y="65.0" width="200.0" height="41.0" style="fill:green;opacity:0.2;stroke-width:3.0;"/>
+       <text x="484.0" y="95.0" class="text" style="fill:red;font-size:30.0px;opacity:0.672;">Research</text>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

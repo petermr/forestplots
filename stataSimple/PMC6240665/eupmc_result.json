@@ -1,0 +1,329 @@
+{
+  "id": [
+    "30483205"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30483205"
+  ],
+  "pmcid": [
+    "PMC6240665"
+  ],
+  "doi": [
+    "10.3389/fneur.2018.00909"
+  ],
+  "title": [
+    "Association Between Serum Vitamin D Levels and Parkinson's Disease: A Systematic Review and Meta-Analysis."
+  ],
+  "authorString": [
+    "Luo X, Ou R, Dutta R, Tian Y, Xiong H, Shang H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Luo X"
+          ],
+          "firstName": [
+            "Xiaoyue"
+          ],
+          "lastName": [
+            "Luo"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Neurology, West China Hospital, Sichuan University, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ou R"
+          ],
+          "firstName": [
+            "Ruwei"
+          ],
+          "lastName": [
+            "Ou"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Neurology, West China Hospital, Sichuan University, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Dutta R"
+          ],
+          "firstName": [
+            "Rajib"
+          ],
+          "lastName": [
+            "Dutta"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Neurology, West China Hospital, Sichuan University, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tian Y"
+          ],
+          "firstName": [
+            "Yuan"
+          ],
+          "lastName": [
+            "Tian"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Neurology, West China Hospital, Sichuan University, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xiong H"
+          ],
+          "firstName": [
+            "Hai"
+          ],
+          "lastName": [
+            "Xiong"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Geriatrics, The Fourth Affiliated Hospital of Sichuan University, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shang H"
+          ],
+          "firstName": [
+            "Huifang"
+          ],
+          "lastName": [
+            "Shang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Neurology, West China Hospital, Sichuan University, Chengdu, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2647770"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neurology"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurol"
+          ],
+          "NLMid": [
+            "101546899"
+          ],
+          "ISSN": [
+            "1664-2295"
+          ],
+          "ESSN": [
+            "1664-2295"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "909"
+  ],
+  "abstractText": [
+    "Background: Vitamin D is an important secosteroid which is involved the development and regulation of brain activity. Several studies have focused on exploring the relationship between serum vitamin D levels and Parkinson's disease (PD), but the conclusion remains ambiguous. Methods: We searched observational studies that explored the association between serum vitamin D levels and PD based on PubMed, EMBASE and Cochrane library from inception through to January 2018. The quality of included studies was evaluated by using Newcastle-Ottawa Scale (NOS). Statistical analysis of this meta-analysis was performed by Stata version 12.0 and R software. Results: Twenty studies with a total of 2,866 PD patients and 2,734 controls were included. Compared with controls, PD patients had lower serum vitamin D levels (WMD -3.96, 95%CI -5.00, -2.92), especially in higher latitude regions (WMD -4.20, 95%CI -5.66, -2.75). Assay methods contributed significantly to high heterogeneity. Furthermore, PD patients with deficient vitamin D levels had advanced risk (OR 2.08, 95%CI 1.35, 3.19) than those patients with insufficient ones (OR = 1.73, 95%CI 1.48, 2.03). In addition, serum vitamin D levels were also related to the severity of PD (WMD -5.27, 95%CI -8.14, -2.39) and the summary correlation coefficient showed strongly negative correlation (r = -0.55, 95%CI -0.73, -0.29). Moreover, the pooled correlation coefficient revealed that serum vitamin D levels were also negatively correlated to the Unified Parkinson's Disease Rating Scale III (UPDRS III) (r = -0.36, 95%CI -0.53, -0.16), but did not correlate with the duration of PD (P = 0.37) and age of patients (P = 0.49). Conclusion: Serum vitamin D levels are inversely associated with the risk and severity of PD. Our results provided an updated evidence of association between low vitamin D levels and PD and prompt the adjunctive therapeutic decisions about vitamin D replacement in PD."
+  ],
+  "affiliation": [
+    "Department of Neurology, West China Hospital, Sichuan University, Chengdu, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "systematic-review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Vitamin D",
+        "Meta-analysis",
+        "Parkinson's Disease",
+        "Observational Studies",
+        "Motor Symptom"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6240665?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6240665"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fneur.2018.00909"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-29"
+  ],
+  "dateOfRevision": [
+    "2018-11-28"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-12"
+  ],
+  "firstPublicationDate": [
+    "2018-11-12"
+  ]
+}

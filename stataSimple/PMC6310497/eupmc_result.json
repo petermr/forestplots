@@ -1,0 +1,368 @@
+{
+  "id": [
+    "30544393"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30544393"
+  ],
+  "pmcid": [
+    "PMC6310497"
+  ],
+  "doi": [
+    "10.1097/MD.0000000000013326"
+  ],
+  "title": [
+    "The efficacy of combined adductor canal block with local infiltration analgesia for pain control after total knee arthroplasty: A meta-analysis."
+  ],
+  "authorString": [
+    "Li Y, Li A, Zhang Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Yanan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Anesthesiology, Huaihe Hospital, Henan University, Kaifeng, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li A"
+          ],
+          "firstName": [
+            "Aixiang"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yixuan"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "49"
+      ],
+      "volume": [
+        "97"
+      ],
+      "journalIssueId": [
+        "2760867"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medicine"
+          ],
+          "ISOAbbreviation": [
+            "Medicine (Baltimore)"
+          ],
+          "medlineAbbreviation": [
+            "Medicine (Baltimore)"
+          ],
+          "NLMid": [
+            "2985248R"
+          ],
+          "ISSN": [
+            "0025-7974"
+          ],
+          "ESSN": [
+            "1536-5964"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e13326"
+  ],
+  "abstractText": [
+    "BACKGROUND:This meta-analysis aimed to evaluate the efficiency and safety of the combined adductor canal block (ACB) with local infiltration anesthesia (LIA) versus LIA alone for pain control after total knee arthroplasty (TKA). METHODS:We searched PubMed, Medline, Embase, Web of Science, the Cochrane Library and Google databases from inception to August 2017 to selected studies that comparing the combined ACB with LIA and LIA alone for pain control after TKA. Only randomized controlled trials (RCTs) were included. Outcomes included visual analogue scale (VAS) with rest or mobilization at 8 h, 24 h and 48 h, total morphine consumption at 6 h, 24 h and 48 h, distance walked at 24 h and 48 h and the length of hospital stay. RESULTS:Seven randomized controlled trial (RCTs) were finally included in this meta-analysis. The present meta-analysis indicated that, compared with LIA alone, combined ACB with LIA was associated with a reduction of VAS with rest at 24 h and 48 h and VAS with mobilization at 24 h. Additionally, combined ACB with LIA was associated with an increase of the distance walked at 24 h and a reduction of the length of hospital stay. CONCLUSION:Combined ACB with LIA could significantly reduce pain scores and morphine consumption compared LIA alone after TKA. Further multimodal large sample RCTs are needed to identify the optimal drug of ACB and LIA."
+  ],
+  "affiliation": [
+    "Department of Anesthesiology, Huaihe Hospital, Henan University, Kaifeng, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain, Postoperative"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Analgesia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Arthroplasty, Replacement, Knee"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Randomized Controlled Trials as Topic"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "AIM"
+          ],
+          "name": [
+            "Core clinical journals"
+          ]
+        },
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6310497?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6310497"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1097/MD.0000000000013326"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-12-27"
+  ],
+  "dateOfCreation": [
+    "2018-12-15"
+  ],
+  "dateOfRevision": [
+    "2019-01-15"
+  ],
+  "firstPublicationDate": [
+    "2018-12-01"
+  ]
+}

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg style="font-family:helvetica;font-size:10.0px;" tesseractVersion="tesseract 4.0.0" height="787.0" width="1191.0" xmlns="http://www.w3.org/2000/svg">
+ <g class="wordPageList">
+  <g class="wordPage" id="page_1">
+   <g class="wordBlock" id="block_1_1">
+    <g class="para" id="par_1_1">
+     <g id="line_1_1" textangle="90.0" style="font-size:30.0px;" class="line">
+      <text x="1.0" y="264.0" style="font-size:7.0px;">26.3</text>
+      <rect x="1.0" y="264.0" width="21.0" height="223.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_1" class="word" x_wconf="96">
+       <rect x="1.0" y="338.0" width="21.0" height="149.0" style="fill:green;opacity:0.2;stroke-width:3.0;"/>
+       <text x="1.0" y="368.0" class="text" style="fill:red;font-size:30.0px;opacity:0.672;">standardized</text>
+      </g>
+      <g id="word_1_2" class="word" x_wconf="96">
+       <rect x="1.0" y="264.0" width="21.0" height="66.0" style="fill:green;opacity:0.2;stroke-width:3.0;"/>
+       <text x="1.0" y="294.0" class="text" style="fill:red;font-size:30.0px;opacity:0.672;">effect</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_2">
+    <g class="para" id="par_1_2">
+     <g id="line_1_2" baseline="(0.0,-6.0)" style="font-size:30.0px;" class="line">
+      <text x="109.0" y="1.0" style="font-size:7.0px;">27.0</text>
+      <rect x="109.0" y="1.0" width="327.0" height="27.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_3" class="word" x_wconf="89">
+       <rect x="109.0" y="2.0" width="82.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="109.0" y="20.2" class="text" style="font-size:20.0px;">Egger’s</text>
+      </g>
+      <g id="word_1_4" class="word" x_wconf="96">
+       <rect x="200.0" y="1.0" width="129.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="200.0" y="19.2" class="text" style="font-size:20.0px;">publication</text>
+      </g>
+      <g id="word_1_5" class="word" x_wconf="96">
+       <rect x="339.0" y="1.0" width="44.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="339.0" y="22.0" class="text" style="font-size:21.0px;">bias</text>
+      </g>
+      <g id="word_1_6" class="word" x_wconf="96">
+       <rect x="392.0" y="1.0" width="44.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="392.0" y="19.2" class="text" style="font-size:20.0px;">plot</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_3">
+    <g class="para" id="par_1_3">
+     <g id="line_1_3" baseline="(0.0,0.0)" style="font-size:30.0px;" class="line">
+      <text x="129.0" y="69.0" style="font-size:7.0px;">307.0</text>
+      <rect x="129.0" y="69.0" width="5.0" height="614.0" style="fill:orange;opacity:0.2;"/>
+      <g class="word" id="word_1_7"/>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_4">
+    <g class="para" id="par_1_4">
+     <g id="line_1_4" baseline="(0.0,0.0)" style="font-size:30.0px;" class="line">
+      <text x="104.0" y="46.0" style="font-size:7.0px;">330.0</text>
+      <rect x="104.0" y="46.0" width="5.0" height="660.0" style="fill:orange;opacity:0.2;"/>
+      <g class="word" id="word_1_8"/>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_5">
+    <g class="para" id="par_1_5">
+     <g id="line_1_5" baseline="(0.0,0.0)" style="font-size:14.0px;" class="line">
+      <text x="107.0" y="703.0" style="font-size:7.0px;">3.5</text>
+      <rect x="107.0" y="703.0" width="1074.0" height="7.0" style="fill:orange;opacity:0.2;"/>
+      <g class="word" id="word_1_9"/>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_6">
+    <g class="para" id="par_1_6">
+     <g id="line_1_6" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="592.0" y="752.0" style="font-size:7.0px;">25.0</text>
+      <rect x="592.0" y="752.0" width="103.0" height="25.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_10" class="word" x_wconf="96">
+       <rect x="592.0" y="752.0" width="103.0" height="25.0" style="fill:green;opacity:0.2;"/>
+       <text x="592.0" y="769.5" class="text" style="font-size:19.23076923076923px;">precision</text>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
