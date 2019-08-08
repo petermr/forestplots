@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg style="font-family:helvetica;font-size:10.0px;" tesseractVersion="tesseract 3.05.02" height="98.0" width="247.0" xmlns="http://www.w3.org/2000/svg">
+ <g class="wordPageList">
+  <g class="wordPage" id="page_1">
+   <g class="wordBlock" id="block_1_1">
+    <g class="para" id="par_1_1">
+     <g id="line_1_1" baseline="(0.0,0.0)" style="font-size:24.0px;" class="line">
+      <rect x="90.0" y="21.0" width="97.0" height="24.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_1" class="word" x_wconf="82">
+       <rect x="90.0" y="21.0" width="97.0" height="24.0" style="fill:green;opacity:0.2;"/>
+       <text x="90.0" y="45.0" class="text" style="font-size:24.0px;">Others</text>
+      </g>
+     </g>
+     <g id="line_1_2" baseline="(0.0,0.0)" style="font-size:24.0px;" class="line">
+      <rect x="90.0" y="64.0" width="147.0" height="24.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_2" class="word" x_wconf="92">
+       <rect x="90.0" y="64.0" width="41.0" height="24.0" style="fill:green;opacity:0.2;"/>
+       <text x="90.0" y="88.0" class="text" style="font-size:24.0px;">Qu</text>
+      </g>
+      <g id="word_1_3" class="word" x_wconf="61">
+       <rect x="143.0" y="64.0" width="94.0" height="24.0" style="fill:green;opacity:0.2;"/>
+       <text x="143.0" y="80.8" class="text" style="font-size:18.46153846153846px;">(2016}</text>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <line x1="131.0" y1="0.0" x2="131.0" y2="98.0" style="opacity:0.5;stroke:red;stroke-width:0.2;"/>
+ <line x1="187.0" y1="0.0" x2="187.0" y2="98.0" style="opacity:0.5;stroke:red;stroke-width:0.2;"/>
+ <line x1="237.0" y1="0.0" x2="237.0" y2="98.0" style="opacity:0.5;stroke:red;stroke-width:0.2;"/>
+ <line x1="90.0" y1="0.0" x2="90.0" y2="98.0" style="opacity:0.5;stroke:magenta;stroke-width:0.4;"/>
+ <line x1="143.0" y1="0.0" x2="143.0" y2="98.0" style="opacity:0.5;stroke:magenta;stroke-width:0.2;"/>
+ <line x1="0.0" y1="64.0" x2="247.0" y2="64.0" style="opacity:0.5;stroke:green;stroke-width:0.4;"/>
+ <line x1="0.0" y1="21.0" x2="247.0" y2="21.0" style="opacity:0.5;stroke:green;stroke-width:0.2;"/>
+ <line x1="0.0" y1="88.0" x2="247.0" y2="88.0" style="opacity:0.5;stroke:blue;stroke-width:0.4;"/>
+ <line x1="0.0" y1="45.0" x2="247.0" y2="45.0" style="opacity:0.5;stroke:blue;stroke-width:0.2;"/>
+</svg>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div id="Tab3" class="table-wrap" xmlns="http://www.w3.org/1999/xhtml">
+ <span class="label">Table 3</span>
+ <div class="caption">
+  <p>Dias model analysis for inconsistency of network meta-analysis.</p>
+ </div>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="2">Outcome</th>
+    <th align="left" rowspan="2">Comparsion</th>
+    <th align="left" colspan="2">Direct</th>
+    <th align="left" colspan="2">Indirect</th>
+    <th align="left" colspan="2">Difference</th>
+    <th align="left" rowspan="2">P &gt; |z|</th>
+   </tr>
+   <tr>
+    <th align="left">Coef.</th>
+    <th align="left">Std. Err.</th>
+    <th align="left">Coef.</th>
+    <th align="left">Std. Err.</th>
+    <th align="left">Coef.</th>
+    <th align="left">Std. Err.</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="3">Retear rate</td>
+    <td>SR vs DR</td>
+    <td>−0.53</td>
+    <td>0.27</td>
+    <td>−0.11</td>
+    <td>0.96</td>
+    <td>−0.42</td>
+    <td>0.99</td>
+    <td>0.675</td>
+   </tr>
+   <tr>
+    <td>SR vs SB</td>
+    <td>−0.70</td>
+    <td>0.40</td>
+    <td>−1.77</td>
+    <td>0.75</td>
+    <td>1.08</td>
+    <td>0.85</td>
+    <td>0.203</td>
+   </tr>
+   <tr>
+    <td>DR vs SB</td>
+    <td>−1.13</td>
+    <td>0.50</td>
+    <td>0.13</td>
+    <td>0.48</td>
+    <td>−1.16</td>
+    <td>0.69</td>
+    <td>0.071</td>
+   </tr>
+   <tr>
+    <td rowspan="3">Constant score</td>
+    <td>SR vs DR</td>
+    <td>−0.06</td>
+    <td>1.38</td>
+    <td>2.98</td>
+    <td>2.80</td>
+    <td>−3.05</td>
+    <td>3.12</td>
+    <td>0.328</td>
+   </tr>
+   <tr>
+    <td>SR vs SB</td>
+    <td>0.50</td>
+    <td>1.71</td>
+    <td>−3.26</td>
+    <td>2.64</td>
+    <td>3.76</td>
+    <td>3.14</td>
+    <td>0.231</td>
+   </tr>
+   <tr>
+    <td>DR vs SB</td>
+    <td>−2.67</td>
+    <td>2.03</td>
+    <td>0.69</td>
+    <td>2.25</td>
+    <td>−3.35</td>
+    <td>3.03</td>
+    <td>0.268</td>
+   </tr>
+   <tr>
+    <td rowspan="3">External rotation</td>
+    <td>SR vs DR</td>
+    <td>−1.45</td>
+    <td>3.87</td>
+    <td>6.59</td>
+    <td>10.04</td>
+    <td>−8.04</td>
+    <td>10.76</td>
+    <td>0.455</td>
+   </tr>
+   <tr>
+    <td>SR vs SB</td>
+    <td>1</td>
+    <td>6.93</td>
+    <td>−7.04</td>
+    <td>8.24</td>
+    <td>8.04</td>
+    <td>10.76</td>
+    <td>0.455</td>
+   </tr>
+   <tr>
+    <td>DR vs SB</td>
+    <td>−5.59</td>
+    <td>7.27</td>
+    <td>2.45</td>
+    <td>7.94</td>
+    <td>−8.04</td>
+    <td>10.76</td>
+    <td>0.455</td>
+   </tr>
+   <tr>
+    <td rowspan="3">Forward flexion</td>
+    <td>SR vs DR</td>
+    <td>−0.32</td>
+    <td>3.83</td>
+    <td>−0.89</td>
+    <td>11.83</td>
+    <td>0.57</td>
+    <td>12.44</td>
+    <td>0.964</td>
+   </tr>
+   <tr>
+    <td>SR vs SB</td>
+    <td>−2.00</td>
+    <td>8.51</td>
+    <td>−1.43</td>
+    <td>9.07</td>
+    <td>−0.57</td>
+    <td>12.44</td>
+    <td>0.963</td>
+   </tr>
+   <tr>
+    <td>DR vs SB</td>
+    <td>−1.11</td>
+    <td>8.22</td>
+    <td>−1.68</td>
+    <td>9.34</td>
+    <td>0.57</td>
+    <td>12.44</td>
+    <td>0.964</td>
+   </tr>
+  </tbody>
+ </table>
+ <div class="table-wrap-foot">
+  <p>SR: Single-Row Repair; DR: Double-Row Repair; SB: Suture Bridge Repair.</p>
+ </div>
+</div>

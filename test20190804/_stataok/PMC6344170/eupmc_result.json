@@ -1,0 +1,665 @@
+{
+  "id": [
+    "30608381"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30608381"
+  ],
+  "pmcid": [
+    "PMC6344170"
+  ],
+  "doi": [
+    "10.1097/MD.0000000000013382"
+  ],
+  "title": [
+    "Anterior decompression and fusion versus laminoplasty for cervical myelopathy due to ossification of posterior longitudinal ligament: A meta-analysis."
+  ],
+  "authorString": [
+    "Chen TP, Qian LG, Jiao JB, Li QG, Sun B, Chen K, Wang YF, Liang ZX, Chen YM, Meng J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen TP"
+          ],
+          "firstName": [
+            "Tao-Ping"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "TP"
+          ],
+          "affiliation": [
+            "Department of Orthopaedic, Affiliated Hospital of Hebei University."
+          ]
+        },
+        {
+          "fullName": [
+            "Qian LG"
+          ],
+          "firstName": [
+            "Li-Gang"
+          ],
+          "lastName": [
+            "Qian"
+          ],
+          "initials": [
+            "LG"
+          ],
+          "affiliation": [
+            "Department of Orthopaedic, Affiliated Hospital of Hebei University."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiao JB"
+          ],
+          "firstName": [
+            "Jian-Bao"
+          ],
+          "lastName": [
+            "Jiao"
+          ],
+          "initials": [
+            "JB"
+          ],
+          "affiliation": [
+            "Department of Orthopaedic, Affiliated Hospital of Hebei University."
+          ]
+        },
+        {
+          "fullName": [
+            "Li QG"
+          ],
+          "firstName": [
+            "Qing-Gui"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "QG"
+          ],
+          "affiliation": [
+            "Department of Orthopaedic, Affiliated Hospital of Hebei University."
+          ]
+        },
+        {
+          "fullName": [
+            "Sun B"
+          ],
+          "firstName": [
+            "Bo"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Orthopaedic, Affiliated Hospital of Hebei University."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen K"
+          ],
+          "firstName": [
+            "Kang"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Orthopaedic, Affiliated Hospital of Hebei University."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang YF"
+          ],
+          "firstName": [
+            "Yun-Fei"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "YF"
+          ],
+          "affiliation": [
+            "Department of Orthopaedic, Affiliated Hospital of Hebei University."
+          ]
+        },
+        {
+          "fullName": [
+            "Liang ZX"
+          ],
+          "firstName": [
+            "Zhi-Xing"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "ZX"
+          ],
+          "affiliation": [
+            "Department of Orthopaedic, Affiliated Hospital of Hebei University."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen YM"
+          ],
+          "firstName": [
+            "Yu-Min"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "YM"
+          ],
+          "affiliation": [
+            "Hebei University, No. 405, Wusidong Road, Baoding, Hebei Province, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Meng J"
+          ],
+          "firstName": [
+            "Jie"
+          ],
+          "lastName": [
+            "Meng"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Orthopaedic, Affiliated Hospital of Hebei University."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "98"
+      ],
+      "journalIssueId": [
+        "2766793"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medicine"
+          ],
+          "ISOAbbreviation": [
+            "Medicine (Baltimore)"
+          ],
+          "medlineAbbreviation": [
+            "Medicine (Baltimore)"
+          ],
+          "NLMid": [
+            "2985248R"
+          ],
+          "ISSN": [
+            "0025-7974"
+          ],
+          "ESSN": [
+            "1536-5964"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e13382"
+  ],
+  "abstractText": [
+    "BACKGROUND:Both anterior decompression and fusion (ADF) and laminoplasty (LAMP) are frequently used for the treatment of cervical myelopathy due to ossification of the posterior longitudinal ligament (OPLL). However, some controversies still remained in surgical options. We investigated whether ADF had better neurological outcome than LAMP in the treatment of cervical myelopathy due to OPLL. Secondary outcomes included operation time, blood loss, rate of complication and reoperation. METHODS:PubMed, EMBASE and the Cochrane Register of Controlled Trials database were searched to identify potential clinical studies compared ADF with LAMP for treatment of cervical myelopathy owing to OPLL. We also manually searched the reference lists of articles and reviews for possible relevant studies. Quality assessment was performed according to Cochrane Handbook and meta-analysis was conducted using Stata 12.0 software. RESULTS:Nine studies involving 712 patients were finally included in this analysis. Compared with LAMP, ADF was associated with an increase of the Japanese Orthopaedic Association (JOA) score (WMD = 1.86, 95% CI 0.43 to 3.29, P = .011) and recovery JOA score at final follow-up (WMD = 30.94, 95% CI 20.56 to 41.33, P = .000). And, ADF was associated with a decrease of the late neurologic deterioration than LAMP group (RR = 0.34, 95% CI 0.12 to 0.92, P = .003). However, ADF was associated with an increase of the postoperative cervical lordosis (WMD = 4.47, 95% CI 1.58 to 7.36, P = .002) than LAMP. There was no significant difference between the complication, reoperation rate (P > .05). What's more, ADF was associated with an increase of the operation time than LAMP (P < .05). CONCLUSIONS:ADF yields better neurological improvement, but higher cervical lordosis and longer operation time compared with LAMP for cervical myelopathy caused by OPLL. No significant difference was found in the complication and re-operation rate."
+  ],
+  "affiliation": [
+    "Department of Orthopaedic, Affiliated Hospital of Hebei University."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "Comparative Study",
+        "Systematic Review",
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cervical Vertebrae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SU"
+                  ],
+                  "qualifierName": [
+                    "surgery"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ossification of Posterior Longitudinal Ligament"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Spinal Cord Compression"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SU"
+                  ],
+                  "qualifierName": [
+                    "surgery"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Postoperative Complications"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Decompression, Surgical"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Spinal Fusion"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Operative Time"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Laminoplasty"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "AIM"
+          ],
+          "name": [
+            "Core clinical journals"
+          ]
+        },
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6344170?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6344170"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1097/MD.0000000000013382"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-11"
+  ],
+  "dateOfCreation": [
+    "2019-01-05"
+  ],
+  "firstIndexDate": [
+    "2019-01-05"
+  ],
+  "dateOfRevision": [
+    "2019-02-05"
+  ],
+  "firstPublicationDate": [
+    "2019-01-01"
+  ]
+}

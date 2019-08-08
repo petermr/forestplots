@@ -1,0 +1,455 @@
+{
+  "id": [
+    "30808382"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30808382"
+  ],
+  "pmcid": [
+    "PMC6390312"
+  ],
+  "doi": [
+    "10.1186/s13018-019-1095-z"
+  ],
+  "title": [
+    "Direct anterior versus lateral approaches for clinical outcomes after total hip arthroplasty: a meta-analysis."
+  ],
+  "authorString": [
+    "Wang Z, Bao HW, Hou JZ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang Z"
+          ],
+          "firstName": [
+            "Zhao"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Orthopaedics, Jingjiang People's Hospital, 28 No, Zhongzhou Road, Jingjiang, Taizhou City, 214500, Jiangsu Province, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Bao HW"
+          ],
+          "firstName": [
+            "Hong-Wei"
+          ],
+          "lastName": [
+            "Bao"
+          ],
+          "initials": [
+            "HW"
+          ],
+          "affiliation": [
+            "Department of Orthopaedics, Jingjiang People's Hospital, 28 No, Zhongzhou Road, Jingjiang, Taizhou City, 214500, Jiangsu Province, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hou JZ"
+          ],
+          "firstName": [
+            "Jing-Zhao"
+          ],
+          "lastName": [
+            "Hou"
+          ],
+          "initials": [
+            "JZ"
+          ],
+          "affiliation": [
+            "Department of Orthopaedics, Jingjiang People's Hospital, 28 No, Zhongzhou Road, Jingjiang, Taizhou City, 214500, Jiangsu Province, China. 3365278929@qq.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2776842"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of orthopaedic surgery and research"
+          ],
+          "ISOAbbreviation": [
+            "J Orthop Surg Res"
+          ],
+          "medlineAbbreviation": [
+            "J Orthop Surg Res"
+          ],
+          "NLMid": [
+            "101265112"
+          ],
+          "ISSN": [
+            "1749-799X"
+          ],
+          "ESSN": [
+            "1749-799X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "63"
+  ],
+  "abstractText": [
+    "OBJECTIVE:To compare the outcomes of the direct anterior approach (DAA) with the lateral approach (LA) for total hip arthroplasty (THA) patients. METHODS:Three English databases, PubMed, Embase, and the Cochrane Library, were searched for randomized controlled trials (RCTs) comparing the DAA with LA for THA. Information on the country, sample size, intervention, outcomes, and follow-up were extracted. Meta-analysis was performed using Stata 12.0. RESULTS:Five RCTs totaling 475 patients (DAA = 236, LA = 239) were included in this meta-analysis. Compared with the LA, the DAA was associated with a reduction in the VAS at 6 weeks (weighted mean difference (WMD) = - 0.41, 95% confidence interval (CI) - 0.63 to - 0.19, P = 0.000) and total blood loss for THA patients (WMD = - 45.73, 95% CI - 84.72 to - 6.02, P = 0.024). Moreover, the DAA was associated with an increase in walking velocity (WMD = 5.01, 95% CI 2.32 to 7.70, P = 0.000), stride length (WMD = 3.12, 95% CI 2.42 to 3.82, P = 0.000), and step length (WMD = 4.09, 95% CI 1.03 to 7.14, P = 0.009) compared with the LA group. There was no significant difference between groups in the Harris hip score, operation time, transfusion rate, length of hospital stay, and the occurrence of complications. CONCLUSION:Current evidence demonstrated a trend showing that the DAA had a better effect on pain relief and blood-saving effects for THA patients. However, considering the number and sample size of the included trials, more large-scale RCTs with high quality are needed to confirm our conclusion."
+  ],
+  "affiliation": [
+    "Department of Orthopaedics, Jingjiang People's Hospital, 28 No, Zhongzhou Road, Jingjiang, Taizhou City, 214500, Jiangsu Province, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "Comparative Study",
+        "Systematic Review",
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain, Postoperative"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Length of Stay"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TD"
+                  ],
+                  "qualifierName": [
+                    "trends"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Arthroplasty, Replacement, Hip"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TD"
+                  ],
+                  "qualifierName": [
+                    "trends"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Randomized Controlled Trials as Topic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Operative Time"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Meta-analysis",
+        "Anterior Approach",
+        "Total Hip Arthroplasty",
+        "Lateral Approach"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6390312?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6390312"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13018-019-1095-z"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-06-17"
+  ],
+  "dateOfCreation": [
+    "2019-02-28"
+  ],
+  "firstIndexDate": [
+    "2019-02-28"
+  ],
+  "dateOfRevision": [
+    "2019-06-17"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-26"
+  ],
+  "firstPublicationDate": [
+    "2019-02-26"
+  ]
+}

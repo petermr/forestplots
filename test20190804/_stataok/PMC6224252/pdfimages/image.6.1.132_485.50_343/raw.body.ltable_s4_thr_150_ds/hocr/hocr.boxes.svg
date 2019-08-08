@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg style="font-family:helvetica;font-size:10.0px;" tesseractVersion="tesseract 3.05.02" height="114.0" width="222.0" xmlns="http://www.w3.org/2000/svg">
+ <g class="wordPageList">
+  <g class="wordPage" id="page_1">
+   <g class="wordBlock" id="block_1_1">
+    <g class="para" id="par_1_1">
+     <g id="line_1_1" baseline="(0.0,0.0)" style="font-size:22.0px;" class="line">
+      <rect x="82.0" y="26.0" width="70.0" height="22.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_1" class="word" x_wconf="85">
+       <rect x="82.0" y="26.0" width="70.0" height="22.0" style="fill:green;opacity:0.2;"/>
+       <text x="82.0" y="48.0" class="text" style="font-size:22.0px;">Asian</text>
+      </g>
+     </g>
+     <g id="line_1_2" baseline="(-0.008,-5.0)" style="font-size:28.0px;" class="line">
+      <rect x="84.0" y="76.0" width="128.0" height="28.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_2" class="word" x_wconf="82">
+       <rect x="84.0" y="76.0" width="35.0" height="23.0" style="fill:green;opacity:0.2;"/>
+       <text x="84.0" y="99.0" class="text" style="font-size:23.0px;">Qu</text>
+      </g>
+      <g id="word_1_3" class="word" x_wconf="86">
+       <rect x="131.0" y="76.0" width="81.0" height="28.0" style="fill:green;opacity:0.2;"/>
+       <text x="131.0" y="95.6" class="text" style="font-size:21.538461538461537px;">(2016)</text>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <line x1="152.0" y1="0.0" x2="152.0" y2="114.0" style="opacity:0.5;stroke:red;stroke-width:0.2;"/>
+ <line x1="212.0" y1="0.0" x2="212.0" y2="114.0" style="opacity:0.5;stroke:red;stroke-width:0.2;"/>
+ <line x1="119.0" y1="0.0" x2="119.0" y2="114.0" style="opacity:0.5;stroke:red;stroke-width:0.2;"/>
+ <line x1="131.0" y1="0.0" x2="131.0" y2="114.0" style="opacity:0.5;stroke:magenta;stroke-width:0.2;"/>
+ <line x1="82.0" y1="0.0" x2="82.0" y2="114.0" style="opacity:0.5;stroke:magenta;stroke-width:0.2;"/>
+ <line x1="84.0" y1="0.0" x2="84.0" y2="114.0" style="opacity:0.5;stroke:magenta;stroke-width:0.2;"/>
+ <line x1="0.0" y1="76.0" x2="222.0" y2="76.0" style="opacity:0.5;stroke:green;stroke-width:0.4;"/>
+ <line x1="0.0" y1="26.0" x2="222.0" y2="26.0" style="opacity:0.5;stroke:green;stroke-width:0.2;"/>
+ <line x1="0.0" y1="48.0" x2="222.0" y2="48.0" style="opacity:0.5;stroke:blue;stroke-width:0.2;"/>
+ <line x1="0.0" y1="99.0" x2="222.0" y2="99.0" style="opacity:0.5;stroke:blue;stroke-width:0.2;"/>
+ <line x1="0.0" y1="104.0" x2="222.0" y2="104.0" style="opacity:0.5;stroke:blue;stroke-width:0.2;"/>
+</svg>

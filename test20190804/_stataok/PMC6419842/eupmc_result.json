@@ -1,0 +1,431 @@
+{
+  "id": [
+    "30876465"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30876465"
+  ],
+  "pmcid": [
+    "PMC6419842"
+  ],
+  "doi": [
+    "10.1186/s12957-019-1591-y"
+  ],
+  "title": [
+    "Association between tea and coffee consumption and brain cancer risk: an updated meta-analysis."
+  ],
+  "authorString": [
+    "Song Y, Wang Z, Jin Y, Guo J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Song Y"
+          ],
+          "firstName": [
+            "Yang"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Neurology, Tianjin First Center Hospital, No. 24, Fukang Road, Nankai District, Tianjin, 300192, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Z"
+          ],
+          "firstName": [
+            "Zhiyun"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Neurology, Tianjin First Center Hospital, No. 24, Fukang Road, Nankai District, Tianjin, 300192, China. wang__zhy@yeah.net."
+          ]
+        },
+        {
+          "fullName": [
+            "Jin Y"
+          ],
+          "firstName": [
+            "Yanyu"
+          ],
+          "lastName": [
+            "Jin"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of General Surgery, Tianjin First Center Hospital, Tianjin, 300192, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Guo J"
+          ],
+          "firstName": [
+            "Jie"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Neurology, Tianjin First Center Hospital, No. 24, Fukang Road, Nankai District, Tianjin, 300192, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2787867"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "World journal of surgical oncology"
+          ],
+          "ISOAbbreviation": [
+            "World J Surg Oncol"
+          ],
+          "medlineAbbreviation": [
+            "World J Surg Oncol"
+          ],
+          "NLMid": [
+            "101170544"
+          ],
+          "ISSN": [
+            "1477-7819"
+          ],
+          "ESSN": [
+            "1477-7819"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "51"
+  ],
+  "abstractText": [
+    "BACKGROUND:Previous studies had demonstrated some associations between coffee and tea consumption and brain cancer risk resulted in an inconsistent relationship. We therefore performed this study to further explore the association between them. METHOD:By searching PubMed, Embase, and Web of Science, we retrieved up to 1 November 2018, 11 relevant literature of publications were collected by 2 people eventually. Stata 14.0 software was used for data analysis. RESULTS:In total, 11 articles (11 articles for coffee, 8 articles for tea, and 4 articles for coffee plus tea) were used in this meta-analysis. A statistically significant protective effect of coffee consumption and brain cancer risk was found (RR = 0.785, 95% CI = 0.580-0.984, I2 = 65.6%, P for heterogeneity = 0.001), especially in Asian populations (RR = 0.217, 95% CI = 0.042-0.896). However, the association between the risk of brain cancer and tea consumption was non-significant in the whole result (RR = 0.897, 95% CI = 0.739-1.088, I2 = 29.9%, P for heterogeneity = 0.189), but significant in American populations (RR = 0.798, 95% CI = 0.646-0.986). Interestingly, the RR was 0.684 (95% CI = 0.481-0.975) for the risk of brain cancer when compared the highest versus the lowest category consumption of coffee plus tea. CONCLUSION:Findings from this study suggested that higher consumption of coffee may contribute to the lower development of brain cancer in Asian populations. Tea consumption had an inverse association for the risk of brain cancer in American populations, instead of other populations."
+  ],
+  "affiliation": [
+    "Department of Neurology, Tianjin First Center Hospital, No. 24, Fukang Road, Nankai District, Tianjin, 300192, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prognosis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Drinking"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Coffee"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Tea"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Tea",
+        "Glioma",
+        "Meta-analysis",
+        "Brain cancer",
+        "Coffee"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Tea"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Coffee"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6419842?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6419842"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12957-019-1591-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-04-16"
+  ],
+  "dateOfCreation": [
+    "2019-03-17"
+  ],
+  "firstIndexDate": [
+    "2019-03-17"
+  ],
+  "dateOfRevision": [
+    "2019-04-16"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-15"
+  ],
+  "firstPublicationDate": [
+    "2019-03-15"
+  ]
+}

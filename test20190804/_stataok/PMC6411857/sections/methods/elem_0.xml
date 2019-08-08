@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sec id="Sec2" class="sec">
+ <div class="title" xmlns="http://www.w3.org/1999/xhtml">Methods</div>
+ <p id="Par5" xmlns="http://www.w3.org/1999/xhtml">This systematic review was designed and performed with an a priori protocol (PROSPERO 42017071720) established according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement for network meta-analyses and systematic reviews for healthcare interventions
+  <span class="sup">
+   <a ref-type="bibr" rid="CR17" href="#CR17">17</a>
+  </span>.
+ </p>
+ <sec id="Sec3" class="sec">
+  <div class="title" xmlns="http://www.w3.org/1999/xhtml">Data sources and searches</div>
+  <p id="Par6" xmlns="http://www.w3.org/1999/xhtml">The PUBMED (from Jan 1980 to May 2018), Cochrane Register of Controlled Trials (May 2018), EMBASE (from Jan 1980 to May 2018) and Scopus (May 2018) databases were searched. All related studies on the efficacy and safety of SR repair, DR repair and SB repair based on the following search terms were collected: (rotator cuff tear) AND (therapy OR surgery OR treatment OR complications OR adverse effect) AND clinical trial; (Rotator Cuff Injuries/adverse effect [Mesh] OR Rotator Cuff Injuries/surgery [Mesh] OR Rotator Cuff Injuries/treatment [Mesh]) AND clinical trial[ptyp].</p>
+ </sec>
+ <sec id="Sec4" class="sec">
+  <div class="title" xmlns="http://www.w3.org/1999/xhtml">Inclusion and exclusion criteria</div>
+  <p id="Par7" xmlns="http://www.w3.org/1999/xhtml">The inclusion criteria were as follows: (1) patients were diagnosed with rotator cuff tears; (2) the interventions included SR repair, DR repair and SB repair; and (3) the studies were RCTs or retrospective or prospective comparative trials.</p>
+  <p id="Par8" xmlns="http://www.w3.org/1999/xhtml">The exclusion criteria were as follows: (1) patients with fractures, secondary surgeries, dislocations and other diseases that affect the function of the shoulder; (2) interventions including conventional open or mini-open repair techniques; and (3) case reports.</p>
+ </sec>
+ <sec id="Sec5" class="sec">
+  <div class="title" xmlns="http://www.w3.org/1999/xhtml">Data extraction and quality assessments</div>
+  <p id="Par9" xmlns="http://www.w3.org/1999/xhtml">The country, study design, patient sample size, different interventions and lengths of follow-up of the included studies were collected. Additionally, the primary outcomes were the retear rate, constant score, external rotation and forward flexion. Two researchers extracted the above data independently, and disagreements were resolved by discussion.</p>
+  <p id="Par10" xmlns="http://www.w3.org/1999/xhtml">The Cochrane Collaboration tool
+   <span class="sup">
+    <a ref-type="bibr" rid="CR18" href="#CR18">18</a>
+   </span> was used to assess the risk of bias for the RCTs, and the Newcastle-Ottawa Scale
+   <span class="sup">
+    <a ref-type="bibr" rid="CR19" href="#CR19">19</a>
+   </span> was used to judge the quality of prospective and retrospective comparative trials. For RCTs, data were obtained regarding random generation, allocation concealment, blinding of the outcomes, incomplete outcomes, selective reporting and other biases
+   <span class="sup">
+    <a ref-type="bibr" rid="CR18" href="#CR18">18</a>
+   </span>. For case-control studies, selection, comparability and exposure were obtained. A total score based on the Newcastle-Ottawa Scale was calculated as presented in Table 
+   <a rid="MOESM1" ref-type="media" href="#MOESM1">S1</a>
+   <span class="sup">
+    <a ref-type="bibr" rid="CR19" href="#CR19">19</a>
+   </span>.
+  </p>
+ </sec>
+ <sec id="Sec6" class="sec">
+  <div class="title" xmlns="http://www.w3.org/1999/xhtml">Outcome assessment</div>
+  <p id="Par11" xmlns="http://www.w3.org/1999/xhtml">The primary outcome for analysis was the retear rate. The secondary outcome measures included the constant score and the range of shoulder motion (external rotation and forward flexion).</p>
+ </sec>
+ <sec id="Sec7" class="sec">
+  <div class="title" xmlns="http://www.w3.org/1999/xhtml">Data synthesis and statistical analysis</div>
+  <p id="Par12" xmlns="http://www.w3.org/1999/xhtml">Conventional meta-analyses were performed for all primary and secondary outcomes using a random effects model with Stata software (version 13.0). The pooled estimates of the odds ratios (ORs) or standardized mean differences (MDs) and 95% confidence intervals (CIs) of the four outcomes (i.e., retear rate, constant score, external rotation and forward flexion) are presented
+   <span class="sup">
+    <a ref-type="bibr" rid="CR20" href="#CR20">20</a>
+   </span>. Heterogeneity was assessed by chi-square tests and I-square tests. Significance values less than 0.10 for chi-square tests or more than 50% for I-square tests were interpreted as evidence of heterogeneity. Egger’s linear regression test were used for detectint the publication bias with Stata. Network meta-analyses using indirect and direct evidence based on a frequentist framework including network plot, forest plot and predictive interval plot were performed with Stata software (version 13.0). The codes, model and network graphs package used in this meta-analysis are free online
+   <span class="sup">
+    <a ref-type="bibr" rid="CR21" href="#CR21">21</a>,
+    <a ref-type="bibr" rid="CR22" href="#CR22">22</a>
+   </span>. The surface under the cumulative ranking curve (SUCRA) was used to determine the ranking of the three arthroscopic rotator cuff repair techniques in terms of rotator cuff retear
+   <span class="sup">
+    <a ref-type="bibr" rid="CR23" href="#CR23">23</a>
+   </span>. The SUCRA was used to measure the therapies; 100% indicates the best treatment, and 0% indicates the worst treatment
+   <span class="sup">
+    <a ref-type="bibr" rid="CR23" href="#CR23">23</a>
+   </span>. Dias model was used to assess the inconsistencies in this study
+   <span class="sup">
+    <a ref-type="bibr" rid="CR24" href="#CR24">24</a>
+   </span>. Fixed effects models and random effects models were used to assess the sensitivity analyses.
+  </p>
+ </sec>
+</sec>

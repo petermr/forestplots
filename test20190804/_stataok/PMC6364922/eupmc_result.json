@@ -1,0 +1,327 @@
+{
+  "id": [
+    "30726266"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30726266"
+  ],
+  "pmcid": [
+    "PMC6364922"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0211233"
+  ],
+  "title": [
+    "Effects of microbiota-driven therapy on inflammatory responses in elderly individuals: A systematic review and meta-analysis."
+  ],
+  "authorString": [
+    "Qu H, Zhang Y, Chai H, Gao ZY, Shi DZ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Qu H"
+          ],
+          "firstName": [
+            "Hua"
+          ],
+          "lastName": [
+            "Qu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Xiyuan Hospital, China Academy of Traditional Chinese, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Xiyuan Hospital, China Academy of Traditional Chinese, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chai H"
+          ],
+          "firstName": [
+            "Hua"
+          ],
+          "lastName": [
+            "Chai"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Xiyuan Hospital, China Academy of Traditional Chinese, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Gao ZY"
+          ],
+          "firstName": [
+            "Zhu-Ye"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "ZY"
+          ],
+          "affiliation": [
+            "Xiyuan Hospital, China Academy of Traditional Chinese, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shi DZ"
+          ],
+          "firstName": [
+            "Da-Zhuo"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "DZ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6937-3014",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Xiyuan Hospital, China Academy of Traditional Chinese, Beijing, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6937-3014",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2776759"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0211233"
+  ],
+  "abstractText": [
+    "Current evidence suggests that age-associated inflammation, a strong risk factor for the health status of elderly individuals, is closely associated with gut microbiota. Previous animal studies have demonstrated a benefit of microbiota-driven therapy in decreasing low-grade chronic inflammation in elderly individuals; however, it remains controversial in clinical studies. Therefore, the present systematic review and meta-analysis were designed to assess the effects of microbiota-driven therapy on inflammatory markers in elderly individuals. PubMed, EMBASE, and the Cochrane Library were searched with no language restrictions from the inception of the database to November 11th, 2018 to identify all existing literature. We calculated pooled standard mean difference (SMD) using fixed effect model or random effect model to assess the effects of microbiota-driven therapy on elderly individuals. The methodological quality of the studies was determined according to the Cochrane Handbook. The publication bias was evaluated by funnel plot and Egger regression test. Ten randomized controlled studies, with 689 elderly individuals (347 individuals in the microbiota-driven therapy group and 342 individuals in the placebo group), were included in the analysis. Compared with placebo, microbiota-driven therapy did not decrease the levels of tumor necrosis factor-α (SMD, -0.24; 95% CI, -0.69 to 0.21; p = 0.30; I2 = 82.7%), interleukin-6 (SMD, -0.13; 95% CI, -0.74 to 0.49; p = 0.69; I2 = 90.7%) and interleukin-10 (SMD, 1.00; 95% CI, -0.15 to 2.15; p = 0.09; I2 = 96.3%). In addition, the microbiota-driven therapy also did not decrease the levels of C reactive protein (SMD, -1.28; 95% CI, -2.62 to 0.06; p = 0.06; I2 = 96.2%), interleukin-1β (SMD, -0.22; 95% CI, -0.81 to 0.37; p = 0.46; I2 = 73.8%), interleukin-8 (SMD, -0.03; 95% CI, -0.67 to 0.61; p = 0.93; I2 = 88.0%) and monocyte chemoattractant protein-1 (SMD, -0.11; 95% CI, -0.41 to 0.20; p = 0.49; I2 = 0%) when compared with placebo. No obvious publication bias was observed (p>0.05). In conclusion, the present meta-analysis of available randomized controlled studies did not suggest any significant benefit of microbiota-driven therapy in decreasing the inflammatory responses of elderly individuals."
+  ],
+  "affiliation": [
+    "Xiyuan Hospital, China Academy of Traditional Chinese, Beijing, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6364922?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6364922"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0211233"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-07"
+  ],
+  "firstIndexDate": [
+    "2019-02-08"
+  ],
+  "dateOfRevision": [
+    "2019-02-24"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-06"
+  ],
+  "firstPublicationDate": [
+    "2019-02-06"
+  ]
+}

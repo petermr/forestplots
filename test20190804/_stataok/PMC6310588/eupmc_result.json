@@ -1,0 +1,457 @@
+{
+  "id": [
+    "30544468"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30544468"
+  ],
+  "pmcid": [
+    "PMC6310588"
+  ],
+  "doi": [
+    "10.1097/MD.0000000000013548"
+  ],
+  "title": [
+    "Meta-analysis of the prognostic value of long non-coding RNA PVT1 for cancer patients."
+  ],
+  "authorString": [
+    "Ma C, Nie XG, Wang YL, Wu DP, Liang QD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ma C"
+          ],
+          "firstName": [
+            "Chao"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Orthopedics."
+          ]
+        },
+        {
+          "fullName": [
+            "Nie XG"
+          ],
+          "firstName": [
+            "Xing-Guo"
+          ],
+          "lastName": [
+            "Nie"
+          ],
+          "initials": [
+            "XG"
+          ],
+          "affiliation": [
+            "Department of Orthopedics."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang YL"
+          ],
+          "firstName": [
+            "Yan-Li"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "YL"
+          ],
+          "affiliation": [
+            "Department of Operating room, The First Affiliated Hospital of Xinxiang Medical University, Xinxiang 453000, Henan province, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu DP"
+          ],
+          "firstName": [
+            "Da-Peng"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "DP"
+          ],
+          "affiliation": [
+            "Department of Orthopedics."
+          ]
+        },
+        {
+          "fullName": [
+            "Liang QD"
+          ],
+          "firstName": [
+            "Qiu-Dong"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "QD"
+          ],
+          "affiliation": [
+            "Department of Orthopedics."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "49"
+      ],
+      "volume": [
+        "97"
+      ],
+      "journalIssueId": [
+        "2760867"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medicine"
+          ],
+          "ISOAbbreviation": [
+            "Medicine (Baltimore)"
+          ],
+          "medlineAbbreviation": [
+            "Medicine (Baltimore)"
+          ],
+          "NLMid": [
+            "2985248R"
+          ],
+          "ISSN": [
+            "0025-7974"
+          ],
+          "ESSN": [
+            "1536-5964"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e13548"
+  ],
+  "abstractText": [
+    "BACKGROUND:Plasmacytoma variant translocation 1 (PVT1) is reported to be dysregulated in various cancers. Therefore, this meta-analysis was performed to clarify its utility as a prognosis marker in malignant tumors. METHODS:Electronic databases, including PubMed, OVID, Cochrane Library, and Web of Science databases, were retrieved from inception to December 16, 2017. Typically, hazard ratios (HRs) and corresponding 95% confidence intervals (CIs) were calculated, so as to explore the relationship between PVT1 expression and patient survival. In addition, odds ratios (OR) were calculated to assess the association of PVT1 expression with pathological parameters. RESULTS:A total of 23 studies involving 2350 patients were included in this meta-analysis. The pooled HR suggested that high PVT1 expression levels were correlated with poor overall survival (OS, HR = 1.99, 95% CI: 1.73-2.28), disease-free survival (DFS, HR = 1.76, 95% CI: 1.45-2.14), and recurrence-free survival (RFS, HR = 1.74, 95% CI: 1.26-2.39) in cancer patients without obvious heterogeneity. Moreover, high PVT1 expression levels were also correlated with larger tumor size (OR = 1.47, 95% CI: 1.02-2.11), poor differentiation grade (OR = 1.79, 95% CI: 1.39-2.30), advanced tumor stage (pooled OR = 3.28, 95% CI: 2.46-4.38), lymph node metastasis (OR = 2.67, 95% CI: 1.66-4.29) and distant metastasis (OR = 4.00, 95% CI: 1.39-11.50) in cancer patients. CONCLUSIONS:Findings of this meta-analysis suggest that a high PVT1 expression level may serve as a novel biomarker of poor prognosis in cancers."
+  ],
+  "affiliation": [
+    "Department of Orthopedics."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prognosis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA, Long Noncoding"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biomarkers, Tumor"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "RNA, Long Noncoding"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "PVT1 long-non-coding RNA, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Biomarkers, Tumor"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "AIM"
+          ],
+          "name": [
+            "Core clinical journals"
+          ]
+        },
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6310588?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6310588"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1097/MD.0000000000013548"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-12-31"
+  ],
+  "dateOfCreation": [
+    "2018-12-15"
+  ],
+  "firstIndexDate": [
+    "2018-12-21"
+  ],
+  "dateOfRevision": [
+    "2019-01-15"
+  ],
+  "firstPublicationDate": [
+    "2018-12-01"
+  ]
+}

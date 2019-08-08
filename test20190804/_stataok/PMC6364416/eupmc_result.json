@@ -1,0 +1,341 @@
+{
+  "id": [
+    "30727976"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30727976"
+  ],
+  "pmcid": [
+    "PMC6364416"
+  ],
+  "doi": [
+    "10.1186/s12885-019-5324-y"
+  ],
+  "title": [
+    "Increased expression of Ki-67 is a poor prognostic marker for colorectal cancer patients: a meta analysis."
+  ],
+  "authorString": [
+    "Luo ZW, Zhu MG, Zhang ZQ, Ye FJ, Huang WH, Luo XZ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Luo ZW"
+          ],
+          "firstName": [
+            "Zhao-Wen"
+          ],
+          "lastName": [
+            "Luo"
+          ],
+          "initials": [
+            "ZW"
+          ],
+          "affiliation": [
+            "Department of Internal Medicine, The Affiliated Chencun Hospital of Shunde Hospital, Southern Medical University, Shunde, 528313, Guangdong, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu MG"
+          ],
+          "firstName": [
+            "Ming-Gu"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "MG"
+          ],
+          "affiliation": [
+            "Department of Internal Medicine, The Affiliated Chencun Hospital of Shunde Hospital, Southern Medical University, Shunde, 528313, Guangdong, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang ZQ"
+          ],
+          "firstName": [
+            "Zhi-Qiao"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "ZQ"
+          ],
+          "affiliation": [
+            "Department of Internal Medicine, The Affiliated Chencun Hospital of Shunde Hospital, Southern Medical University, Shunde, 528313, Guangdong, China. sdgrxjbk@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Ye FJ"
+          ],
+          "firstName": [
+            "Feng-Jun"
+          ],
+          "lastName": [
+            "Ye"
+          ],
+          "initials": [
+            "FJ"
+          ],
+          "affiliation": [
+            "Department of Internal Medicine, The Affiliated Chencun Hospital of Shunde Hospital, Southern Medical University, Shunde, 528313, Guangdong, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang WH"
+          ],
+          "firstName": [
+            "Wen-Heng"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "WH"
+          ],
+          "affiliation": [
+            "Department of Internal Medicine, The Affiliated Chencun Hospital of Shunde Hospital, Southern Medical University, Shunde, 528313, Guangdong, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Luo XZ"
+          ],
+          "firstName": [
+            "Xue-Zhang"
+          ],
+          "lastName": [
+            "Luo"
+          ],
+          "initials": [
+            "XZ"
+          ],
+          "affiliation": [
+            "Department of Internal Medicine, The Affiliated Chencun Hospital of Shunde Hospital, Southern Medical University, Shunde, 528313, Guangdong, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2776829"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC cancer"
+          ],
+          "ISOAbbreviation": [
+            "BMC Cancer"
+          ],
+          "medlineAbbreviation": [
+            "BMC Cancer"
+          ],
+          "NLMid": [
+            "100967800"
+          ],
+          "ISSN": [
+            "1471-2407"
+          ],
+          "ESSN": [
+            "1471-2407"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "123"
+  ],
+  "abstractText": [
+    "BACKGROUND:The prognostic value of Ki-67 expression in colorectal cancer patients was controversial. Therefore, this meta analysis was conducted to ascertain the prognostic value of Ki-67 expression in colorectal cancer patients. METHODS:The electronic databases, including EMBASE, PubMed, Cochrane Library and Web of Knowledge database, were searched from January 1970 to July 2017. The pooled hazard ratios and 95% confidence intervals were calculated to evaluate the prognostic value of Ki-67 expression for colorectal cancer patients. RESULTS:Totally 34 eligible studies and 6180 colorectal cancer patients were included in the present meta analysis. The pooled hazard ratios were 1.54(95% CI 1.17-2.02, P = 0.005) for overall survival and 1.43(1.12-1.83, P = 0.008) for disease free survival in univariate analysis. After adjustment of other prognostic factors, the pooled HR was 1.50(95% CI 1.02-2.22, P = 0.03) for overall survival in multivariate analysis. CONCLUSION:The present meta analysis demonstrated that high Ki-67 expression is significantly correlated with poor overall survival and disease free survival, indicating that high Ki-67 expression may serve as a valuable predictive method for poor prognosis of colorectal cancer patients."
+  ],
+  "affiliation": [
+    "Department of Internal Medicine, The Affiliated Chencun Hospital of Shunde Hospital, Southern Medical University, Shunde, 528313, Guangdong, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "A2016450"
+          ],
+          "agency": [
+            "Health Department and Finance Department of Guangdong Province"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6364416?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6364416"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12885-019-5324-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-08"
+  ],
+  "firstIndexDate": [
+    "2019-02-08"
+  ],
+  "dateOfRevision": [
+    "2019-02-19"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-06"
+  ],
+  "firstPublicationDate": [
+    "2019-02-06"
+  ]
+}

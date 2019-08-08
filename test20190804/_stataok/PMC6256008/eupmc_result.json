@@ -1,0 +1,387 @@
+{
+  "id": [
+    "30047605"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30047605"
+  ],
+  "pmcid": [
+    "PMC6256008"
+  ],
+  "doi": [
+    "10.1111/bcp.13722"
+  ],
+  "title": [
+    "The association between the NAT2 genetic polymorphisms and risk of DILI during anti-TB treatment: a systematic review and meta-analysis."
+  ],
+  "authorString": [
+    "Zhang M, Wang S, Wilffert B, Tong R, van Soolingen D, van den Hof S, Alffenaar JW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang M"
+          ],
+          "firstName": [
+            "Min"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Pharmacy, Sichuan Academy of Medical Sciences & Sichuan Provincial People's Hospital, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang S"
+          ],
+          "firstName": [
+            "Shuqiang"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "University of Groningen, University Medical Center Groningen, Department of Clinical Pharmacy and Pharmacology, Groningen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Wilffert B"
+          ],
+          "firstName": [
+            "Bob"
+          ],
+          "lastName": [
+            "Wilffert"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8759-5697",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "University of Groningen, University Medical Center Groningen, Department of Clinical Pharmacy and Pharmacology, Groningen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Tong R"
+          ],
+          "firstName": [
+            "Rongsheng"
+          ],
+          "lastName": [
+            "Tong"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Pharmacy, Sichuan Academy of Medical Sciences & Sichuan Provincial People's Hospital, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "van Soolingen D"
+          ],
+          "firstName": [
+            "Dick"
+          ],
+          "lastName": [
+            "van Soolingen"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Tuberculosis Reference Laboratory, National Institute for Public Health and the Environment (RIVM), Bilthoven, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "van den Hof S"
+          ],
+          "firstName": [
+            "Susan"
+          ],
+          "lastName": [
+            "van den Hof"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "KNCV Tuberculosis Foundation, The Hague, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Alffenaar JW"
+          ],
+          "firstName": [
+            "Jan-Willem"
+          ],
+          "lastName": [
+            "Alffenaar"
+          ],
+          "initials": [
+            "JW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6703-0288",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "University of Groningen, University Medical Center Groningen, Department of Clinical Pharmacy and Pharmacology, Groningen, The Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6703-0288",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8759-5697",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "84"
+      ],
+      "journalIssueId": [
+        "2753323"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "British journal of clinical pharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Br J Clin Pharmacol"
+          ],
+          "medlineAbbreviation": [
+            "Br J Clin Pharmacol"
+          ],
+          "NLMid": [
+            "7503323"
+          ],
+          "ISSN": [
+            "0306-5251"
+          ],
+          "ESSN": [
+            "1365-2125"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "2747-2760"
+  ],
+  "abstractText": [
+    "AIMS:The aim of this study is to evaluate the potential association between N-acetyltransferase type 2 (NAT2) polymorphisms and drug-induced liver injury during anti-TB treatment (AT-DILI). METHODS:We conducted a systematic review and performed a meta-analysis to clarify the role of NAT2 polymorphism in AT-DILI. PubMed, Medline and EMBASE databases were searched for studies published in English to December 31, 2017, on the association between the NAT2 polymorphism and AT-DILI risk. Outcomes were pooled with random-effects meta-analysis. Details were registered in the PROSPERO register (number: CRD42016051722). RESULTS:Thirty-seven studies involving 1527 cases and 7184 controls were included in this meta-analysis. The overall odds ratio (OR) of AT-DILI associated with NAT2 slow acetylator phenotype was 3.15 (95% CI 2.58-3.84, I2  = 51.3%, P = 0.000). The OR varied between different ethnic populations, ranging from 6.42 (95% CI 2.41-17.10, I2  = 2.3%) for the West Asian population to 2.32 (95% CI 0.58-9.24, I2  = 80.3%) for the European population. Within the slow NAT2 genotype, variation was also observed; NAT2*6/*7 was associated with the highest risk of AT-DILI (OR = 1.68, 95% CI 1.09-2.59) compared to the other slow NAT2 acetylators combined. CONCLUSIONS:NAT2 slow acetylation was observed to increase the risk of AT-DILI in tuberculosis patients. Our results support the hypothesis that the slow NAT2 genotype is a risk factor for AT-DILI."
+  ],
+  "affiliation": [
+    "Department of Pharmacy, Sichuan Academy of Medical Sciences & Sichuan Provincial People's Hospital, Chengdu, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Polymorphism",
+        "Meta-analysis",
+        "Nat2",
+        "Antituberculosis Drug-induced Liver Injury"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6256008?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6256008"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/bcp.13722"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-07-27"
+  ],
+  "firstIndexDate": [
+    "2018-07-27"
+  ],
+  "dateOfRevision": [
+    "2019-06-25"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-03"
+  ],
+  "firstPublicationDate": [
+    "2018-10-03"
+  ]
+}

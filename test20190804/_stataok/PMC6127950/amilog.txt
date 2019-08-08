@@ -1,0 +1,2077 @@
+MacBook-Pro-3:_stataok pm286$ source ~/workspace/cmdev/normami/src/test/java/org/contentmine/ami/tools/testStack.sh
+CTREE /Users/pm286/workspace//projects/forestplots/test20190804/_stataok/PMC6127950
+/Users/pm286/workspace//projects/forestplots/test20190804/_stataok/PMC6127950
+eupmc_result.json	fulltext.pdf		fulltext.xml		pdfimages		sections		svg
+
+Generic values (AMIMakeProjectTool)
+================================
+output basename     null
+input basename      null
+input basename list null
+cproject            /Users/pm286/workspace/projects/forestplots/test20190804/_stataok
+ctree               
+cTreeList           16 trees [/Users/pm286/workspace/projects/forestplots/test2
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          [pdf]
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIMakeProjectTool)
+================================
+compress            25
+omit                [template\.xml, log\.txt, summary\.json]
+
+Generic values (AMIPDFTool)
+================================
+output basename     null
+input basename      null
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           [/Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950]
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIPDFTool)
+================================
+maxpages            5
+svgDirectoryName    svg/
+outputSVG           true
+imgDirectoryName    pdfimages/
+outputPDFImages     true
+AMIPDFTool cTree: PMC6127950
+cTree: PMC6127950
+make skipped 
+Generic values (AMIImageTool)
+================================
+output basename     null
+input basename      null
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           [/Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950]
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIImageTool)
+================================
+minHeight           100
+minWidth            100
+smalldir            small
+monochromeDir       monochrome
+duplicateDir        duplicate
+borders             null
+binarize            null
+despeckle           true
+erodeDilate         false
+maxheight           1000
+maxwidth            1000
+posterize           false
+priority            RAW
+rotate              null
+scalefactor         null
+sharpen             sharpen4
+template            null
+threshold           150
+
+
+Generic values (AMIFilterTool)
+================================
+output basename     null
+input basename      null
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           null
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIFilterTool)
+================================
+minHeight           0
+minWidth            0
+smalldir            small
+monochromeDir       monochrome
+duplicateDir        duplicate
+maxheight           null
+maxwidth            null
+
+no trees
+
+Generic values (AMIFilterTool)
+================================
+output basename     null
+input basename      null
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           null
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIFilterTool)
+================================
+minHeight           0
+minWidth            0
+smalldir            small
+monochromeDir       monochrome
+duplicateDir        duplicate
+maxheight           null
+maxwidth            null
+
+no trees
+AMIImageTool cTree: PMC6127950
+AMIImageTOOL processTree
+ >>>>> imageDirs: 15
+non-existent image file: image.1.2.373_539.43_73/null.png
+non-existent image file: image.1.3.56_98.708_752/null.png
+non-existent image file: image.10.2.127_468.104_276/null.png
+non-existent image file: image.3.1.127_468.104_455/null.png
+non-existent image file: image.4.1.66_281.310_712/null.png
+non-existent image file: image.5.1.64_532.104_293/null.png
+non-existent image file: image.5.2.127_468.483_722/null.png
+non-existent image file: image.6.1.127_468.104_336/null.png
+non-existent image file: image.6.2.127_468.494_722/null.png
+non-existent image file: image.7.1.127_468.104_342/null.png
+non-existent image file: image.7.2.127_468.457_722/null.png
+non-existent image file: image.8.1.127_468.104_324/null.png
+non-existent image file: image.8.2.127_468.488_722/null.png
+non-existent image file: image.9.1.127_468.104_330/null.png
+non-existent image file: image.9.2.127_468.492_722/null.png
+
+Generic values (AMIImageTool)
+================================
+output basename     null
+input basename      null
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           [/Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950]
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIImageTool)
+================================
+minHeight           100
+minWidth            100
+smalldir            small
+monochromeDir       monochrome
+duplicateDir        duplicate
+borders             null
+binarize            null
+despeckle           true
+erodeDilate         false
+maxheight           1000
+maxwidth            1000
+posterize           false
+priority            RAW
+rotate              null
+scalefactor         null
+sharpen             sharpen4
+template            null
+threshold           230
+
+
+Generic values (AMIFilterTool)
+================================
+output basename     null
+input basename      null
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           null
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIFilterTool)
+================================
+minHeight           0
+minWidth            0
+smalldir            small
+monochromeDir       monochrome
+duplicateDir        duplicate
+maxheight           null
+maxwidth            null
+
+no trees
+
+Generic values (AMIFilterTool)
+================================
+output basename     null
+input basename      null
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           null
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIFilterTool)
+================================
+minHeight           0
+minWidth            0
+smalldir            small
+monochromeDir       monochrome
+duplicateDir        duplicate
+maxheight           null
+maxwidth            null
+
+no trees
+AMIImageTool cTree: PMC6127950
+AMIImageTOOL processTree
+ >>>>> imageDirs: 15
+non-existent image file: image.1.2.373_539.43_73/null.png
+non-existent image file: image.1.3.56_98.708_752/null.png
+non-existent image file: image.10.2.127_468.104_276/null.png
+non-existent image file: image.3.1.127_468.104_455/null.png
+non-existent image file: image.4.1.66_281.310_712/null.png
+non-existent image file: image.5.1.64_532.104_293/null.png
+non-existent image file: image.5.2.127_468.483_722/null.png
+non-existent image file: image.6.1.127_468.104_336/null.png
+non-existent image file: image.6.2.127_468.494_722/null.png
+non-existent image file: image.7.1.127_468.104_342/null.png
+non-existent image file: image.7.2.127_468.457_722/null.png
+non-existent image file: image.8.1.127_468.104_324/null.png
+non-existent image file: image.8.2.127_468.488_722/null.png
+non-existent image file: image.9.1.127_468.104_330/null.png
+non-existent image file: image.9.2.127_468.492_722/null.png
+
+Generic values (AMIImageTool)
+================================
+output basename     null
+input basename      null
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           [/Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950]
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIImageTool)
+================================
+minHeight           100
+minWidth            100
+smalldir            small
+monochromeDir       monochrome
+duplicateDir        duplicate
+borders             null
+binarize            null
+despeckle           true
+erodeDilate         false
+maxheight           1000
+maxwidth            1000
+posterize           false
+priority            RAW
+rotate              null
+scalefactor         null
+sharpen             sharpen4
+template            null
+threshold           240
+
+
+Generic values (AMIFilterTool)
+================================
+output basename     null
+input basename      null
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           null
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIFilterTool)
+================================
+minHeight           0
+minWidth            0
+smalldir            small
+monochromeDir       monochrome
+duplicateDir        duplicate
+maxheight           null
+maxwidth            null
+
+no trees
+
+Generic values (AMIFilterTool)
+================================
+output basename     null
+input basename      null
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           null
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIFilterTool)
+================================
+minHeight           0
+minWidth            0
+smalldir            small
+monochromeDir       monochrome
+duplicateDir        duplicate
+maxheight           null
+maxwidth            null
+
+no trees
+AMIImageTool cTree: PMC6127950
+AMIImageTOOL processTree
+ >>>>> imageDirs: 15
+non-existent image file: image.1.2.373_539.43_73/null.png
+non-existent image file: image.1.3.56_98.708_752/null.png
+non-existent image file: image.10.2.127_468.104_276/null.png
+non-existent image file: image.3.1.127_468.104_455/null.png
+non-existent image file: image.4.1.66_281.310_712/null.png
+non-existent image file: image.5.1.64_532.104_293/null.png
+non-existent image file: image.5.2.127_468.483_722/null.png
+non-existent image file: image.6.1.127_468.104_336/null.png
+non-existent image file: image.6.2.127_468.494_722/null.png
+non-existent image file: image.7.1.127_468.104_342/null.png
+non-existent image file: image.7.2.127_468.457_722/null.png
+non-existent image file: image.8.1.127_468.104_324/null.png
+non-existent image file: image.8.2.127_468.488_722/null.png
+non-existent image file: image.9.1.127_468.104_330/null.png
+non-existent image file: image.9.2.127_468.492_722/null.png
+===============Finished AmiImage=============
+
+Generic values (AMIOCRTool)
+================================
+output basename     null
+input basename      null
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           [/Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950]
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           true
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIOCRTool)
+================================
+disambiguate        false
+extractlines        [gocr]
+glyphs              false
+gocr                /usr/local/bin/gocr
+html                true
+maxsize             null
+mergeNames          []
+replace             []
+scale               null
+scalefactor         null
+scaledFilename      null
+tesseractPath       null
+
+AMIOCRTool cTree: PMC6127950
+ >>>>> imageDirs: 15
+>image.1.2.373_539/raw>
+>gocr>
+java.lang.NullPointerException
+	at java.io.File.<init>(File.java:360)
+	at org.contentmine.ami.tools.AMIOCRTool.makeHocrOcrDir(AMIOCRTool.java:464)
+	at org.contentmine.ami.tools.AMIOCRTool.makeOcrOutputFilename(AMIOCRTool.java:458)
+	at org.contentmine.norma.image.ocr.GOCRConverter.processGOCR(GOCRConverter.java:542)
+	at org.contentmine.ami.tools.AMIOCRTool.processGOCR(AMIOCRTool.java:313)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:297)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.2.373_539.43_73null
+>image.1.3.56_98/raw>
+>gocr>
+java.lang.NullPointerException
+	at java.io.File.<init>(File.java:360)
+	at org.contentmine.ami.tools.AMIOCRTool.makeHocrOcrDir(AMIOCRTool.java:464)
+	at org.contentmine.ami.tools.AMIOCRTool.makeOcrOutputFilename(AMIOCRTool.java:458)
+	at org.contentmine.norma.image.ocr.GOCRConverter.processGOCR(GOCRConverter.java:542)
+	at org.contentmine.ami.tools.AMIOCRTool.processGOCR(AMIOCRTool.java:313)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:297)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+1521 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.3.56_98.708_752null
+>image.10.2.127_468/raw>
+>gocr>
+  trying pxH-fix by Hxp -25 -12   0   6
+#       fixed by Hxp to  238   3  15  21
+#  trying pxH-fix by Hxp -25 -12   0   6
+#       fixed by Hxp to  689  14  26  32
+#java.lang.NullPointerException
+	at java.io.File.<init>(File.java:360)
+	at org.contentmine.ami.tools.AMIOCRTool.makeHocrOcrDir(AMIOCRTool.java:464)
+	at org.contentmine.ami.tools.AMIOCRTool.makeOcrOutputFilename(AMIOCRTool.java:458)
+	at org.contentmine.norma.image.ocr.GOCRConverter.processGOCR(GOCRConverter.java:542)
+	at org.contentmine.ami.tools.AMIOCRTool.processGOCR(AMIOCRTool.java:313)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:297)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+3246 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.10.2.127_468.104_276null
+>image.3.1.127_468/raw>
+>gocr>
+  trying pxH-fix by Hxp -19 -14   0   4
+#       fixed by Hxp to  184   6  19  23
+#  trying pxH-fix by Hxp -19 -14   0   4
+#       fixed by Hxp to  304   7  19  23
+#  trying pxH-fix by Hxp -19 -14   0   4
+#       fixed by Hxp to  321   6  19  23
+#  trying pxH-fix by Hxp -19 -14   0   4
+#       fixed by Hxp to  357 -13  19  23
+#  trying pxH-fix by Hxp -19 -14   0   4
+#       fixed by Hxp to  546   6  19  23
+#  trying pxH-fix by Hxp -19 -14   0   4
+#       fixed by Hxp to  562   6  19  23
+#  trying pxH-fix by Hxp -19 -14   0   4
+#       fixed by Hxp to  605   5  19  23
+#  trying pxH-fix by Hxp -19 -14   0   4
+#       fixed by Hxp to  621   6  19  23
+#  trying pxH-fix by Hxp -19 -14   0   4
+#       fixed by Hxp to  703   6  19  23
+#  trying pxH-fix by Hxp -19 -14   0   4
+#       fixed by Hxp to  963   6  19  23
+#  trying pxH-fix by Hxp -19 -14   0   4
+#       fixed by Hxp to  990   8  19  23
+#  trying pxH-fix by Hxp -19 -14   0   4
+#       fixed by Hxp to 1233   5  19  23
+#  trying pxH-fix by Hxp -19 -14   0   4
+#       fixed by Hxp to 1266   5  19  23
+#  trying pxH-fix by Hxp -19 -14   0   4
+#       fixed by Hxp to 1302 -13  19  23
+#java.lang.NullPointerException
+	at java.io.File.<init>(File.java:360)
+	at org.contentmine.ami.tools.AMIOCRTool.makeHocrOcrDir(AMIOCRTool.java:464)
+	at org.contentmine.ami.tools.AMIOCRTool.makeOcrOutputFilename(AMIOCRTool.java:458)
+	at org.contentmine.norma.image.ocr.GOCRConverter.processGOCR(GOCRConverter.java:542)
+	at org.contentmine.ami.tools.AMIOCRTool.processGOCR(AMIOCRTool.java:313)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:297)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+5031 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.3.1.127_468.104_455null
+>image.4.1.66_281/raw>
+>gocr>
+  trying pxH-fix by Hxp -24 -18   0   5
+#       fixed by Hxp to    3  10  24  29
+#  trying pxH-fix by Hxp -24 -18   0   5
+#       fixed by Hxp to   22   9  24  29
+#  trying pxH-fix by Hxp -24 -18   0   5
+#       fixed by Hxp to   48   9  24  29
+#  trying pxH-fix by Hxp -24 -18   0   5
+#       fixed by Hxp to   78   8  24  29
+#  trying pxH-fix by Hxp -24 -18   0   5
+#       fixed by Hxp to   95  10  24  29
+#  trying pxH-fix by Hxp -24 -18   0   5
+#       fixed by Hxp to  114  10  24  29
+#  trying pxH-fix by Hxp -24 -18   0   5
+#       fixed by Hxp to  234   8  24  29
+#  trying pxH-fix by Hxp -24 -18   0   5
+#       fixed by Hxp to  252  10  24  29
+#>1500 ms >3000 ms >4500 ms >6000 ms >7500 ms java.lang.NullPointerException
+	at java.io.File.<init>(File.java:360)
+	at org.contentmine.ami.tools.AMIOCRTool.makeHocrOcrDir(AMIOCRTool.java:464)
+	at org.contentmine.ami.tools.AMIOCRTool.makeOcrOutputFilename(AMIOCRTool.java:458)
+	at org.contentmine.norma.image.ocr.GOCRConverter.processGOCR(GOCRConverter.java:542)
+	at org.contentmine.ami.tools.AMIOCRTool.processGOCR(AMIOCRTool.java:313)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:297)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+14214 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.4.1.66_281.310_712null
+>image.5.1.64_532/raw>
+>gocr>
+  trying pxH-fix by Hxp -27 -21   0   4
+#       fixed by Hxp to  634   7  28  32
+#java.lang.NullPointerException
+	at java.io.File.<init>(File.java:360)
+	at org.contentmine.ami.tools.AMIOCRTool.makeHocrOcrDir(AMIOCRTool.java:464)
+	at org.contentmine.ami.tools.AMIOCRTool.makeOcrOutputFilename(AMIOCRTool.java:458)
+	at org.contentmine.norma.image.ocr.GOCRConverter.processGOCR(GOCRConverter.java:542)
+	at org.contentmine.ami.tools.AMIOCRTool.processGOCR(AMIOCRTool.java:313)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:297)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+15830 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.1.64_532.104_293null
+>image.5.2.127_468/raw>
+>gocr>
+  trying pxH-fix by Hxp -19 -11   0   5
+#  trying pxH-fix by Hxp -19 -11   0   5
+#       fixed by Hxp to  913   7  18  23
+#java.lang.NullPointerException
+	at java.io.File.<init>(File.java:360)
+	at org.contentmine.ami.tools.AMIOCRTool.makeHocrOcrDir(AMIOCRTool.java:464)
+	at org.contentmine.ami.tools.AMIOCRTool.makeOcrOutputFilename(AMIOCRTool.java:458)
+	at org.contentmine.norma.image.ocr.GOCRConverter.processGOCR(GOCRConverter.java:542)
+	at org.contentmine.ami.tools.AMIOCRTool.processGOCR(AMIOCRTool.java:313)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:297)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+17494 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.2.127_468.483_722null
+>image.6.1.127_468/raw>
+>gocr>
+  trying pxH-fix by Hxp -16  -8   0   4
+#  trying pxH-fix by Hxp -16  -8   0   4
+#       fixed by Hxp to  886   7  15  19
+#java.lang.NullPointerException
+	at java.io.File.<init>(File.java:360)
+	at org.contentmine.ami.tools.AMIOCRTool.makeHocrOcrDir(AMIOCRTool.java:464)
+	at org.contentmine.ami.tools.AMIOCRTool.makeOcrOutputFilename(AMIOCRTool.java:458)
+	at org.contentmine.norma.image.ocr.GOCRConverter.processGOCR(GOCRConverter.java:542)
+	at org.contentmine.ami.tools.AMIOCRTool.processGOCR(AMIOCRTool.java:313)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:297)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+19127 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.1.127_468.104_336null
+>image.6.2.127_468/raw>
+>gocr>
+  trying pxH-fix by Hxp -15  -9   0   5
+#  trying pxH-fix by Hxp -15  -9   0   5
+#       fixed by Hxp to  869   5  14  19
+#java.lang.NullPointerException
+	at java.io.File.<init>(File.java:360)
+	at org.contentmine.ami.tools.AMIOCRTool.makeHocrOcrDir(AMIOCRTool.java:464)
+	at org.contentmine.ami.tools.AMIOCRTool.makeOcrOutputFilename(AMIOCRTool.java:458)
+	at org.contentmine.norma.image.ocr.GOCRConverter.processGOCR(GOCRConverter.java:542)
+	at org.contentmine.ami.tools.AMIOCRTool.processGOCR(AMIOCRTool.java:313)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:297)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+20737 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.2.127_468.494_722null
+>image.7.1.127_468/raw>
+>gocr>
+  trying pxH-fix by Hxp -17  -9   0   5
+#java.lang.NullPointerException
+	at java.io.File.<init>(File.java:360)
+	at org.contentmine.ami.tools.AMIOCRTool.makeHocrOcrDir(AMIOCRTool.java:464)
+	at org.contentmine.ami.tools.AMIOCRTool.makeOcrOutputFilename(AMIOCRTool.java:458)
+	at org.contentmine.norma.image.ocr.GOCRConverter.processGOCR(GOCRConverter.java:542)
+	at org.contentmine.ami.tools.AMIOCRTool.processGOCR(AMIOCRTool.java:313)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:297)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+22362 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.1.127_468.104_342null
+>image.7.2.127_468/raw>
+>gocr>
+  trying pxH-fix by Hxp -14  -7   0   4
+#  trying pxH-fix by Hxp -14  -7   0   4
+#  trying pxH-fix by Hxp -14  -7   0   4
+#  trying pxH-fix by Hxp -14  -7   0   4
+#       fixed by Hxp to 1019   7  14  18
+#java.lang.NullPointerException
+	at java.io.File.<init>(File.java:360)
+	at org.contentmine.ami.tools.AMIOCRTool.makeHocrOcrDir(AMIOCRTool.java:464)
+	at org.contentmine.ami.tools.AMIOCRTool.makeOcrOutputFilename(AMIOCRTool.java:458)
+	at org.contentmine.norma.image.ocr.GOCRConverter.processGOCR(GOCRConverter.java:542)
+	at org.contentmine.ami.tools.AMIOCRTool.processGOCR(AMIOCRTool.java:313)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:297)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+24034 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.2.127_468.457_722null
+>image.8.1.127_468/raw>
+>gocr>
+  trying pxH-fix by Hxp -10  -4   0   3
+#       fixed by Hxp to  718   2   6   9
+#  trying pxH-fix by Hxp -10  -4   0   3
+#       fixed by Hxp to  841   5   9  12
+#java.lang.NullPointerException
+	at java.io.File.<init>(File.java:360)
+	at org.contentmine.ami.tools.AMIOCRTool.makeHocrOcrDir(AMIOCRTool.java:464)
+	at org.contentmine.ami.tools.AMIOCRTool.makeOcrOutputFilename(AMIOCRTool.java:458)
+	at org.contentmine.norma.image.ocr.GOCRConverter.processGOCR(GOCRConverter.java:542)
+	at org.contentmine.ami.tools.AMIOCRTool.processGOCR(AMIOCRTool.java:313)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:297)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+25628 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.1.127_468.104_324null
+>image.8.2.127_468/raw>
+>gocr>
+  trying pxH-fix by Hxp -15  -7   0   4
+#  trying pxH-fix by Hxp -15  -7   0   4
+#       fixed by Hxp to  895   7  14  18
+#java.lang.NullPointerException
+	at java.io.File.<init>(File.java:360)
+	at org.contentmine.ami.tools.AMIOCRTool.makeHocrOcrDir(AMIOCRTool.java:464)
+	at org.contentmine.ami.tools.AMIOCRTool.makeOcrOutputFilename(AMIOCRTool.java:458)
+	at org.contentmine.norma.image.ocr.GOCRConverter.processGOCR(GOCRConverter.java:542)
+	at org.contentmine.ami.tools.AMIOCRTool.processGOCR(AMIOCRTool.java:313)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:297)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+27230 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.2.127_468.488_722null
+>image.9.1.127_468/raw>
+>gocr>
+  trying pxH-fix by Hxp -12  -6   0   3
+#java.lang.NullPointerException
+	at java.io.File.<init>(File.java:360)
+	at org.contentmine.ami.tools.AMIOCRTool.makeHocrOcrDir(AMIOCRTool.java:464)
+	at org.contentmine.ami.tools.AMIOCRTool.makeOcrOutputFilename(AMIOCRTool.java:458)
+	at org.contentmine.norma.image.ocr.GOCRConverter.processGOCR(GOCRConverter.java:542)
+	at org.contentmine.ami.tools.AMIOCRTool.processGOCR(AMIOCRTool.java:313)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:297)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+28853 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.1.127_468.104_330null
+>image.9.2.127_468/raw>
+>gocr>
+  trying pxH-fix by Hxp -15  -8   0   4
+#  trying pxH-fix by Hxp -15  -8   0   4
+#       fixed by Hxp to  879   7  15  19
+#java.lang.NullPointerException
+	at java.io.File.<init>(File.java:360)
+	at org.contentmine.ami.tools.AMIOCRTool.makeHocrOcrDir(AMIOCRTool.java:464)
+	at org.contentmine.ami.tools.AMIOCRTool.makeOcrOutputFilename(AMIOCRTool.java:458)
+	at org.contentmine.norma.image.ocr.GOCRConverter.processGOCR(GOCRConverter.java:542)
+	at org.contentmine.ami.tools.AMIOCRTool.processGOCR(AMIOCRTool.java:313)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:297)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+30449 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.2.127_468.492_722null
+
+Generic values (AMIOCRTool)
+================================
+output basename     null
+input basename      null
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           [/Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950]
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           true
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIOCRTool)
+================================
+disambiguate        false
+extractlines        [hocr]
+glyphs              false
+gocr                null
+html                false
+maxsize             null
+mergeNames          []
+replace             []
+scale               null
+scalefactor         null
+scaledFilename      null
+tesseractPath       /usr/local/bin/tesseract
+
+AMIOCRTool cTree: PMC6127950
+ >>>>> imageDirs: 15
+>image.1.2.373_539/raw>
+Tesseract Open Source OCR Engine v3.05.02 with Leptonica
+Warning. Invalid resolution 0 dpi. Using 70 instead.
+OSD: Weak margin (4.45) for 32 blob text block, but using orientation anyway: 0
+java.lang.RuntimeException: cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.2.373_539.43_73/raw/hocr/hocr.svg
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1226)
+	at org.contentmine.graphics.svg.SVGElement.readAndCreateSVG(SVGElement.java:272)
+	at org.contentmine.ami.tools.AMIOCRTool.processHOCR(AMIOCRTool.java:444)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:300)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+Caused by: java.io.FileNotFoundException: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.2.373_539.43_73/raw/hocr/hocr.svg (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at nu.xom.Builder.build(Unknown Source)
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1224)
+	... 13 more
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.2.373_539.43_73cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.2.373_539.43_73/raw/hocr/hocr.svg
+>image.1.3.56_98/raw>
+Tesseract Open Source OCR Engine v3.05.02 with Leptonica
+Warning. Invalid resolution 0 dpi. Using 70 instead.
+Too few characters. Skipping this page
+OSD: Weak margin (0.00) for 1 blob text block, but using orientation anyway: 0
+Empty page!!
+java.lang.RuntimeException: cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.3.56_98.708_752/raw/hocr/hocr.svg
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1226)
+	at org.contentmine.graphics.svg.SVGElement.readAndCreateSVG(SVGElement.java:272)
+	at org.contentmine.ami.tools.AMIOCRTool.processHOCR(AMIOCRTool.java:444)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:300)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+Caused by: java.io.FileNotFoundException: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.3.56_98.708_752/raw/hocr/hocr.svg (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at nu.xom.Builder.build(Unknown Source)
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1224)
+	... 13 more
+1507 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.3.56_98.708_752cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.3.56_98.708_752/raw/hocr/hocr.svg
+>image.10.2.127_468/raw>
+Tesseract Open Source OCR Engine v3.05.02 with Leptonica
+Warning. Invalid resolution 0 dpi. Using 70 instead.
+java.lang.RuntimeException: cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.10.2.127_468.104_276/raw/hocr/hocr.svg
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1226)
+	at org.contentmine.graphics.svg.SVGElement.readAndCreateSVG(SVGElement.java:272)
+	at org.contentmine.ami.tools.AMIOCRTool.processHOCR(AMIOCRTool.java:444)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:300)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+Caused by: java.io.FileNotFoundException: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.10.2.127_468.104_276/raw/hocr/hocr.svg (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at nu.xom.Builder.build(Unknown Source)
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1224)
+	... 13 more
+3019 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.10.2.127_468.104_276cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.10.2.127_468.104_276/raw/hocr/hocr.svg
+>image.3.1.127_468/raw>
+Tesseract Open Source OCR Engine v3.05.02 with Leptonica
+Warning. Invalid resolution 0 dpi. Using 70 instead.
+>1500 ms java.lang.RuntimeException: cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.3.1.127_468.104_455/raw/hocr/hocr.svg
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1226)
+	at org.contentmine.graphics.svg.SVGElement.readAndCreateSVG(SVGElement.java:272)
+	at org.contentmine.ami.tools.AMIOCRTool.processHOCR(AMIOCRTool.java:444)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:300)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+Caused by: java.io.FileNotFoundException: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.3.1.127_468.104_455/raw/hocr/hocr.svg (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at nu.xom.Builder.build(Unknown Source)
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1224)
+	... 13 more
+6032 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.3.1.127_468.104_455cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.3.1.127_468.104_455/raw/hocr/hocr.svg
+>image.4.1.66_281/raw>
+Tesseract Open Source OCR Engine v3.05.02 with Leptonica
+Warning. Invalid resolution 0 dpi. Using 70 instead.
+java.lang.RuntimeException: cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.4.1.66_281.310_712/raw/hocr/hocr.svg
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1226)
+	at org.contentmine.graphics.svg.SVGElement.readAndCreateSVG(SVGElement.java:272)
+	at org.contentmine.ami.tools.AMIOCRTool.processHOCR(AMIOCRTool.java:444)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:300)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+Caused by: java.io.FileNotFoundException: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.4.1.66_281.310_712/raw/hocr/hocr.svg (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at nu.xom.Builder.build(Unknown Source)
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1224)
+	... 13 more
+7539 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.4.1.66_281.310_712cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.4.1.66_281.310_712/raw/hocr/hocr.svg
+>image.5.1.64_532/raw>
+Tesseract Open Source OCR Engine v3.05.02 with Leptonica
+Warning. Invalid resolution 0 dpi. Using 70 instead.
+java.lang.RuntimeException: cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.1.64_532.104_293/raw/hocr/hocr.svg
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1226)
+	at org.contentmine.graphics.svg.SVGElement.readAndCreateSVG(SVGElement.java:272)
+	at org.contentmine.ami.tools.AMIOCRTool.processHOCR(AMIOCRTool.java:444)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:300)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+Caused by: java.io.FileNotFoundException: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.1.64_532.104_293/raw/hocr/hocr.svg (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at nu.xom.Builder.build(Unknown Source)
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1224)
+	... 13 more
+9046 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.1.64_532.104_293cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.1.64_532.104_293/raw/hocr/hocr.svg
+>image.5.2.127_468/raw>
+Tesseract Open Source OCR Engine v3.05.02 with Leptonica
+Warning. Invalid resolution 0 dpi. Using 70 instead.
+java.lang.RuntimeException: cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.2.127_468.483_722/raw/hocr/hocr.svg
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1226)
+	at org.contentmine.graphics.svg.SVGElement.readAndCreateSVG(SVGElement.java:272)
+	at org.contentmine.ami.tools.AMIOCRTool.processHOCR(AMIOCRTool.java:444)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:300)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+Caused by: java.io.FileNotFoundException: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.2.127_468.483_722/raw/hocr/hocr.svg (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at nu.xom.Builder.build(Unknown Source)
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1224)
+	... 13 more
+10554 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.2.127_468.483_722cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.2.127_468.483_722/raw/hocr/hocr.svg
+>image.6.1.127_468/raw>
+Tesseract Open Source OCR Engine v3.05.02 with Leptonica
+Warning. Invalid resolution 0 dpi. Using 70 instead.
+java.lang.RuntimeException: cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.1.127_468.104_336/raw/hocr/hocr.svg
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1226)
+	at org.contentmine.graphics.svg.SVGElement.readAndCreateSVG(SVGElement.java:272)
+	at org.contentmine.ami.tools.AMIOCRTool.processHOCR(AMIOCRTool.java:444)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:300)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+Caused by: java.io.FileNotFoundException: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.1.127_468.104_336/raw/hocr/hocr.svg (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at nu.xom.Builder.build(Unknown Source)
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1224)
+	... 13 more
+12062 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.1.127_468.104_336cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.1.127_468.104_336/raw/hocr/hocr.svg
+>image.6.2.127_468/raw>
+Tesseract Open Source OCR Engine v3.05.02 with Leptonica
+Warning. Invalid resolution 0 dpi. Using 70 instead.
+java.lang.RuntimeException: cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.2.127_468.494_722/raw/hocr/hocr.svg
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1226)
+	at org.contentmine.graphics.svg.SVGElement.readAndCreateSVG(SVGElement.java:272)
+	at org.contentmine.ami.tools.AMIOCRTool.processHOCR(AMIOCRTool.java:444)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:300)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+Caused by: java.io.FileNotFoundException: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.2.127_468.494_722/raw/hocr/hocr.svg (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at nu.xom.Builder.build(Unknown Source)
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1224)
+	... 13 more
+13570 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.2.127_468.494_722cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.2.127_468.494_722/raw/hocr/hocr.svg
+>image.7.1.127_468/raw>
+Tesseract Open Source OCR Engine v3.05.02 with Leptonica
+Warning. Invalid resolution 0 dpi. Using 70 instead.
+java.lang.RuntimeException: cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.1.127_468.104_342/raw/hocr/hocr.svg
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1226)
+	at org.contentmine.graphics.svg.SVGElement.readAndCreateSVG(SVGElement.java:272)
+	at org.contentmine.ami.tools.AMIOCRTool.processHOCR(AMIOCRTool.java:444)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:300)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+Caused by: java.io.FileNotFoundException: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.1.127_468.104_342/raw/hocr/hocr.svg (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at nu.xom.Builder.build(Unknown Source)
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1224)
+	... 13 more
+15080 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.1.127_468.104_342cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.1.127_468.104_342/raw/hocr/hocr.svg
+>image.7.2.127_468/raw>
+Tesseract Open Source OCR Engine v3.05.02 with Leptonica
+Warning. Invalid resolution 0 dpi. Using 70 instead.
+>1500 ms java.lang.RuntimeException: cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.2.127_468.457_722/raw/hocr/hocr.svg
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1226)
+	at org.contentmine.graphics.svg.SVGElement.readAndCreateSVG(SVGElement.java:272)
+	at org.contentmine.ami.tools.AMIOCRTool.processHOCR(AMIOCRTool.java:444)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:300)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+Caused by: java.io.FileNotFoundException: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.2.127_468.457_722/raw/hocr/hocr.svg (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at nu.xom.Builder.build(Unknown Source)
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1224)
+	... 13 more
+18089 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.2.127_468.457_722cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.2.127_468.457_722/raw/hocr/hocr.svg
+>image.8.1.127_468/raw>
+Tesseract Open Source OCR Engine v3.05.02 with Leptonica
+Warning. Invalid resolution 0 dpi. Using 70 instead.
+>1500 ms java.lang.RuntimeException: cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.1.127_468.104_324/raw/hocr/hocr.svg
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1226)
+	at org.contentmine.graphics.svg.SVGElement.readAndCreateSVG(SVGElement.java:272)
+	at org.contentmine.ami.tools.AMIOCRTool.processHOCR(AMIOCRTool.java:444)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:300)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+Caused by: java.io.FileNotFoundException: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.1.127_468.104_324/raw/hocr/hocr.svg (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at nu.xom.Builder.build(Unknown Source)
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1224)
+	... 13 more
+21103 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.1.127_468.104_324cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.1.127_468.104_324/raw/hocr/hocr.svg
+>image.8.2.127_468/raw>
+Tesseract Open Source OCR Engine v3.05.02 with Leptonica
+Warning. Invalid resolution 0 dpi. Using 70 instead.
+java.lang.RuntimeException: cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.2.127_468.488_722/raw/hocr/hocr.svg
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1226)
+	at org.contentmine.graphics.svg.SVGElement.readAndCreateSVG(SVGElement.java:272)
+	at org.contentmine.ami.tools.AMIOCRTool.processHOCR(AMIOCRTool.java:444)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:300)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+Caused by: java.io.FileNotFoundException: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.2.127_468.488_722/raw/hocr/hocr.svg (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at nu.xom.Builder.build(Unknown Source)
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1224)
+	... 13 more
+22613 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.2.127_468.488_722cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.2.127_468.488_722/raw/hocr/hocr.svg
+>image.9.1.127_468/raw>
+Tesseract Open Source OCR Engine v3.05.02 with Leptonica
+Warning. Invalid resolution 0 dpi. Using 70 instead.
+>1500 ms java.lang.RuntimeException: cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.1.127_468.104_330/raw/hocr/hocr.svg
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1226)
+	at org.contentmine.graphics.svg.SVGElement.readAndCreateSVG(SVGElement.java:272)
+	at org.contentmine.ami.tools.AMIOCRTool.processHOCR(AMIOCRTool.java:444)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:300)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+Caused by: java.io.FileNotFoundException: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.1.127_468.104_330/raw/hocr/hocr.svg (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at nu.xom.Builder.build(Unknown Source)
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1224)
+	... 13 more
+25625 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.1.127_468.104_330cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.1.127_468.104_330/raw/hocr/hocr.svg
+>image.9.2.127_468/raw>
+Tesseract Open Source OCR Engine v3.05.02 with Leptonica
+Warning. Invalid resolution 0 dpi. Using 70 instead.
+java.lang.RuntimeException: cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.2.127_468.492_722/raw/hocr/hocr.svg
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1226)
+	at org.contentmine.graphics.svg.SVGElement.readAndCreateSVG(SVGElement.java:272)
+	at org.contentmine.ami.tools.AMIOCRTool.processHOCR(AMIOCRTool.java:444)
+	at org.contentmine.ami.tools.AMIOCRTool.runOCR(AMIOCRTool.java:300)
+	at org.contentmine.ami.tools.AMIOCRTool.processImageDir(AMIOCRTool.java:472)
+	at org.contentmine.ami.tools.ImageDirProcessor.processInputName(ImageDirProcessor.java:100)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDir(ImageDirProcessor.java:87)
+	at org.contentmine.ami.tools.ImageDirProcessor.processImageDirs(ImageDirProcessor.java:58)
+	at org.contentmine.ami.tools.AMIOCRTool.processTree(AMIOCRTool.java:252)
+	at org.contentmine.ami.tools.AbstractAMITool.processTrees(AbstractAMITool.java:652)
+	at org.contentmine.ami.tools.AMIOCRTool.runSpecifics(AMIOCRTool.java:244)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:321)
+	at org.contentmine.ami.tools.AbstractAMITool.runCommands(AbstractAMITool.java:303)
+	at org.contentmine.ami.tools.AMIOCRTool.main(AMIOCRTool.java:220)
+Caused by: java.io.FileNotFoundException: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.2.127_468.492_722/raw/hocr/hocr.svg (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at nu.xom.Builder.build(Unknown Source)
+	at org.contentmine.eucl.xml.XMLUtil.parseQuietlyToDocument(XMLUtil.java:1224)
+	... 13 more
+27137 [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - Cannot process imageDir: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.2.127_468.492_722cannot find file: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.2.127_468.492_722/raw/hocr/hocr.svg
+===============Finished AmiOcr=============
+
+Generic values (AMIPixelTool)
+================================
+output basename     null
+input basename      raw_thr_230_ds
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           [/Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950]
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIPixelTool)
+================================
+basename             default
+lines                false
+lineLengths          [100, 9999]
+maxislands           500
+mingap               1
+minwidth             30
+minheight            -1
+maxIslandCount       0
+minRingCount         -1
+outputDirname        raw_thr_230_ds/
+overlap              false
+projections          true
+projectionsName      projections
+removelinesFilename  null
+subimageTokens       [statascale, y, 2, delta, 10, projection, x]
+templateInput        raw_thr_230_ds/projections.xml
+templateOutput       template.xml
+templateXsl          /org/contentmine/ami/tools/stataTemplate.xsl
+thinning             none
+xProjectionFactor    0.5
+yProjectionFactor    0.8
+
+AMIPixelTool cTree: PMC6127950
+ >>>>> imageDirs: 15
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.2.373_539.43_73/raw_thr_230_ds.png
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.3.56_98.708_752/raw_thr_230_ds.png
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.10.2.127_468.104_276/raw_thr_230_ds.png
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.3.1.127_468.104_455/raw_thr_230_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.4.1.66_281.310_712/raw_thr_230_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.1.64_532.104_293/raw_thr_230_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.2.127_468.483_722/raw_thr_230_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.1.127_468.104_336/raw_thr_230_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.2.127_468.494_722/raw_thr_230_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.1.127_468.104_342/raw_thr_230_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.2.127_468.457_722/raw_thr_230_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.1.127_468.104_324/raw_thr_230_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.2.127_468.488_722/raw_thr_230_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.1.127_468.104_330/raw_thr_230_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.2.127_468.492_722/raw_thr_230_ds.png
+===============Finished AmiPixel=============
+
+Generic values (AMIForestPlotTool)
+================================
+output basename     null
+input basename      null
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           [/Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950]
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIForestPlotTool)
+================================
+color of lines      0
+files to display    null
+min line length     300
+min nested rings    2
+radius of contours  4.0
+plot type           null
+use Hocr            false
+offsets             null
+scaledFilename      null
+segment             false
+table               null
+tableType           []
+template            raw_thr_230_ds/template.xml
+
+
+AMIForestPlotTool cTree: PMC6127950
+ >>>>> imageDirs: 15
+===============Finished AmiForest=============
+
+Generic values (AMIImageTool)
+================================
+output basename     null
+input basename      raw.header
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           [/Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950]
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIImageTool)
+================================
+minHeight           100
+minWidth            100
+smalldir            small
+monochromeDir       monochrome
+duplicateDir        duplicate
+borders             null
+binarize            null
+despeckle           true
+erodeDilate         false
+maxheight           1000
+maxwidth            1000
+posterize           false
+priority            RAW
+rotate              null
+scalefactor         null
+sharpen             sharpen4
+template            null
+threshold           120
+
+
+Generic values (AMIFilterTool)
+================================
+output basename     null
+input basename      null
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           null
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIFilterTool)
+================================
+minHeight           0
+minWidth            0
+smalldir            small
+monochromeDir       monochrome
+duplicateDir        duplicate
+maxheight           null
+maxwidth            null
+
+no trees
+
+Generic values (AMIFilterTool)
+================================
+output basename     null
+input basename      null
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           null
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIFilterTool)
+================================
+minHeight           0
+minWidth            0
+smalldir            small
+monochromeDir       monochrome
+duplicateDir        duplicate
+maxheight           null
+maxwidth            null
+
+no trees
+AMIImageTool cTree: PMC6127950
+AMIImageTOOL processTree
+ >>>>> imageDirs: 15
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.2.373_539.43_73/raw.header.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.3.56_98.708_752/raw.header.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.10.2.127_468.104_276/raw.header.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.3.1.127_468.104_455/raw.header.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.4.1.66_281.310_712/raw.header.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.1.64_532.104_293/raw.header.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.2.127_468.483_722/raw.header.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.1.127_468.104_336/raw.header.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.2.127_468.494_722/raw.header.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.1.127_468.104_342/raw.header.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.2.127_468.457_722/raw.header.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.1.127_468.104_324/raw.header.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.2.127_468.488_722/raw.header.png
+2    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.1.127_468.104_330/raw.header.png
+2    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.2.127_468.492_722/raw.header.png
+
+Generic values (AMIImageTool)
+================================
+output basename     null
+input basename      raw.body.ltable
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           [/Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950]
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIImageTool)
+================================
+minHeight           100
+minWidth            100
+smalldir            small
+monochromeDir       monochrome
+duplicateDir        duplicate
+borders             null
+binarize            null
+despeckle           true
+erodeDilate         false
+maxheight           1000
+maxwidth            1000
+posterize           false
+priority            RAW
+rotate              null
+scalefactor         null
+sharpen             sharpen4
+template            null
+threshold           120
+
+
+Generic values (AMIFilterTool)
+================================
+output basename     null
+input basename      null
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           null
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIFilterTool)
+================================
+minHeight           0
+minWidth            0
+smalldir            small
+monochromeDir       monochrome
+duplicateDir        duplicate
+maxheight           null
+maxwidth            null
+
+no trees
+
+Generic values (AMIFilterTool)
+================================
+output basename     null
+input basename      null
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           null
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIFilterTool)
+================================
+minHeight           0
+minWidth            0
+smalldir            small
+monochromeDir       monochrome
+duplicateDir        duplicate
+maxheight           null
+maxwidth            null
+
+no trees
+AMIImageTool cTree: PMC6127950
+AMIImageTOOL processTree
+ >>>>> imageDirs: 15
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.2.373_539.43_73/raw.body.ltable.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.3.56_98.708_752/raw.body.ltable.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.10.2.127_468.104_276/raw.body.ltable.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.3.1.127_468.104_455/raw.body.ltable.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.4.1.66_281.310_712/raw.body.ltable.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.1.64_532.104_293/raw.body.ltable.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.2.127_468.483_722/raw.body.ltable.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.1.127_468.104_336/raw.body.ltable.png
+2    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.2.127_468.494_722/raw.body.ltable.png
+2    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.1.127_468.104_342/raw.body.ltable.png
+2    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.2.127_468.457_722/raw.body.ltable.png
+2    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.1.127_468.104_324/raw.body.ltable.png
+2    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.2.127_468.488_722/raw.body.ltable.png
+2    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.1.127_468.104_330/raw.body.ltable.png
+2    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.2.127_468.492_722/raw.body.ltable.png
+
+Generic values (AMIImageTool)
+================================
+output basename     null
+input basename      raw.body.rtable
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           [/Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950]
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIImageTool)
+================================
+minHeight           100
+minWidth            100
+smalldir            small
+monochromeDir       monochrome
+duplicateDir        duplicate
+borders             null
+binarize            null
+despeckle           true
+erodeDilate         false
+maxheight           1000
+maxwidth            1000
+posterize           false
+priority            RAW
+rotate              null
+scalefactor         null
+sharpen             sharpen4
+template            null
+threshold           120
+
+
+Generic values (AMIFilterTool)
+================================
+output basename     null
+input basename      null
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           null
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIFilterTool)
+================================
+minHeight           0
+minWidth            0
+smalldir            small
+monochromeDir       monochrome
+duplicateDir        duplicate
+maxheight           null
+maxwidth            null
+
+no trees
+
+Generic values (AMIFilterTool)
+================================
+output basename     null
+input basename      null
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           null
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIFilterTool)
+================================
+minHeight           0
+minWidth            0
+smalldir            small
+monochromeDir       monochrome
+duplicateDir        duplicate
+maxheight           null
+maxwidth            null
+
+no trees
+AMIImageTool cTree: PMC6127950
+AMIImageTOOL processTree
+ >>>>> imageDirs: 15
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.2.373_539.43_73/raw.body.rtable.png
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.3.56_98.708_752/raw.body.rtable.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.10.2.127_468.104_276/raw.body.rtable.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.3.1.127_468.104_455/raw.body.rtable.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.4.1.66_281.310_712/raw.body.rtable.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.1.64_532.104_293/raw.body.rtable.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.2.127_468.483_722/raw.body.rtable.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.1.127_468.104_336/raw.body.rtable.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.2.127_468.494_722/raw.body.rtable.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.1.127_468.104_342/raw.body.rtable.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.2.127_468.457_722/raw.body.rtable.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.1.127_468.104_324/raw.body.rtable.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.2.127_468.488_722/raw.body.rtable.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.1.127_468.104_330/raw.body.rtable.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.2.127_468.492_722/raw.body.rtable.png
+===============Finished Sharpen Threshold=============
+
+Generic values (AMIOCRTool)
+================================
+output basename     null
+input basename      raw.header_s4_thr_120_ds
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           [/Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950]
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIOCRTool)
+================================
+disambiguate        false
+extractlines        [hocr]
+glyphs              false
+gocr                null
+html                true
+maxsize             null
+mergeNames          []
+replace             []
+scale               null
+scalefactor         null
+scaledFilename      null
+tesseractPath       /usr/local/bin/tesseract
+
+AMIOCRTool cTree: PMC6127950
+ >>>>> imageDirs: 15
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.2.373_539.43_73/raw.header_s4_thr_120_ds.png
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.3.56_98.708_752/raw.header_s4_thr_120_ds.png
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.10.2.127_468.104_276/raw.header_s4_thr_120_ds.png
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.3.1.127_468.104_455/raw.header_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.4.1.66_281.310_712/raw.header_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.1.64_532.104_293/raw.header_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.2.127_468.483_722/raw.header_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.1.127_468.104_336/raw.header_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.2.127_468.494_722/raw.header_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.1.127_468.104_342/raw.header_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.2.127_468.457_722/raw.header_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.1.127_468.104_324/raw.header_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.2.127_468.488_722/raw.header_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.1.127_468.104_330/raw.header_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.2.127_468.492_722/raw.header_s4_thr_120_ds.png
+
+Generic values (AMIOCRTool)
+================================
+output basename     null
+input basename      raw.body.ltable_s4_thr_120_ds
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           [/Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950]
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIOCRTool)
+================================
+disambiguate        false
+extractlines        [hocr]
+glyphs              false
+gocr                null
+html                true
+maxsize             null
+mergeNames          []
+replace             []
+scale               null
+scalefactor         null
+scaledFilename      null
+tesseractPath       /usr/local/bin/tesseract
+
+AMIOCRTool cTree: PMC6127950
+ >>>>> imageDirs: 15
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.2.373_539.43_73/raw.body.ltable_s4_thr_120_ds.png
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.3.56_98.708_752/raw.body.ltable_s4_thr_120_ds.png
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.10.2.127_468.104_276/raw.body.ltable_s4_thr_120_ds.png
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.3.1.127_468.104_455/raw.body.ltable_s4_thr_120_ds.png
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.4.1.66_281.310_712/raw.body.ltable_s4_thr_120_ds.png
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.1.64_532.104_293/raw.body.ltable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.2.127_468.483_722/raw.body.ltable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.1.127_468.104_336/raw.body.ltable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.2.127_468.494_722/raw.body.ltable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.1.127_468.104_342/raw.body.ltable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.2.127_468.457_722/raw.body.ltable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.1.127_468.104_324/raw.body.ltable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.2.127_468.488_722/raw.body.ltable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.1.127_468.104_330/raw.body.ltable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.2.127_468.492_722/raw.body.ltable_s4_thr_120_ds.png
+
+Generic values (AMIOCRTool)
+================================
+output basename     null
+input basename      raw.body.rtable_s4_thr_120_ds
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           [/Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950]
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIOCRTool)
+================================
+disambiguate        false
+extractlines        [hocr]
+glyphs              false
+gocr                null
+html                true
+maxsize             null
+mergeNames          []
+replace             []
+scale               null
+scalefactor         null
+scaledFilename      null
+tesseractPath       /usr/local/bin/tesseract
+
+AMIOCRTool cTree: PMC6127950
+ >>>>> imageDirs: 15
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.2.373_539.43_73/raw.body.rtable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.3.56_98.708_752/raw.body.rtable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.10.2.127_468.104_276/raw.body.rtable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.3.1.127_468.104_455/raw.body.rtable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.4.1.66_281.310_712/raw.body.rtable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.1.64_532.104_293/raw.body.rtable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.2.127_468.483_722/raw.body.rtable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.1.127_468.104_336/raw.body.rtable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.2.127_468.494_722/raw.body.rtable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.1.127_468.104_342/raw.body.rtable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.2.127_468.457_722/raw.body.rtable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.1.127_468.104_324/raw.body.rtable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.2.127_468.488_722/raw.body.rtable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.1.127_468.104_330/raw.body.rtable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.2.127_468.492_722/raw.body.rtable_s4_thr_120_ds.png
+===============Finished Tesseract =============
+
+Generic values (AMIOCRTool)
+================================
+output basename     null
+input basename      raw.header_s4_thr_120_ds
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           [/Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950]
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIOCRTool)
+================================
+disambiguate        false
+extractlines        [gocr]
+glyphs              false
+gocr                /usr/local/bin/gocr
+html                true
+maxsize             null
+mergeNames          []
+replace             []
+scale               null
+scalefactor         null
+scaledFilename      null
+tesseractPath       null
+
+AMIOCRTool cTree: PMC6127950
+ >>>>> imageDirs: 15
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.2.373_539.43_73/raw.header_s4_thr_120_ds.png
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.3.56_98.708_752/raw.header_s4_thr_120_ds.png
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.10.2.127_468.104_276/raw.header_s4_thr_120_ds.png
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.3.1.127_468.104_455/raw.header_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.4.1.66_281.310_712/raw.header_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.1.64_532.104_293/raw.header_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.2.127_468.483_722/raw.header_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.1.127_468.104_336/raw.header_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.2.127_468.494_722/raw.header_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.1.127_468.104_342/raw.header_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.2.127_468.457_722/raw.header_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.1.127_468.104_324/raw.header_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.2.127_468.488_722/raw.header_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.1.127_468.104_330/raw.header_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.2.127_468.492_722/raw.header_s4_thr_120_ds.png
+
+Generic values (AMIOCRTool)
+================================
+output basename     null
+input basename      raw.body.ltable_s4_thr_120_ds
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           [/Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950]
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIOCRTool)
+================================
+disambiguate        false
+extractlines        [gocr]
+glyphs              false
+gocr                /usr/local/bin/gocr
+html                true
+maxsize             null
+mergeNames          []
+replace             []
+scale               null
+scalefactor         null
+scaledFilename      null
+tesseractPath       null
+
+AMIOCRTool cTree: PMC6127950
+ >>>>> imageDirs: 15
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.2.373_539.43_73/raw.body.ltable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.3.56_98.708_752/raw.body.ltable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.10.2.127_468.104_276/raw.body.ltable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.3.1.127_468.104_455/raw.body.ltable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.4.1.66_281.310_712/raw.body.ltable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.1.64_532.104_293/raw.body.ltable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.2.127_468.483_722/raw.body.ltable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.1.127_468.104_336/raw.body.ltable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.2.127_468.494_722/raw.body.ltable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.1.127_468.104_342/raw.body.ltable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.2.127_468.457_722/raw.body.ltable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.1.127_468.104_324/raw.body.ltable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.2.127_468.488_722/raw.body.ltable_s4_thr_120_ds.png
+2    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.1.127_468.104_330/raw.body.ltable_s4_thr_120_ds.png
+2    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.2.127_468.492_722/raw.body.ltable_s4_thr_120_ds.png
+
+Generic values (AMIOCRTool)
+================================
+output basename     null
+input basename      raw.body.rtable_s4_thr_120_ds
+input basename list null
+cproject            
+ctree               /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950
+cTreeList           [/Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950]
+dryrun              false
+excludeBase         null
+excludeTrees        null
+file types          []
+forceMake           false
+includeBase         null
+includeTrees        null
+log4j               
+logfile             null
+subdirectoryType    null
+verbose             0
+
+Specific values (AMIOCRTool)
+================================
+disambiguate        false
+extractlines        [gocr]
+glyphs              false
+gocr                /usr/local/bin/gocr
+html                true
+maxsize             null
+mergeNames          []
+replace             []
+scale               null
+scalefactor         null
+scaledFilename      null
+tesseractPath       null
+
+AMIOCRTool cTree: PMC6127950
+ >>>>> imageDirs: 15
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.2.373_539.43_73/raw.body.rtable_s4_thr_120_ds.png
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.1.3.56_98.708_752/raw.body.rtable_s4_thr_120_ds.png
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.10.2.127_468.104_276/raw.body.rtable_s4_thr_120_ds.png
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.3.1.127_468.104_455/raw.body.rtable_s4_thr_120_ds.png
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.4.1.66_281.310_712/raw.body.rtable_s4_thr_120_ds.png
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.1.64_532.104_293/raw.body.rtable_s4_thr_120_ds.png
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.5.2.127_468.483_722/raw.body.rtable_s4_thr_120_ds.png
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.1.127_468.104_336/raw.body.rtable_s4_thr_120_ds.png
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.6.2.127_468.494_722/raw.body.rtable_s4_thr_120_ds.png
+0    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.1.127_468.104_342/raw.body.rtable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.7.2.127_468.457_722/raw.body.rtable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.1.127_468.104_324/raw.body.rtable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.8.2.127_468.488_722/raw.body.rtable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.1.127_468.104_330/raw.body.rtable_s4_thr_120_ds.png
+1    [main] ERROR org.contentmine.ami.tools.ImageDirProcessor  - BUG? image file does not exist: /Users/pm286/workspace/projects/forestplots/test20190804/_stataok/PMC6127950/pdfimages/image.9.2.127_468.492_722/raw.body.rtable_s4_thr_120_ds.png
+===============Finished GOCR =============
+MacBook-Pro-3:_stataok pm286$ 

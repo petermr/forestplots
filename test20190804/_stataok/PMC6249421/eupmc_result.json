@@ -1,0 +1,305 @@
+{
+  "id": [
+    "30498453"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30498453"
+  ],
+  "pmcid": [
+    "PMC6249421"
+  ],
+  "doi": [
+    "10.3389/fphys.2018.01604"
+  ],
+  "title": [
+    "An Updated Meta-Analysis of the Associations Between MicroRNA Polymorphisms and Susceptibility to Rheumatoid Arthritis."
+  ],
+  "authorString": [
+    "Zhou M, Jiang B, Xiong M, Zhu X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhou M"
+          ],
+          "firstName": [
+            "Mi"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Respiratory and Critical Care Medicine, The First Affiliated Hospital of Chongqing Medical University, Chongqing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang B"
+          ],
+          "firstName": [
+            "Bo"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Urology, The First Affiliated Hospital of Chongqing Medical University, Chongqing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xiong M"
+          ],
+          "firstName": [
+            "Mao"
+          ],
+          "lastName": [
+            "Xiong"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Urology, The First Affiliated Hospital of Chongqing Medical University, Chongqing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu X"
+          ],
+          "firstName": [
+            "Xin"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Urology, The First Affiliated Hospital of Chongqing Medical University, Chongqing, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2644114"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in physiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Physiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Physiol"
+          ],
+          "NLMid": [
+            "101549006"
+          ],
+          "ISSN": [
+            "1664-042X"
+          ],
+          "ESSN": [
+            "1664-042X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1604"
+  ],
+  "abstractText": [
+    "Aims: Rheumatoid arthritis (RA) is characterized by cartilage and bone damage leading to disability. Here, the association between microRNA (miRNA) polymorphisms and susceptibility to RA was evaluated by performing an updated meta-analysis and systematic review. Main methods: An electronic search of databases including PubMed and Embase was performed from inception to December 8, 2017 to retrieve studies investigating the association between miRNA polymorphisms and RA risk. Two reviewers independently screened literature according to the inclusion and exclusion criteria and extracted data. The meta-analysis was conducted using Stata 14.0 software. Key findings: Thirteen case-control studies with 2660 cases and 4098 controls were screened out after a systematic search. One study from the miR-146a rs2910164 G > C polymorphism group and two from the miR-499 rs3746444 T > C polymorphism group were excluded because of deviations from Hardy-Weinberg equilibrium. Pooled analysis demonstrated that miR-146a rs2910164 G > C polymorphism was not significantly associated with susceptibility to RA. However, a significant association was observed between miR-499 rs3746444 T > C polymorphism and RA risk (C vs. T: OR = 1.22, 95% CI = 1.05-1.42, P = 0.008; TC vs. TT: OR = 1.26, 95% CI = 1.05-1.50, P = 0.011; TC/CC vs. TT: OR = 1.26, 95% CI = 1.07-1.5, P = 0.007). Subgroup analysis based on ethnicity showed no significant association between miR-499 T > C polymorphism and susceptibility to RA in the Asian population (P > 0.05). However, in Caucasian population, the C allele in the miR-499 T > C polymorphism was a contributor to RA susceptibility in some genetic models (C vs. T: OR = 1.64, 95% CI = 1.28-2.11, P < 0.001; TC vs. TT: OR = 1.95, 95% CI = 1.40-2.71, P < 0.001; TC/CC vs. TT: OR = 1.96, 95% CI = 1.43-2.69, P < 0.001). Significance: The miR-146a rs2910164 G > C polymorphism was not associated with susceptibility to RA. In the Caucasian population, the C allele in the miR-499 T > C polymorphism contributed to RA susceptibility."
+  ],
+  "affiliation": [
+    "Department of Respiratory and Critical Care Medicine, The First Affiliated Hospital of Chongqing Medical University, Chongqing, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Rheumatoid arthritis",
+        "Single nucleotide polymorphism",
+        "Meta-analysis",
+        "Systematic review",
+        "MicroRNA"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6249421?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6249421"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphys.2018.01604"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-12-01"
+  ],
+  "firstIndexDate": [
+    "2018-12-01"
+  ],
+  "dateOfRevision": [
+    "2018-11-30"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-15"
+  ],
+  "firstPublicationDate": [
+    "2018-11-15"
+  ]
+}

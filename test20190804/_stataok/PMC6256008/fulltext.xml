@@ -1,0 +1,1603 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Br J Clin Pharmacol</journal-id><journal-id journal-id-type="iso-abbrev">Br J Clin Pharmacol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2125</journal-id><journal-id journal-id-type="publisher-id">BCP</journal-id><journal-title-group><journal-title>British Journal of Clinical Pharmacology</journal-title></journal-title-group><issn pub-type="ppub">0306-5251</issn><issn pub-type="epub">1365-2125</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6256008</article-id><article-id pub-id-type="doi">10.1111/bcp.13722</article-id><article-id pub-id-type="publisher-id">BCP13722</article-id><article-id pub-id-type="other">REV-00124-18.R1</article-id><article-categories><subj-group subj-group-type="overline"><subject>Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>The association between the <italic>NAT2</italic> genetic polymorphisms and risk of DILI during anti&#x02010;TB treatment: a systematic review and meta&#x02010;analysis</article-title><alt-title alt-title-type="right-running-head">Slow <italic>NAT2</italic> genotype is a risk factor for AT&#x02010;DILI</alt-title><alt-title alt-title-type="left-running-head">M. Zhang et al.</alt-title></title-group><contrib-group><contrib id="bcp13722-cr-0001" contrib-type="author"><name><surname>Zhang</surname><given-names>Min</given-names></name><xref ref-type="aff" rid="bcp13722-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bcp13722-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="bcp13722-note-0001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="bcp13722-cr-0002" contrib-type="author"><name><surname>Wang</surname><given-names>Shuqiang</given-names></name><xref ref-type="aff" rid="bcp13722-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="bcp13722-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="author-notes" rid="bcp13722-note-0001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="bcp13722-cr-0003" contrib-type="author"><name><surname>Wilffert</surname><given-names>Bob</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8759-5697</contrib-id><xref ref-type="aff" rid="bcp13722-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="bcp13722-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="bcp13722-cr-0004" contrib-type="author"><name><surname>Tong</surname><given-names>Rongsheng</given-names></name><xref ref-type="aff" rid="bcp13722-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bcp13722-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="bcp13722-cr-0005" contrib-type="author"><name><surname>van Soolingen</surname><given-names>Dick</given-names></name><xref ref-type="aff" rid="bcp13722-aff-0006">
+<sup>6</sup>
+</xref><xref ref-type="aff" rid="bcp13722-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="bcp13722-cr-0006" contrib-type="author"><name><surname>van den Hof</surname><given-names>Susan</given-names></name><xref ref-type="aff" rid="bcp13722-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="bcp13722-cr-0007" contrib-type="author" corresp="yes"><name><surname>Alffenaar</surname><given-names>Jan&#x02010;Willem</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6703-0288</contrib-id><address><email>j.w.c.alffenaar@umcg.nl</email></address><xref ref-type="aff" rid="bcp13722-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="bcp13722-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Pharmacy</named-content>
+<institution>Sichuan Academy of Medical Sciences &#x00026; Sichuan Provincial People's Hospital</institution>
+<named-content content-type="city">Chengdu</named-content>
+<country country="CN">China</country>
+</aff><aff id="bcp13722-aff-0002">
+<label><sup>2</sup></label>
+<institution>University of Groningen, University Medical Center Groningen</institution>
+<named-content content-type="organisation-division">Department of Clinical Pharmacy and Pharmacology</named-content>
+<named-content content-type="city">Groningen</named-content>
+<country country="NL">The Netherlands</country>
+</aff><aff id="bcp13722-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Infectious Diseases</named-content>
+<institution>Sichuan Academy of Medical Sciences &#x00026; Sichuan Provincial People's Hospital</institution>
+<named-content content-type="city">Chengdu</named-content>
+<country country="CN">China</country>
+</aff><aff id="bcp13722-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Pharmacotherapy, &#x02010;Epidemiology, &#x00026; &#x02010;Economics, Groningen Research Institute of Pharmacy</named-content>
+<institution>University of Groningen</institution>
+<named-content content-type="city">Groningen</named-content>
+<country country="NL">The Netherlands</country>
+</aff><aff id="bcp13722-aff-0005" content-type="private-address">
+<label><sup>5</sup></label>
+<institution>Personalized Drug Therapy Key Laboratory of Sichuan Province</institution>
+</aff><aff id="bcp13722-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Tuberculosis Reference Laboratory</named-content>
+<institution>National Institute for Public Health and the Environment (RIVM)</institution>
+<named-content content-type="city">Bilthoven</named-content>
+<country country="NL">The Netherlands</country>
+</aff><aff id="bcp13722-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Department of Medical Microbiology</named-content>
+<institution>Radboud University Medical Centre</institution>
+<named-content content-type="city">Nijmegen</named-content>
+<country country="NL">The Netherlands</country>
+</aff><aff id="bcp13722-aff-0008" content-type="private-address">
+<label><sup>8</sup></label>
+<institution>KNCV Tuberculosis Foundation</institution>
+<named-content content-type="city">The Hague</named-content>
+<country country="NL">The Netherlands</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence<break/>
+Jan&#x02010;Willem C. Alffenaar, PhD, PharmD, University of Groningen, University Medical Center Groningen, Clinical Pharmacy and Pharmacology, Hanzeplein 1, 9714GZ Groningen, The Netherlands. Tel.: +31503614035; Fax: +31503614087;<break/>
+E&#x02010;mail: <email>j.w.c.alffenaar@umcg.nl</email><break/></corresp><fn id="bcp13722-note-0001"><label>&#x02020;</label><p>These authors contributed equally to this work.</p></fn></author-notes><pub-date pub-type="epub"><day>03</day><month>10</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>12</month><year>2018</year></pub-date><pub-date pub-type="pmc-release"><day>03</day><month>10</month><year>2018</year></pub-date><!-- PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>. --><volume>84</volume><issue>12</issue><issue-id pub-id-type="doi">10.1111/bcp.v84.12</issue-id><fpage>2747</fpage><lpage>2760</lpage><history><date date-type="received"><day>14</day><month>2</month><year>2018</year></date><date date-type="rev-recd"><day>11</day><month>7</month><year>2018</year></date><date date-type="accepted"><day>20</day><month>7</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 The British Pharmacological Society <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. British Journal of Clinical Pharmacology published by John Wiley &#x00026; Sons Ltd on behalf of British Pharmacological Society.</copyright-statement><license license-type="creativeCommonsBy-nc"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:BCP-84-2747.pdf"/><abstract><sec id="bcp13722-sec-0001"><title>Aims</title><p>The aim of this study is to evaluate the potential association between <italic>N</italic>&#x02010;acetyltransferase type 2 (<italic>NAT2</italic>) polymorphisms and drug&#x02010;induced liver injury during anti&#x02010;TB treatment (AT&#x02010;DILI).</p></sec><sec id="bcp13722-sec-0002"><title>Methods</title><p>We conducted a systematic review and performed a meta&#x02010;analysis to clarify the role of <italic>NAT2</italic> polymorphism in AT&#x02010;DILI. PubMed, Medline and EMBASE databases were searched for studies published in English to December 31, 2017, on the association between the <italic>NAT2</italic> polymorphism and AT&#x02010;DILI risk. Outcomes were pooled with random&#x02010;effects meta&#x02010;analysis. Details were registered in the PROSPERO register (number: CRD42016051722).</p></sec><sec id="bcp13722-sec-0003"><title>Results</title><p>Thirty&#x02010;seven studies involving 1527 cases and 7184 controls were included in this meta&#x02010;analysis. The overall odds ratio (OR) of AT&#x02010;DILI associated with <italic>NAT2</italic> slow acetylator phenotype was 3.15 (95% CI 2.58&#x02013;3.84, <italic>I</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;51.3%, <italic>P</italic>&#x000a0;=&#x000a0;0.000). The OR varied between different ethnic populations, ranging from 6.42 (95% CI 2.41&#x02013;17.10, <italic>I</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;2.3%) for the West Asian population to 2.32 (95% CI 0.58&#x02013;9.24, <italic>I</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;80.3%) for the European population. Within the slow <italic>NAT2</italic> genotype, variation was also observed; <italic>NAT2*6/*7</italic> was associated with the highest risk of AT&#x02010;DILI (OR&#x000a0;=&#x000a0;1.68, 95% CI 1.09&#x02013;2.59) compared to the other slow <italic>NAT2</italic> acetylators combined.</p></sec><sec id="bcp13722-sec-0004"><title>Conclusions</title><p>
+<italic>NAT2</italic> slow acetylation was observed to increase the risk of AT&#x02010;DILI in tuberculosis patients. Our results support the hypothesis that the slow <italic>NAT2</italic> genotype is a risk factor for AT&#x02010;DILI.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="bcp13722-kwd-0001">antituberculosis drug&#x02010;induced liver injury</kwd><kwd id="bcp13722-kwd-0002">meta&#x02010;analysis</kwd><kwd id="bcp13722-kwd-0003"><italic>NAT2</italic></kwd><kwd id="bcp13722-kwd-0004">polymorphism</kwd></kwd-group><funding-group><award-group><funding-source>China National Key Specialty Construction Project of clinical pharmacy</funding-source><award-id>30305030698</award-id></award-group></funding-group><counts><fig-count count="8"/><table-count count="1"/><page-count count="14"/><word-count count="3929"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>bcp13722</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.5.3 mode:remove_FC converted:27.11.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="bcp13722-cit-0000">
+<string-name>
+<surname>Zhang</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wilffert</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Tong</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>van Soolingen</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>van den Hof</surname>, <given-names>S.</given-names>
+</string-name>, and <string-name>
+<surname>Alffenaar</surname>, <given-names>J.&#x02010;W.</given-names>
+</string-name> (<year>2018</year>) <article-title>The association between the <italic>NAT2</italic> genetic polymorphisms and risk of DILI during anti&#x02010;TB treatment: a systematic review and meta&#x02010;analysis</article-title>. <source xml:lang="en">Br J Clin Pharmacol</source>, <volume>84</volume>: <fpage>2747</fpage>&#x02013;<lpage>2760</lpage>. <pub-id pub-id-type="doi">10.1111/bcp.13722</pub-id>.</mixed-citation>
+</p></notes></front><body><sec id="bcp13722-sec-0005"><title>What is Already Known about this Subject</title><p>
+<list list-type="bullet" id="bcp13722-list-0001"><list-item id="bcp13722-li-0001"><p>Although a number of previous studies have evaluated the potential association between <italic>N</italic>&#x02010;acetyltransferase type 2 (<italic>NAT2</italic>) polymorphisms and drug&#x02010;induced liver injury during anti&#x02010;TB treatment (AT&#x02010;DILI), the results were inconsistent.</p></list-item></list>
+</p></sec><sec id="bcp13722-sec-0006"><title>What this Study Adds</title><p>
+<list list-type="bullet" id="bcp13722-list-0002"><list-item id="bcp13722-li-0002"><p>We conducted a systematic review and performed a meta&#x02010;analysis to clarify the role of <italic>NAT2</italic> polymorphism in AT&#x02010;DILI. Subgroup analyses were performed by: (i) region of origin, (ii) study type, and (iii) genotyping. We evaluated the risk for specific slow <italic>NAT2</italic> acetylators and susceptibility to AT&#x02010;DILI.</p></list-item><list-item id="bcp13722-li-0003"><p>
+<italic>NAT2</italic> slow&#x02010;acetylator alleles were associated with a higher risk of AT&#x02010;DILI, especially in West Asian TB patient populations, but not in European and African populations.</p></list-item><list-item id="bcp13722-li-0004"><p>Within the slow <italic>NAT2</italic> acetylators, the risk was highest for <italic>NAT2*6/*7</italic> and relatively lowest for <italic>NAT2*5/*6</italic>.</p></list-item></list>
+</p></sec><sec id="bcp13722-sec-0007"><title>Introduction</title><p>Tuberculosis (TB) is a major global public health problem. In 2015, there were an estimated 10.4 million new (incident) TB cases worldwide <xref rid="bcp13722-bib-0001" ref-type="ref">1</xref>. The first&#x02010;line multidrug combined therapy (<ext-link ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/compound/3767">https://pubchem.ncbi.nlm.nih.gov/compound/3767</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=2765">http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=2765</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/compound/14052">https://pubchem.ncbi.nlm.nih.gov/compound/14052</ext-link> and <ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7287">http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7287</ext-link>) is known to commonly lead to adverse drug reactions (ADRs) such as hepatotoxicity, gastrointestinal disorders, allergic reactions, arthralgia and neurological disorders <xref rid="bcp13722-bib-0002" ref-type="ref">2</xref>, <xref rid="bcp13722-bib-0003" ref-type="ref">3</xref>, the most common ADR during anti&#x02010;TB treatment leading to drug discontinuation in 11% of patients <xref rid="bcp13722-bib-0004" ref-type="ref">4</xref>. Isoniazid is a key drug in anti&#x02010;TB therapy but is also the key drug responsible for the occurrence of drug&#x02010;induced liver injury during anti&#x02010;TB treatment (AT&#x02010;DILI). ADRs occur in 5&#x02013;33% of all patients receiving oral isoniazid treatment at 300&#x000a0;mg once daily <xref rid="bcp13722-bib-0005" ref-type="ref">5</xref>. The metabolic intermediates of isoniazid appear to be the cause of hepatotoxicity <xref rid="bcp13722-bib-0006" ref-type="ref">6</xref>. In the liver, isoniazid is first metabolized into <ext-link ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/compound/71602">https://pubchem.ncbi.nlm.nih.gov/compound/71602</ext-link> via <ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=225#1169">http://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=225#1169</ext-link>
+<xref rid="bcp13722-bib-0007" ref-type="ref">7</xref>. Isoniazid hydrazine and acetyl&#x02010;hydrazine are two metabolites of isoniazid, which are primarily involved in the mechanism of isoniazid&#x02010;induced hepatotoxicity <xref rid="bcp13722-bib-0008" ref-type="ref">8</xref>, <xref rid="bcp13722-bib-0009" ref-type="ref">9</xref>, <xref rid="bcp13722-bib-0010" ref-type="ref">10</xref>. Figure&#x000a0;<xref rid="bcp13722-fig-0001" ref-type="fig">1</xref> shows the metabolic pathway of isoniazid.</p><fig fig-type="Figure" xml:lang="en" id="bcp13722-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Pathways of metabolism of isoniazid</p></caption><graphic id="nlm-graphic-1" xlink:href="BCP-84-2747-g001"/></fig><p>The first genetic variation in drug response ever discovered was the <italic>N</italic>&#x02010;acetylation of isoniazid <xref rid="bcp13722-bib-0007" ref-type="ref">7</xref>. This variation was later found to be induced mainly by the polymorphisms in <italic>N</italic>&#x02010;acetyltransferase 2 coding gene (<italic>NAT2</italic>), and a number of previous studies have assessed the association between <italic>NAT2</italic> gene polymorphism and the AT&#x02010;DILI. The results of the studies were inconsistent, mainly due to limited power, Therefore, personalized dosing has not yet been introduced in programmatic anti&#x02010;TB treatment. However, considering the potential impact of <italic>NAT2</italic>&#x02010;guided dosing on the occurrence of AT&#x02010;DILI, we aimed to systematically review and meta&#x02010;analyse all published studies designed to assess the presence and strength of the postulated genetic associations between the <italic>NAT2</italic> polymorphisms and susceptibility to AT&#x02010;DILI.</p></sec><sec id="bcp13722-sec-0008"><title>Methods</title><sec id="bcp13722-sec-0009"><title>Literature search strategy</title><p>The details of the systematic review and meta&#x02010;analysis were registered in the PROSPERO register (registration number CRD42016051722).</p><p>Two authors (M.Z. and S.W.) independently searched the PubMed, Medline and EMBASE databases for studies on the association of <italic>NAT2</italic> polymorphisms with risk of DILI up to 31 December 2017 using the search words: (&#x02018;antituberculosis&#x02019; or &#x02018;anti tuberculosis&#x02019; or &#x02018;tuberculosis&#x02019;) and (&#x02018;genetic polymorphism*&#x02019; or &#x02018;polymorphism*&#x02019;) and (&#x02018;adverse drug reaction*&#x02019; or &#x02018;adverse effect*&#x02019; or &#x02018;adverse event*&#x02019; or &#x02018;drug reaction*&#x02019; or &#x02018;drug damage&#x02019; or &#x02018;drug injur*&#x02019; or &#x02018;drug&#x02010;induced&#x02019;). The search was conducted on human subjects and published in English, having no restrictions on sample size or population. The reference lists from the retrieved documents were also scanned. Through the quick reading of the title and abstract, any clearly irrelevant studies, editorials and review articles were excluded. A flow diagram summarizing the study selection process is shown in Figure&#x000a0;<xref rid="bcp13722-fig-0002" ref-type="fig">2</xref>.</p><fig fig-type="Figure" xml:lang="en" id="bcp13722-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Flowchart for identification of studies in the meta&#x02010;analysis</p></caption><graphic id="nlm-graphic-3" xlink:href="BCP-84-2747-g002"/></fig><p>
+<italic>NAT2</italic> activity is divided into three main categories as slow, intermediate and rapid acetylation, with some studies combining intermediate and rapid acetylation. In this review, individuals homozygous for slow <italic>NAT2</italic> acetylator alleles (<italic>NAT2*5/*5</italic>, <italic>NAT2*5/*6</italic>, <italic>NAT2*5/*7</italic>, <italic>NAT2*6/*6</italic>, <italic>NAT2*6/*7</italic>, <italic>NAT2*7/*7</italic>) were classified as slow acetylator phenotype; individuals homozygous for rapid <italic>NAT2</italic> acetylator alleles (<italic>NAT2*4</italic>, <italic>NAT2*11A</italic>, <italic>NAT2*12A</italic>, <italic>NAT2*12B</italic>, <italic>NAT2*12C</italic>, <italic>NAT2*13</italic>) were classified as rapid acetylator phenotype; heterozygous individuals (one rapid and one slow <italic>NAT2</italic> allele) were classified as intermediate acetylator phenotypes <xref rid="bcp13722-bib-0011" ref-type="ref">11</xref>, <xref rid="bcp13722-bib-0012" ref-type="ref">12</xref>, <xref rid="bcp13722-bib-0013" ref-type="ref">13</xref>. The rapid acetylator phenotype and intermediate acetylator phenotypes were classified as non&#x02010;slow acetylator phenotype in this review.</p></sec><sec id="bcp13722-sec-0010"><title>Inclusion and exclusion criteria</title><p>Eligible studies met the following inclusion criteria: They must (i) have evaluated the association between the <italic>NAT2</italic> genetic polymorphisms and risk of anti&#x02010;tuberculosis drug&#x02010;induced DILI in humans with either case&#x02013;control (including nested case&#x02013;control) or prospective designs, (ii) be original papers containing independent data, (iii) have included sufficient data to estimate odds ratios (ORs) and their 95% confidence intervals (CIs). Studies were excluded if they met the following predetermined criteria: (i) overlapping studies, (ii) review articles, (iii) studies without complete genetic distribution data for the DILI and non&#x02010;DILI groups, (iv) Newcastle&#x02010;Ottawa quality assessment (NOS) &#x0003c;4, (v) controls were patients without TB, (vi) not published in English.</p></sec><sec id="bcp13722-sec-0011"><title>Data extraction and assessment of study quality</title><p>The data extracted independently by the two reviewers included: name of first author, publication year, country or region of origin, study type, demographic data of age and gender, setting (clinic), stage of treatment, duration of follow&#x02010;up, matching factors, treatment regimen, detailed definition of DILI, measurement method for DILI, genotyping method and genotype distribution in cases and controls. The eligibility/exclusion criteria mentioned above were used to assess the quality of the included studies, and study quality was assessed according to Newcastle&#x02010;Ottawa quality assessment <xref rid="bcp13722-bib-0014" ref-type="ref">14</xref>. These items included: (i) selection of study subjects, (ii) comparability of cases and controls on the basis of the design or analysis, (iii) assessment exposure or outcome studies with a score &#x02265;4 estimated by the NOS were considered to be of high quality and were retained in the analysis. If any discrepancy occurred, the data were rechecked, and a third author was invited to give a final decision.</p></sec><sec id="bcp13722-sec-0012"><title>Statistical analysis</title><p>The <italic>NAT2</italic> genotypes were analysed based on the genetic model of proposed risk (rapid and intermediate acetylation phenotype <italic>vs</italic>. slow acetylation phenotype) for the <italic>NAT2</italic> polymorphisms. All of the statistical analyses were performed using STATA version 14.2 (Stata, College Station, TX, USA) and SPSS version 16.0 (SPSS, USA). Based on complete distribution data on <italic>NAT2</italic> polymorphism in cases and controls, the pooled ORs and their 95% confidence intervals (CIs) were calculated and displayed as forest plots to assess the strength of association between <italic>NAT2</italic> genetic polymorphisms and susceptibility to AT&#x02010;DILI in TB patients. In this analysis, pre&#x02010;stated ethnic subgroup analyses were performed to examine differences in the association between <italic>NAT2</italic> genotype distribution and AT&#x02010;DILI risk. Subgroup analyses were performed by: (i) region of origin (East Asia, South Asia, Southeast Asia, West Asia, Africa, Europe, South and North America); (ii) study type (case&#x02013;control study, nested case&#x02013;control study, cross&#x02010;sectional cohort studies, prospective cohort study); and (iii) genotyping (sequencing, HRM, RFLP, Taqman, SNP stream). Random effects or fixed effects models were used depending on the heterogeneity among studies. Heterogeneity was assessed using the standard Q&#x02010;statistic test, where <italic>I</italic>
+<sup>2</sup>&#x000a0;&#x0003e;&#x000a0;50% was considered to be evidence of heterogeneity. Among all qualified studies related to <italic>NAT2</italic> gene, we drew up the summary effects again after removing the study with the widest 95% confidence interval (CI). We also conducted a sensitivity analysis to assess the stability of the results by applying the leave&#x02010;one&#x02010;out method, that is repeating the meta&#x02010;analysis, each time omitting one of the studies. Publication bias was assessed using Begg's funnel plot and Egger's test. A <italic>P</italic>&#x02010;value &#x0003c;0.05 was considered as statistically significant.</p></sec></sec><sec id="bcp13722-sec-0013"><title>Results</title><sec id="bcp13722-sec-0014"><title>Identification and characteristics of the included studies</title><p>Using our electronic database searches, we identified 58 articles describing the strength of the postulated genetic associations between the <italic>NAT2</italic> polymorphisms and susceptibility to AT&#x02010;DILI. A total of 37 case&#x02013;control or prospective cohort design studies with 1527 AT&#x02010;DILI cases and 7184 controls without AT&#x02010;DILI were included in the meta&#x02010;analysis. The main characteristics of the 37 studies are shown in Table&#x000a0;<xref rid="bcp13722-tbl-0001" ref-type="table">1</xref>. The studies by An <italic>et al</italic>. <xref rid="bcp13722-bib-0015" ref-type="ref">15</xref>, Rana <italic>et al</italic>. <xref rid="bcp13722-bib-0016" ref-type="ref">16</xref> and Rana <italic>et al</italic>. <xref rid="bcp13722-bib-0017" ref-type="ref">17</xref> were excluded due to overlap with their other studies (we therefore selected the later publication to analyse the distribution of the <italic>NAT2</italic> genotype); three studies, by Guaoua <italic>et al</italic>. <xref rid="bcp13722-bib-0018" ref-type="ref">18</xref>, Ng <xref rid="bcp13722-bib-0019" ref-type="ref">19</xref> and Mishra <italic>et al</italic>. <xref rid="bcp13722-bib-0020" ref-type="ref">20</xref>, were excluded as controls were not TB patients but healthy people; the studies by Roy <italic>et al</italic>. <xref rid="bcp13722-bib-0021" ref-type="ref">21</xref> and Cavaco <italic>et al</italic>. <xref rid="bcp13722-bib-0022" ref-type="ref">22</xref> were excluded due to the absence of complete <italic>NAT2</italic> polymorphism distribution data. The study by Ohno <italic>et al</italic>. <xref rid="bcp13722-bib-0023" ref-type="ref">23</xref> was excluded due to the absence of slow acetylators.</p><table-wrap id="bcp13722-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Studies investigating the association between the <italic>NAT2</italic> polymorphisms and AT&#x02010;DILI risk</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>Genotype/</bold>
+</th><th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1">
+<bold>Year</bold>
+</th><th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1">
+<bold>Country</bold>
+</th><th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1">
+<bold>Study</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>NOS</bold>
+</th><th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1">
+<bold>Genotyping</bold>
+</th><th colspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">
+<bold>Sample size</bold>
+</th><th colspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">
+<bold>Slow acetylators</bold>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>Author</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>score</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>Case</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>Control</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>Case</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>Control</bold>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold><italic>NAT2</italic></bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Chan</bold>
+<xref rid="bcp13722-bib-0044" ref-type="ref">44</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2017</td><td align="left" valign="top" rowspan="1" colspan="1">Singapore</td><td align="left" valign="top" rowspan="1" colspan="1">Case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">Sequencing</td><td align="left" valign="top" rowspan="1" colspan="1">24</td><td align="left" valign="top" rowspan="1" colspan="1">79</td><td align="left" valign="top" rowspan="1" colspan="1">18</td><td align="left" valign="top" rowspan="1" colspan="1">17</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Wattanapokayakit</bold>
+<xref rid="bcp13722-bib-0045" ref-type="ref">45</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2016</td><td align="left" valign="top" rowspan="1" colspan="1">Thailand</td><td align="left" valign="top" rowspan="1" colspan="1">Case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">5</td><td align="left" valign="top" rowspan="1" colspan="1">Sequencing</td><td align="left" valign="top" rowspan="1" colspan="1">53</td><td align="left" valign="top" rowspan="1" colspan="1">85</td><td align="left" valign="top" rowspan="1" colspan="1">39</td><td align="left" valign="top" rowspan="1" colspan="1">21</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Mushiroda</bold>
+<xref rid="bcp13722-bib-0046" ref-type="ref">46</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2016</td><td align="left" valign="top" rowspan="1" colspan="1">Japan</td><td align="left" valign="top" rowspan="1" colspan="1">Case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">Sequencing</td><td align="left" valign="top" rowspan="1" colspan="1">73</td><td align="left" valign="top" rowspan="1" colspan="1">293</td><td align="left" valign="top" rowspan="1" colspan="1">13</td><td align="left" valign="top" rowspan="1" colspan="1">14</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Yuliwulandari</bold>
+<xref rid="bcp13722-bib-0047" ref-type="ref">47</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2016</td><td align="left" valign="top" rowspan="1" colspan="1">Indonesia</td><td align="left" valign="top" rowspan="1" colspan="1">Case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">5</td><td align="left" valign="top" rowspan="1" colspan="1">Sequencing</td><td align="left" valign="top" rowspan="1" colspan="1">50</td><td align="left" valign="top" rowspan="1" colspan="1">191</td><td align="left" valign="top" rowspan="1" colspan="1">32</td><td align="left" valign="top" rowspan="1" colspan="1">65</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Wang</bold>
+<xref rid="bcp13722-bib-0048" ref-type="ref">48</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2015</td><td align="left" valign="top" rowspan="1" colspan="1">China</td><td align="left" valign="top" rowspan="1" colspan="1">Cross&#x02010;sectional cohort study</td><td align="left" valign="top" rowspan="1" colspan="1">7</td><td align="left" valign="top" rowspan="1" colspan="1">Sequencing</td><td align="left" valign="top" rowspan="1" colspan="1">70</td><td align="left" valign="top" rowspan="1" colspan="1">285</td><td align="left" valign="top" rowspan="1" colspan="1">23</td><td align="left" valign="top" rowspan="1" colspan="1">62</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Ho</bold>
+<xref rid="bcp13722-bib-0049" ref-type="ref">49</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2013</td><td align="left" valign="top" rowspan="1" colspan="1">China</td><td align="left" valign="top" rowspan="1" colspan="1">Nested case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">Sequencing</td><td align="left" valign="top" rowspan="1" colspan="1">19</td><td align="left" valign="top" rowspan="1" colspan="1">329</td><td align="left" valign="top" rowspan="1" colspan="1">12</td><td align="left" valign="top" rowspan="1" colspan="1">67</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Lv</bold>
+<xref rid="bcp13722-bib-0024" ref-type="ref">24</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2012</td><td align="left" valign="top" rowspan="1" colspan="1">China</td><td align="left" valign="top" rowspan="1" colspan="1">Nested case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">RFLP</td><td align="left" valign="top" rowspan="1" colspan="1">89</td><td align="left" valign="top" rowspan="1" colspan="1">356</td><td align="left" valign="top" rowspan="1" colspan="1">18</td><td align="left" valign="top" rowspan="1" colspan="1">74</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Ben Mahmoud</bold>
+<xref rid="bcp13722-bib-0050" ref-type="ref">50</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2012</td><td align="left" valign="top" rowspan="1" colspan="1">Tunisia</td><td align="left" valign="top" rowspan="1" colspan="1">Nested case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">RFLP</td><td align="left" valign="top" rowspan="1" colspan="1">14</td><td align="left" valign="top" rowspan="1" colspan="1">52</td><td align="left" valign="top" rowspan="1" colspan="1">11</td><td align="left" valign="top" rowspan="1" colspan="1">22</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Rana</bold>
+<xref rid="bcp13722-bib-0016" ref-type="ref">16</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2012</td><td align="left" valign="top" rowspan="1" colspan="1">Indian</td><td align="left" valign="top" rowspan="1" colspan="1">Case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">RFLP</td><td align="left" valign="top" rowspan="1" colspan="1">50</td><td align="left" valign="top" rowspan="1" colspan="1">201</td><td align="left" valign="top" rowspan="1" colspan="1">19</td><td align="left" valign="top" rowspan="1" colspan="1">30</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Leiro&#x02010;Fernandez</bold>
+<xref rid="bcp13722-bib-0051" ref-type="ref">51</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2011</td><td align="left" valign="top" rowspan="1" colspan="1">Spain.</td><td align="left" valign="top" rowspan="1" colspan="1">Nested case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">7</td><td align="left" valign="top" rowspan="1" colspan="1">RFLP</td><td align="left" valign="top" rowspan="1" colspan="1">50</td><td align="left" valign="top" rowspan="1" colspan="1">67</td><td align="left" valign="top" rowspan="1" colspan="1">36</td><td align="left" valign="top" rowspan="1" colspan="1">44</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Sistanizad</bold>
+<xref rid="bcp13722-bib-0052" ref-type="ref">52</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2011</td><td align="left" valign="top" rowspan="1" colspan="1">Iran</td><td align="left" valign="top" rowspan="1" colspan="1">Cross&#x02010;sectional cohort study</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">RFLP</td><td align="left" valign="top" rowspan="1" colspan="1">14</td><td align="left" valign="top" rowspan="1" colspan="1">36</td><td align="left" valign="top" rowspan="1" colspan="1">9</td><td align="left" valign="top" rowspan="1" colspan="1">11</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Khalili</bold>
+<xref rid="bcp13722-bib-0053" ref-type="ref">53</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2011</td><td align="left" valign="top" rowspan="1" colspan="1">Iran</td><td align="left" valign="top" rowspan="1" colspan="1">Case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">RFLP</td><td align="left" valign="top" rowspan="1" colspan="1">14</td><td align="left" valign="top" rowspan="1" colspan="1">36</td><td align="left" valign="top" rowspan="1" colspan="1">9</td><td align="left" valign="top" rowspan="1" colspan="1">5</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Bozok</bold>
+<xref rid="bcp13722-bib-0054" ref-type="ref">54</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2008</td><td align="left" valign="top" rowspan="1" colspan="1">Turkey</td><td align="left" valign="top" rowspan="1" colspan="1">Case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">HRM</td><td align="left" valign="top" rowspan="1" colspan="1">30</td><td align="left" valign="top" rowspan="1" colspan="1">70</td><td align="left" valign="top" rowspan="1" colspan="1">23</td><td align="left" valign="top" rowspan="1" colspan="1">19</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Higuchi</bold>
+<xref rid="bcp13722-bib-0030" ref-type="ref">30</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2008</td><td align="left" valign="top" rowspan="1" colspan="1">Japan</td><td align="left" valign="top" rowspan="1" colspan="1">Nested case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">RFLP</td><td align="left" valign="top" rowspan="1" colspan="1">18</td><td align="left" valign="top" rowspan="1" colspan="1">82</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">4</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Possuelo</bold>
+<xref rid="bcp13722-bib-0055" ref-type="ref">55</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2008</td><td align="left" valign="top" rowspan="1" colspan="1">Brazil</td><td align="left" valign="top" rowspan="1" colspan="1">Prospective cohort study</td><td align="left" valign="top" rowspan="1" colspan="1">8</td><td align="left" valign="top" rowspan="1" colspan="1">Sequencing</td><td align="left" valign="top" rowspan="1" colspan="1">14</td><td align="left" valign="top" rowspan="1" colspan="1">240</td><td align="left" valign="top" rowspan="1" colspan="1">9</td><td align="left" valign="top" rowspan="1" colspan="1">60</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Shimizu</bold>
+<xref rid="bcp13722-bib-0056" ref-type="ref">56</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2005</td><td align="left" valign="top" rowspan="1" colspan="1">Japan</td><td align="left" valign="top" rowspan="1" colspan="1">Case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">5</td><td align="left" valign="top" rowspan="1" colspan="1">RFLP</td><td align="left" valign="top" rowspan="1" colspan="1">10</td><td align="left" valign="top" rowspan="1" colspan="1">32</td><td align="left" valign="top" rowspan="1" colspan="1">4</td><td align="left" valign="top" rowspan="1" colspan="1">1</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Huang</bold>
+<xref rid="bcp13722-bib-0031" ref-type="ref">31</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2002</td><td align="left" valign="top" rowspan="1" colspan="1">China</td><td align="left" valign="top" rowspan="1" colspan="1">Nested case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">RFLP</td><td align="left" valign="top" rowspan="1" colspan="1">33</td><td align="left" valign="top" rowspan="1" colspan="1">191</td><td align="left" valign="top" rowspan="1" colspan="1">14</td><td align="left" valign="top" rowspan="1" colspan="1">39</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold><italic>NAT2, CYP2E1</italic></bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Rana</bold>
+<xref rid="bcp13722-bib-0017" ref-type="ref">17</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2014</td><td align="left" valign="top" rowspan="1" colspan="1">India</td><td align="left" valign="top" rowspan="1" colspan="1">Prospective cohort study</td><td align="left" valign="top" rowspan="1" colspan="1">7</td><td align="left" valign="top" rowspan="1" colspan="1">RFLP</td><td align="left" valign="top" rowspan="1" colspan="1">55</td><td align="left" valign="top" rowspan="1" colspan="1">245</td><td align="left" valign="top" rowspan="1" colspan="1">21</td><td align="left" valign="top" rowspan="1" colspan="1">36</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Chamorro</bold>
+<xref rid="bcp13722-bib-0057" ref-type="ref">57</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2013</td><td align="left" valign="top" rowspan="1" colspan="1">Argentina.</td><td align="left" valign="top" rowspan="1" colspan="1">Cross&#x02010;sectional cohort study</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">RFLP</td><td align="left" valign="top" rowspan="1" colspan="1">47</td><td align="left" valign="top" rowspan="1" colspan="1">128</td><td align="left" valign="top" rowspan="1" colspan="1">28</td><td align="left" valign="top" rowspan="1" colspan="1">48</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Gupta</bold>
+<xref rid="bcp13722-bib-0058" ref-type="ref">58</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2013</td><td align="left" valign="top" rowspan="1" colspan="1">India</td><td align="left" valign="top" rowspan="1" colspan="1">Nested case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">7</td><td align="left" valign="top" rowspan="1" colspan="1">RFLP</td><td align="left" valign="top" rowspan="1" colspan="1">50</td><td align="left" valign="top" rowspan="1" colspan="1">165</td><td align="left" valign="top" rowspan="1" colspan="1">28</td><td align="left" valign="top" rowspan="1" colspan="1">63</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Santos</bold>
+<xref rid="bcp13722-bib-0059" ref-type="ref">59</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2013</td><td align="left" valign="top" rowspan="1" colspan="1">Brazil</td><td align="left" valign="top" rowspan="1" colspan="1">Case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">Sequencing</td><td align="left" valign="top" rowspan="1" colspan="1">18</td><td align="left" valign="top" rowspan="1" colspan="1">252</td><td align="left" valign="top" rowspan="1" colspan="1">11</td><td align="left" valign="top" rowspan="1" colspan="1">75</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>An</bold>
+<xref rid="bcp13722-bib-0060" ref-type="ref">60</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2012</td><td align="left" valign="top" rowspan="1" colspan="1">China</td><td align="left" valign="top" rowspan="1" colspan="1">Case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">Sequencing</td><td align="left" valign="top" rowspan="1" colspan="1">101</td><td align="left" valign="top" rowspan="1" colspan="1">107</td><td align="left" valign="top" rowspan="1" colspan="1">40</td><td align="left" valign="top" rowspan="1" colspan="1">13</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Bose</bold>
+<xref rid="bcp13722-bib-0061" ref-type="ref">61</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2011</td><td align="left" valign="top" rowspan="1" colspan="1">India</td><td align="left" valign="top" rowspan="1" colspan="1">Case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">7</td><td align="left" valign="top" rowspan="1" colspan="1">RFLP</td><td align="left" valign="top" rowspan="1" colspan="1">41</td><td align="left" valign="top" rowspan="1" colspan="1">177</td><td align="left" valign="top" rowspan="1" colspan="1">29</td><td align="left" valign="top" rowspan="1" colspan="1">79</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Lee</bold>
+<xref rid="bcp13722-bib-0062" ref-type="ref">62</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2010</td><td align="left" valign="top" rowspan="1" colspan="1">China</td><td align="left" valign="top" rowspan="1" colspan="1">Case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">7</td><td align="left" valign="top" rowspan="1" colspan="1">Taqman</td><td align="left" valign="top" rowspan="1" colspan="1">45</td><td align="left" valign="top" rowspan="1" colspan="1">95</td><td align="left" valign="top" rowspan="1" colspan="1">21</td><td align="left" valign="top" rowspan="1" colspan="1">20</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Yamada</bold>
+<xref rid="bcp13722-bib-0063" ref-type="ref">63</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2009</td><td align="left" valign="top" rowspan="1" colspan="1">Canada</td><td align="left" valign="top" rowspan="1" colspan="1">Case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">5</td><td align="left" valign="top" rowspan="1" colspan="1">Sequencing</td><td align="left" valign="top" rowspan="1" colspan="1">23</td><td align="left" valign="top" rowspan="1" colspan="1">147</td><td align="left" valign="top" rowspan="1" colspan="1">14</td><td align="left" valign="top" rowspan="1" colspan="1">64</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Cho</bold>
+<xref rid="bcp13722-bib-0064" ref-type="ref">64</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2007</td><td align="left" valign="top" rowspan="1" colspan="1">Korean</td><td align="left" valign="top" rowspan="1" colspan="1">Case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">Sequencing</td><td align="left" valign="top" rowspan="1" colspan="1">18</td><td align="left" valign="top" rowspan="1" colspan="1">114</td><td align="left" valign="top" rowspan="1" colspan="1">7</td><td align="left" valign="top" rowspan="1" colspan="1">12</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Vuilleumier</bold>
+<xref rid="bcp13722-bib-0065" ref-type="ref">65</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2006</td><td align="left" valign="top" rowspan="1" colspan="1">Switzerland</td><td align="left" valign="top" rowspan="1" colspan="1">Case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">7</td><td align="left" valign="top" rowspan="1" colspan="1">RFLP</td><td align="left" valign="top" rowspan="1" colspan="1">8</td><td align="left" valign="top" rowspan="1" colspan="1">81</td><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1">32</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">
+<bold><italic>NAT2, CYP2E1, GST</italic></bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Chamorro</bold>
+<xref rid="bcp13722-bib-0066" ref-type="ref">66</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2017</td><td align="left" valign="top" rowspan="1" colspan="1">Argentina</td><td align="left" valign="top" rowspan="1" colspan="1">Prospective cohort study</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">RFLP</td><td align="left" valign="top" rowspan="1" colspan="1">96</td><td align="left" valign="top" rowspan="1" colspan="1">249</td><td align="left" valign="top" rowspan="1" colspan="1">64</td><td align="left" valign="top" rowspan="1" colspan="1">102</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Heinrich</bold>
+<xref rid="bcp13722-bib-0067" ref-type="ref">67</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2016</td><td align="left" valign="top" rowspan="1" colspan="1">Brazil</td><td align="left" valign="top" rowspan="1" colspan="1">Cross&#x02010;sectional cohort study</td><td align="left" valign="top" rowspan="1" colspan="1">7</td><td align="left" valign="top" rowspan="1" colspan="1">RFLP</td><td align="left" valign="top" rowspan="1" colspan="1">20</td><td align="left" valign="top" rowspan="1" colspan="1">88</td><td align="left" valign="top" rowspan="1" colspan="1">15</td><td align="left" valign="top" rowspan="1" colspan="1">44</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Singla</bold>
+<xref rid="bcp13722-bib-0068" ref-type="ref">68</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2014</td><td align="left" valign="top" rowspan="1" colspan="1">India</td><td align="left" valign="top" rowspan="1" colspan="1">Case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">RFLP</td><td align="left" valign="top" rowspan="1" colspan="1">17</td><td align="left" valign="top" rowspan="1" colspan="1">391</td><td align="left" valign="top" rowspan="1" colspan="1">15</td><td align="left" valign="top" rowspan="1" colspan="1">213</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Xiang</bold>
+<xref rid="bcp13722-bib-0069" ref-type="ref">69</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2014</td><td align="left" valign="top" rowspan="1" colspan="1">China</td><td align="left" valign="top" rowspan="1" colspan="1">Cross&#x02010;sectional cohort study</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">Taqman</td><td align="left" valign="top" rowspan="1" colspan="1">71</td><td align="left" valign="top" rowspan="1" colspan="1">1614</td><td align="left" valign="top" rowspan="1" colspan="1">28</td><td align="left" valign="top" rowspan="1" colspan="1">501</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Costa</bold>
+<xref rid="bcp13722-bib-0070" ref-type="ref">70</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2012</td><td align="left" valign="top" rowspan="1" colspan="1">Brazil</td><td align="left" valign="top" rowspan="1" colspan="1">Prospective cohort study</td><td align="left" valign="top" rowspan="1" colspan="1">5</td><td align="left" valign="top" rowspan="1" colspan="1">Sequencing</td><td align="left" valign="top" rowspan="1" colspan="1">54</td><td align="left" valign="top" rowspan="1" colspan="1">75</td><td align="left" valign="top" rowspan="1" colspan="1">22</td><td align="left" valign="top" rowspan="1" colspan="1">13</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Teixeira</bold>
+<xref rid="bcp13722-bib-0029" ref-type="ref">29</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2011</td><td align="left" valign="top" rowspan="1" colspan="1">Brazil</td><td align="left" valign="top" rowspan="1" colspan="1">Case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">Sequencing</td><td align="left" valign="top" rowspan="1" colspan="1">26</td><td align="left" valign="top" rowspan="1" colspan="1">141</td><td align="left" valign="top" rowspan="1" colspan="1">18</td><td align="left" valign="top" rowspan="1" colspan="1">64</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Sotsuka</bold>
+<xref rid="bcp13722-bib-0071" ref-type="ref">71</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2011</td><td align="left" valign="top" rowspan="1" colspan="1">Japan</td><td align="left" valign="top" rowspan="1" colspan="1">Case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">RFLP</td><td align="left" valign="top" rowspan="1" colspan="1">52</td><td align="left" valign="top" rowspan="1" colspan="1">92</td><td align="left" valign="top" rowspan="1" colspan="1">8</td><td align="left" valign="top" rowspan="1" colspan="1">5</td></tr><tr><td colspan="3" align="left" valign="top" rowspan="1">
+<bold><italic>NAT2, CYP2E1, CYP3A4</italic></bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Zaverucha&#x02010;do&#x02010;Valle</bold>
+<xref rid="bcp13722-bib-0072" ref-type="ref">72</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2014</td><td align="left" valign="top" rowspan="1" colspan="1">Brazil</td><td align="left" valign="top" rowspan="1" colspan="1">Retrospective cohort study</td><td align="left" valign="top" rowspan="1" colspan="1">7</td><td align="left" valign="top" rowspan="1" colspan="1">Sequencing</td><td align="left" valign="top" rowspan="1" colspan="1">52</td><td align="left" valign="top" rowspan="1" colspan="1">79</td><td align="left" valign="top" rowspan="1" colspan="1">37</td><td align="left" valign="top" rowspan="1" colspan="1">36</td></tr><tr><td colspan="10" align="left" valign="top" rowspan="1">
+<bold><italic>NAT2, CYP2B6, CYP3A5, ABCB1, UGT2B7, SLCO1B1</italic></bold>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Yimer</bold>
+<xref rid="bcp13722-bib-0028" ref-type="ref">28</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2011</td><td align="left" valign="top" rowspan="1" colspan="1">Ethiopian</td><td align="left" valign="top" rowspan="1" colspan="1">Prospective cohort study</td><td align="left" valign="top" rowspan="1" colspan="1">5</td><td align="left" valign="top" rowspan="1" colspan="1">Sequencing</td><td align="left" valign="top" rowspan="1" colspan="1">41</td><td align="left" valign="top" rowspan="1" colspan="1">160</td><td align="left" valign="top" rowspan="1" colspan="1">31</td><td align="left" valign="top" rowspan="1" colspan="1">107</td></tr><tr><td colspan="4" align="left" valign="top" rowspan="1">
+<bold><italic>NAT2, CYP2E1, CYP2C9, CYP2C19, CYP2D6</italic></bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Kim</bold>
+<xref rid="bcp13722-bib-0073" ref-type="ref">73</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2009</td><td align="left" valign="top" rowspan="1" colspan="1">Korean</td><td align="left" valign="top" rowspan="1" colspan="1">Case&#x02013;control study</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">SNP stream</td><td align="left" valign="top" rowspan="1" colspan="1">67</td><td align="left" valign="top" rowspan="1" colspan="1">159</td><td align="left" valign="top" rowspan="1" colspan="1">21</td><td align="left" valign="top" rowspan="1" colspan="1">28</td></tr></tbody></table></table-wrap></sec><sec id="bcp13722-sec-0015"><title>Quantitative synthesis</title><p>Pooling all 37 studies in the meta&#x02010;analysis, comparing the slow to the non&#x02010;slow <italic>NAT2</italic> acetylators (i.e., intermediate <italic>NAT2</italic> acetylators and fast acetylators), the overall OR for the association with AT&#x02010;DILI was 3.15 (95% CI 2.58&#x02013;3.84, <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.005, Figure&#x000a0;<xref rid="bcp13722-fig-0003" ref-type="fig">3</xref>) using a random effects model (<italic>I</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;51.3%).</p><fig fig-type="Figure" xml:lang="en" id="bcp13722-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Forest plot of the association of the <italic>NAT2</italic> polymorphism with risk of AT&#x02010;DILI (subgroup analyses were performed by region of origin). For each effect measure, the forest plot indicates the pooled treatment effect estimate with its 95% CI, the weight measure and the <italic>I</italic>
+<sup>2</sup> heterogeneity measure among the studies included. CI = confidence interval; OR = odds ratio</p></caption><graphic id="nlm-graphic-5" xlink:href="BCP-84-2747-g003"/></fig><p>Subgroup analyses of the <italic>NAT2</italic> polymorphism were performed. First, a subgroup analysis for region of origin was performed (Figure&#x000a0;<xref rid="bcp13722-fig-0003" ref-type="fig">3</xref>). In descending effect size, the ORs for slow <italic>NAT2</italic> genotype associated with the risk of AT&#x02010;DILI were statistically significant for West Asia 6.42 (95% CI 2.41&#x02013;17.10), South Asia 3.05 (95% CI 2.20&#x02013;4.24), South America 3.01 (95% CI 2.29&#x02013;3.96), and East Asia 2.98 (95% CI 2.03&#x02013;4.37), but not for North America 2.02 (95% CI 0.82&#x02013;4.96) (one study only), Africa 2.40 (95% CI 0.78&#x02013;7.36) and Europe 2.32 (95% CI 0.58&#x02013;9.24).</p><p>Secondly, a subgroup analysis was performed across study designs (Figure&#x000a0;<xref rid="bcp13722-fig-0004" ref-type="fig">4</xref>). Of the 37 studies, 19 were case&#x02013;control studies, seven were nested case&#x02013;control studies, five were cross&#x02010;sectional cohort studies, five were prospective cohort studies, and one was a retrospective cohort study. The subgroups all showed positive effects sizes, ranging from 1.90 (94% CI 1.40&#x02013;2.58) for cross&#x02010;sectional cohort studies to 4.00 (95% CI 3.11&#x02013;5.14) for case&#x02013;control studies.</p><fig fig-type="Figure" xml:lang="en" id="bcp13722-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Forest plot of the association of the <italic>NAT2</italic> polymorphism with risk of AT&#x02010;DILI (subgroup analyses were performed by type of study). For each effect measure, the forest plot indicates the pooled treatment effect estimate with its 95% CI, the weight measure and the <italic>I</italic>
+<sup>2</sup> heterogeneity measure among the studies included. CI = confidence interval; OR = odds ratio</p></caption><graphic id="nlm-graphic-7" xlink:href="BCP-84-2747-g004"/></fig><p>Subgroup analysis for different methods of genotyping was performed (Figure&#x000a0;<xref rid="bcp13722-fig-0005" ref-type="fig">5</xref>). Of the 37 studies, 15 used sequencing, 18 used RFLP, two used Taqman, one used HRM, one used SNP stream. The subgroups all showed positive effects sizes, ranging from 2.06 (95% CI 0.93&#x02013;4.57) for Taqman to 8.82 (95% CI 3.26&#x02013;23.89) for HRM (one study only).</p><fig fig-type="Figure" xml:lang="en" id="bcp13722-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Forest plot of the association of the <italic>NAT2</italic> polymorphism with risk of AT&#x02010;DILI (subgroup analyses were performed by method of genotyping). For each effect measure, the forest plot indicates the pooled treatment effect estimate with its 95% CI, the weight measure and the <italic>I</italic>
+<sup>2</sup> heterogeneity measure among the studies included. CI = confidence interval; OR = odds ratio</p></caption><graphic id="nlm-graphic-9" xlink:href="BCP-84-2747-g005"/></fig><p>This meta&#x02010;analysis also evaluated the risk for specific slow <italic>NAT2</italic> acetylators and susceptibility to AT&#x02010;DILI. There were statistically significant associations between <italic>NAT2*5/*5</italic>, <italic>NAT2*5/*6</italic>, <italic>NAT2*5/*7</italic>, <italic>NAT2*6/*6</italic>, <italic>NAT2*6/*7</italic>, <italic>NAT2*7/*7</italic> and the risk of AT&#x02010;DILI. Within the slow <italic>NAT2</italic> acetylators, we found a relatively lower risk of AT&#x02010;DILI with <italic>NAT2*5/*6</italic>. The ORs for <italic>NAT2*5/*6</italic> slow <italic>NAT2</italic> acetylators compared with other slow <italic>NAT2</italic> acetylators combined was 0.43 (95% CI 0.27&#x02013;0.68) (Figure&#x000a0;<xref rid="bcp13722-fig-0006" ref-type="fig">6</xref>) using a fixed effects model (<italic>I</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;12.8%, <italic>P</italic>&#x000a0;=&#x000a0;0.328). In contrast, <italic>NAT2*6/*7</italic> was associated with a relative increased risk of AT&#x02010;DILI compared to the other slow <italic>NAT2</italic> acetylators combined (OR&#x000a0;=&#x000a0;1.68, 95% CI 1.09&#x02013;2.59) using a fixed effects model (<italic>I</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;44.0%, <italic>P</italic>&#x000a0;=&#x000a0;0.075) (Figure&#x000a0;<xref rid="bcp13722-fig-0007" ref-type="fig">7</xref>).</p><fig fig-type="Figure" xml:lang="en" id="bcp13722-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Forest plot of the association of the <italic>NAT2*5/*6</italic> slow <italic>NAT2</italic> acetylators compared with other slow <italic>NAT2</italic> acetylators combined with risk of AT&#x02010;DILI. For each effect measure, the forest plot indicates the pooled treatment effect estimate with its 95% CI, the <italic>I</italic>
+<sup>2</sup> heterogeneity measure among the studies included. CI = confidence interval; OR = odds ratio</p></caption><graphic id="nlm-graphic-11" xlink:href="BCP-84-2747-g006"/></fig><fig fig-type="Figure" xml:lang="en" id="bcp13722-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Forest plot of the association of the <italic>NAT2*6/*7</italic> slow <italic>NAT2</italic> acetylators compared with other slow <italic>NAT2</italic> acetylators combined with risk of AT&#x02010;DILI. For each effect measure, the forest plot indicates the pooled treatment effect estimate with its 95% CI, the <italic>I</italic>
+<sup>2</sup> heterogeneity measure among the studies included. CI = confidence interval; OR = odds ratio</p></caption><graphic id="nlm-graphic-13" xlink:href="BCP-84-2747-g007"/></fig></sec><sec id="bcp13722-sec-0016"><title>Sensitivity analyses and publication bias</title><p>The sensitivity analysis was conducted via sequential analysis after omitting one study at a time to assess the effects of individual studies on the overall meta&#x02010;analysis estimate. This analysis shows that the results of the meta&#x02010;analysis are statistically robust as the ORs for the overall association of slow acetylators on AT&#x02010;DILI remained significant and ranged from 3.03 to 3.25 using random effects models. Heterogeneity was specifically decreased (<italic>I</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;41.3%), when the study by Lv <italic>et al</italic>. <xref rid="bcp13722-bib-0024" ref-type="ref">24</xref> was removed.</p><p>A funnel plot of these 37 studies suggested a possibility of the preferential publication of positive findings (Figure&#x000a0;<xref rid="bcp13722-fig-0008" ref-type="fig">8</xref>). The Egger test provided evidence that there was no small&#x02010;study publication bias among the studies included (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001). The Begg's test gave the same result.</p><fig fig-type="Figure" xml:lang="en" id="bcp13722-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>Begg's funnel plot to detect publication bias for the <italic>NAT2</italic> polymorphism</p></caption><graphic id="nlm-graphic-15" xlink:href="BCP-84-2747-g008"/></fig></sec></sec><sec id="bcp13722-sec-0017"><title>Discussion</title><p>This meta&#x02010;analysis examined well&#x02010;characterized polymorphisms of <italic>NAT2</italic> gene in the relationship to AT&#x02010;DILI susceptibility. It determined that <italic>NAT2</italic> slow&#x02010;acetylator alleles were associated with a higher risk of AT&#x02010;DILI, especially in West Asian TB patient populations. Significant results were also found in South Asian, East Asian and American populations, but not in European and African populations.</p><p>The previous meta&#x02010;analyses <xref rid="bcp13722-bib-0025" ref-type="ref">25</xref>, <xref rid="bcp13722-bib-0026" ref-type="ref">26</xref>, <xref rid="bcp13722-bib-0027" ref-type="ref">27</xref> did not include data from the African population which has the largest incidence of TB in the world. Compared with the previous meta&#x02010;analyses, the present study is much larger, with more than one&#x02010;and&#x02010;a&#x02010;half to two times as many cases. It also adjusts the classification used in the study by Yimer <italic>et al</italic>. <xref rid="bcp13722-bib-0028" ref-type="ref">28</xref>, which categorized Ethiopian patients together with European patients. In contrast to our meta&#x02010;analysis, the previous meta&#x02010;analysis did not include data from Indonesian populations which has the fifth largest incidence of TB in the world. Therefore, this meta&#x02010;analysis is more comprehensive and powerful, especially because it contains Asian countries listed in the top 30 TB &#x0201c;high burden countries&#x0201d; in the 2016 latest global TB report <xref rid="bcp13722-bib-0001" ref-type="ref">1</xref>.</p><p>We performed a subgroup analysis for different study designs and methods of genotyping to investigate whether the <italic>NAT2</italic> gene polymorphism was associated differently with AT&#x02010;DILI risk when using different designs and genotyping methods. Our results on the role of the polymorphism of <italic>NAT2</italic> in different ethnicities were consistent across study design and genotyping method. Furthermore, we evaluated the risk for specific slow <italic>NAT2</italic> acetylators and susceptibility to AT&#x02010;DILI, which previous meta&#x02010;analyses never reported.</p><p>It came to our attention that although association of <italic>NAT2</italic> slow acetylators with AT&#x02010;DILI was not observed for Europeans and Africans, it was observed in the Brazilian study of Teixeira <xref rid="bcp13722-bib-0029" ref-type="ref">29</xref>, which is interesting as the Brazilian population includes contributions from Africans, Europeans and Amerindians in its heritage. Considering the ethnic diversity of the Brazilian population, a more consistent comparison of the results found among these populations would be of importance and could contribute even more to the definition of such association in different populations. At present, there is still a lack of research data on different groups of people in Brazil, and such research should be encouraged in the future.</p><p>To our knowledge, this is the first systematic review and meta&#x02010;analysis to evaluate the association between specific slow <italic>NAT2</italic> acetylators and the susceptibility to AT&#x02010;DILI. Previous studies only showed that the <italic>NAT2*6</italic> allele significantly predicts predisposition to AT&#x02010;DILI in Taiwanese, Japanese and Chinese individuals <xref rid="bcp13722-bib-0024" ref-type="ref">24</xref>, <xref rid="bcp13722-bib-0030" ref-type="ref">30</xref>, <xref rid="bcp13722-bib-0031" ref-type="ref">31</xref>. Of the 37 studies included in our meta&#x02010;analysis, nine investigated the association between slow <italic>NAT2</italic> acetylators and susceptibility to AT&#x02010;DILI and when combined, showed a relatively higher risk of AT&#x02010;DILI with <italic>NAT2*6/*7</italic>, which is in accordance with previous studies in Taiwanese, Japanese and Chinese populations.</p><p>The World Health Organization reported that over 95% of TB deaths occur in low&#x02010; and middle&#x02010;income countries. Six countries account for 60% of the total, with India leading the count, followed by Indonesia, China, Nigeria, Pakistan and South Africa <xref rid="bcp13722-bib-0001" ref-type="ref">1</xref>. In Figure&#x000a0;<xref rid="bcp13722-fig-0003" ref-type="fig">3</xref>, we can see that two&#x02010;thirds of included studies were conducted in East Asian, South Asian and Southeast Asian populations, from India, Indonesia, China, Taiwan, Iran, Japan and Korea. The pharmacokinetic profiles of INH and its metabolites differ significantly between individuals. Patients can be categorized according to their number of functional <italic>NAT2</italic> alleles into slow, intermediate and fast acetylator phenotypes. Therefore, it should be feasible and would be useful to help guide programmatic TB drug therapy through pharmacogenomics, to reduce the occurrence of ADRs in individual patients.</p><p>To provide a rational dosing design to balance the inherent trade&#x02010;off between treatment efficacy and toxicity in INH&#x02010;based chemotherapy, it should be considered that there are several polymorphisms in <italic>NAT2</italic> leading to altered catalytic activities for INH acetylation <xref rid="bcp13722-bib-0032" ref-type="ref">32</xref>, <xref rid="bcp13722-bib-0033" ref-type="ref">33</xref>, <xref rid="bcp13722-bib-0034" ref-type="ref">34</xref>, <xref rid="bcp13722-bib-0035" ref-type="ref">35</xref>. Some authors suggested that an adaptation of administered INH dosages according to patient acetylator status may benefit patients <xref rid="bcp13722-bib-0036" ref-type="ref">36</xref>, <xref rid="bcp13722-bib-0037" ref-type="ref">37</xref>, <xref rid="bcp13722-bib-0038" ref-type="ref">38</xref>. In one clinical trial an INH QD dose of 5&#x000a0;mg&#x000a0;kg<sup>&#x02212;1</sup> of body weight was modified to doses of 2.5&#x000a0;mg&#x000a0;kg<sup>&#x02212;1</sup> for slow acetylators, 5&#x000a0;mg&#x000a0;kg<sup>&#x02212;1</sup> for intermediate acetylators and 7.5&#x000a0;mg&#x000a0;kg<sup>&#x02212;1</sup> for fast acetylators, resulting in reduced adverse effects in fast acetylators while maintaining overall treatment efficacy in all acetylator phenotypes <xref rid="bcp13722-bib-0037" ref-type="ref">37</xref>.</p><p>In the past five years, personalized dosing therapy based on drug metabolizing enzymes and transporter genomes has become one of the focuses of personalized medicine. If the association between the genetic polymorphisms and risk of AT&#x02010;DILI is determined, maybe a personalized clinical drug&#x02013;dosage model can be developed for the treatment of tuberculosis taking into account other well&#x02010;known factors that influence drug exposure <xref rid="bcp13722-bib-0039" ref-type="ref">39</xref>, <xref rid="bcp13722-bib-0040" ref-type="ref">40</xref>. The personalized clinical drug&#x02013;dosage model is especially important for the population of South and East Asia with high incidence of AT&#x02010;DILI. It could effectively reduce the incidence of ADRs in the treatment of tuberculosis, especially for the treatment interruption caused by AT&#x02010;DILI. For the high&#x02010;burden TB countries, reducing the incidence of ADRs may be cost&#x02010;effective because the cost of treating AT&#x02010;DILI is often higher than the treatment of TB <xref rid="bcp13722-bib-0001" ref-type="ref">1</xref>. The WHO &#x0201c;End TB Strategy&#x0201d;, approved by the World Health Assembly in 2014, calls for a 90% reduction in TB deaths and an 80% reduction in the TB incidence rate by 2030, compared with 2015 <xref rid="bcp13722-bib-0041" ref-type="ref">41</xref>. This clinical model of tuberculosis drug therapy could play a role in the realization of this goal.</p><p>Although we included a large number of studies with a considerable overall sample size and performed subgroup analyses to explore differences in effects of the <italic>NAT2</italic> polymorphisms on AT&#x02010;DILI risk, several potential limitations should be taken into consideration when interpreting our results. Firstly, the <italic>NAT2</italic> polymorphism has a higher minor allele frequency in different populations, so the lack of information about polymorphism distributions in the target populations does not allow us to estimate the attributable fraction of <italic>NAT2</italic> polymorphisms on AT&#x02010;DILI occurrence. Secondly, the lack of information on other potential causative/protective factors, in particular age, sex, dietary habits, nutrition status, body mass index (BMI), drinking and smoking habits, were available for only a limited number of the studies and, as such, we were not able to adjust effect sizes. Thirdly, not all studies provided information on the definitions applied for AT&#x02010;DILI and hepatotoxicity. Lastly, only some studies provided information on synergism of the TB drugs used and the Hardy&#x02013;Weinberg equilibrium test, which may have impacted the effect size, and simultaneously hindered an adequate exploration of a potential source of heterogeneity. Despite these limitations, our review and meta&#x02010;analysis provides important new information that is statistically robust in sensitivity analyses and has yielded relevant and reliable results.</p></sec><sec id="bcp13722-sec-0018"><title>Conclusion</title><p>In summary, this meta&#x02010;analysis not only demonstrated that the <italic>NAT2</italic> slow acetylation phenotype was significantly associated with increased risk of AT&#x02010;DILI depending on the population studied, it also suggests that there is variation within the slow <italic>NAT2</italic> acetylator group: the risk was highest for <italic>NAT2*6/*7</italic> and relatively lowest for <italic>NAT2*5/*6</italic>. In March 2016, the United States Clinical Pharmacogenetics Implementation Consortium updated 33 pharmacogenomic drug application guidelines, 25 of which relate to drug metabolism and transport. <italic>NAT2</italic> has not yet been included in these guidelines but, based on our results, may have a place in future updates. Considering the complex mechanisms involved in the development of AT&#x02010;DILI, and limitations of the available observational studies on the impact of <italic>NAT2</italic> polymorphisms, we recommend a randomized controlled trial be designed with adequate sample size to assess the true effect of <italic>NAT2</italic>. Also evaluating gene&#x02010;to&#x02010;gene interactions (between human genetic polymorphisms and risk of AT&#x02010;DILI, such as <italic>CYP2E1</italic>, <italic>GST</italic>, <italic>CYP3A4</italic>, <italic>CYP2C19</italic>) should be encouraged. Additional evidence from such well&#x02010;designed trials would support guideline development and would aid development of a clinical tool for INH dosage adjustment based on genetic and clinical risk factors, in order to reduce hepatoxicity and improve TB treatment outcomes.</p><sec id="bcp13722-sec-0019"><title>Nomenclature of targets and ligands</title><p>Key protein targets and ligands in this article are hyperlinked to corresponding entries in <ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org">http://www.guidetopharmacology.org</ext-link>, the common portal for data from the IUPHAR/BPS Guide to PHARMACOLOGY <xref rid="bcp13722-bib-0042" ref-type="ref">42</xref>, and are permanently archived in the Concise Guide to PHARMACOLOGY 2017/18 <xref rid="bcp13722-bib-0043" ref-type="ref">43</xref>.</p></sec></sec><sec id="bcp13722-sec-0020"><title>Competing Interests</title><p>There are no competing interests to declare.</p><p>
+<italic>M.Z. is supported in part by funding from the China National Key Specialty Construction Project of clinical pharmacy (award number 30305030698).</italic>
+</p></sec></body><back><ref-list id="bcp13722-bibl-0001" content-type="cited-references"><title>References</title><ref id="bcp13722-bib-0001"><label>1</label><mixed-citation publication-type="miscellaneous" id="bcp13722-cit-0002">
+<collab collab-type="authors">World Health Organization</collab>
+. <article-title>Global tuberculosis report</article-title>. Geneva, Switzerland: World Health Organization, <year>2016</year>.</mixed-citation></ref><ref id="bcp13722-bib-0002"><label>2</label><mixed-citation publication-type="miscellaneous" id="bcp13722-cit-0003">
+<collab collab-type="authors">World Health Organization</collab>
+. <article-title>Guidelines for treatment of tuberculosis</article-title>. Geneva, Switzerland:World Health Organization, <year>2010</year>.</mixed-citation></ref><ref id="bcp13722-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="bcp13722-cit-0004">
+<string-name>
+<surname>Yee</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Valiquette</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Pelletier</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Parisien</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Rocher</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Menzies</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Incidence of serious side effects from first&#x02010;line antituberculosis drugs among patients treated for active tuberculosis</article-title>. <source xml:lang="en">Am J Respir Crit Care Med</source>
+<year>2003</year>; <volume>167</volume>: <fpage>1472</fpage>&#x02013;<lpage>1477</lpage>.<pub-id pub-id-type="pmid">12569078</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="bcp13722-cit-0005">
+<string-name>
+<surname>Ramappa</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Aithal</surname>
+<given-names>GP</given-names>
+</string-name>. <article-title>Hepatotoxicity related to anti&#x02010;tuberculosis drugs: mechanisms and management</article-title>. <source xml:lang="en">J Clin Exp Hepatol</source>
+<year>2013</year>; <volume>3</volume>: <fpage>37</fpage>&#x02013;<lpage>49</lpage>.<pub-id pub-id-type="pmid">25755470</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="bcp13722-cit-0006">
+<string-name>
+<surname>Saukkonen</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Cohn</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Jasmer</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Schenker</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Jereb</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Nolan</surname>
+<given-names>CM</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>An official ATS statement: hepatotoxicity of antituberculosis therapy</article-title>. <source xml:lang="en">Am J Respir Crit Care Med</source>
+<year>2006</year>; <volume>174</volume>: <fpage>935</fpage>&#x02013;<lpage>952</lpage>.<pub-id pub-id-type="pmid">17021358</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="bcp13722-cit-0007">
+<string-name>
+<surname>Heinrich</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Zembrzuski</surname>
+<given-names>VM</given-names>
+</string-name>, <string-name>
+<surname>Ota</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Sacchi</surname>
+<given-names>FP</given-names>
+</string-name>, <string-name>
+<surname>Teixeira</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Cabello Acero</surname>
+<given-names>PH</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Factors associated with anti&#x02010;TB drug&#x02010;induced hepatotoxicity and genetic polymorphisms in indigenous and non&#x02010;indigenous populations in Brazil</article-title>. <source xml:lang="en">Tuberculosis (Edinb)</source>
+<year>2016</year>; <volume>101</volume>: <fpage>15</fpage>&#x02013;<lpage>24</lpage>.<pub-id pub-id-type="pmid">27865386</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="bcp13722-cit-0008">
+<string-name>
+<surname>Mitchell</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Zimmerman</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Ishak</surname>
+<given-names>KG</given-names>
+</string-name>, <string-name>
+<surname>Thorgeirsson</surname>
+<given-names>UP</given-names>
+</string-name>, <string-name>
+<surname>Timbrell</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Snodgrass</surname>
+<given-names>WR</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Isoniazid liver injury: clinical spectrum, pathology, and probable pathogenesis</article-title>. <source xml:lang="en">Ann Intern Med</source>
+<year>1976</year>; <volume>84</volume>: <fpage>181</fpage>&#x02013;<lpage>192</lpage>.<pub-id pub-id-type="pmid">766682</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="bcp13722-cit-0009">
+<string-name>
+<surname>Perwitasari</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Atthobari</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wilffert</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Pharmacogenetics of isoniazid&#x02010;induced hepatotoxicity</article-title>. <source xml:lang="en">Drug Metab Rev</source>
+<year>2015</year>; <volume>47</volume>: <fpage>222</fpage>&#x02013;<lpage>228</lpage>.<pub-id pub-id-type="pmid">26095714</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="bcp13722-cit-0010">
+<string-name>
+<surname>Roy</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name>
+<surname>Majumder</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Roy</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Pharmacogenomics of anti&#x02010;TB drugs&#x02010;related hepatotoxicity</article-title>. <source xml:lang="en">Pharmacogenomics</source>
+<year>2008</year>; <volume>9</volume>: <fpage>311</fpage>&#x02013;<lpage>321</lpage>.<pub-id pub-id-type="pmid">18303967</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="bcp13722-cit-0011">
+<string-name>
+<surname>Huang</surname>
+<given-names>YS</given-names>
+</string-name>. <article-title>Genetic polymorphisms of drug&#x02010;metabolizing enzymes and the susceptibility to antituberculosis drug&#x02010;induced liver injury</article-title>. <source xml:lang="en">Expert Opin Drug Metab Toxicol</source>
+<year>2007</year>; <volume>3</volume>: <fpage>1</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">17269890</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="bcp13722-cit-0012">
+<string-name>
+<surname>Garcia&#x02010;Closas</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Malats</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Silverman</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Dosemeci</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kogevinas</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hein</surname>
+<given-names>DW</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>NAT2 slow acetylation, GSTM1 null genotype, and risk of bladder cancer: results from the Spanish Bladder Cancer Study and meta&#x02010;analyses</article-title>. <source xml:lang="en">Lancet</source>
+<year>2005</year>; <volume>366</volume>: <fpage>649</fpage>&#x02013;<lpage>659</lpage>.<pub-id pub-id-type="pmid">16112301</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="bcp13722-cit-0013">
+<string-name>
+<surname>Hein</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name>
+<surname>Doll</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Fretland</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Leff</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Webb</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>
+<given-names>GH</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Molecular genetics and epidemiology of the NAT1 and NAT2 acetylation polymorphisms</article-title>. <source xml:lang="en">Cancer Epidemiol Biomarkers Prev</source>
+<year>2000</year>; <volume>9</volume>: <fpage>29</fpage>&#x02013;<lpage>42</lpage>.<pub-id pub-id-type="pmid">10667461</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="bcp13722-cit-0014">
+<string-name>
+<surname>Ruiz</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Gross</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>
+<given-names>NP</given-names>
+</string-name>, <string-name>
+<surname>Garcia&#x02010;Martin</surname>
+<given-names>E</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>The differential effect of NAT2 variant alleles permits refinement in phenotype inference and identifies a very slow acetylation genotype</article-title>. <source xml:lang="en">PLoS One</source>
+<year>2012</year>; <volume>7</volume>: <elocation-id>e44629</elocation-id>.<pub-id pub-id-type="pmid">22970273</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0014"><label>14</label><mixed-citation publication-type="miscellaneous" id="bcp13722-cit-0015">
+<string-name>
+<surname>Wells</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Shea</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>O'Connell</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Welch</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Losos</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tugwell</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>The Newcastle&#x02010;Ottawa Scale (NOS) for assessing the quality of nonrandomised studies in meta&#x02010;analyses</article-title> [online]. Available at <ext-link ext-link-type="uri" xlink:href="http://www.ohri.ca/programs/clinical_epidemiology/oxford.asp">http://www.ohri.ca/programs/clinical_epidemiology/oxford.asp</ext-link> (last accessed 16 August 2018).</mixed-citation></ref><ref id="bcp13722-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="bcp13722-cit-0053">
+<string-name>
+<surname>An</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>XQ</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>ZY</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>JX</given-names>
+</string-name>. <article-title>The associations of polymorphism of N&#x02010;acetyltransferase 2 gene is associated with antituberculosis drug&#x02010;induced hepatotoxicity in tuberculosis patients</article-title>. <source xml:lang="en">Zhonghua Yu Fang Yi Xue Za Zhi</source>
+<year>2011</year>; <volume>45</volume>: <fpage>36</fpage>&#x02013;<lpage>40</lpage> (in Chinese).<pub-id pub-id-type="pmid">21418817</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="bcp13722-cit-0024">
+<string-name>
+<surname>Rana</surname>
+<given-names>SV</given-names>
+</string-name>, <string-name>
+<surname>Ola</surname>
+<given-names>RP</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Arora</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Sinha</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Pandhi</surname>
+<given-names>P</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Comparison between acetylator phenotype and genotype polymorphism of n&#x02010;acetyltransferase&#x02010;2 in tuberculosis patients</article-title>. <source xml:lang="en">Hepatol Int</source>
+<year>2012</year>; <volume>6</volume>: <fpage>397</fpage>&#x02013;<lpage>402</lpage>.<pub-id pub-id-type="pmid">22020825</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="bcp13722-cit-0033">
+<string-name>
+<surname>Rana</surname>
+<given-names>SV</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Ola</surname>
+<given-names>RP</given-names>
+</string-name>, <string-name>
+<surname>Kamboj</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Malik</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Morya</surname>
+<given-names>RK</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>N&#x02010;acetyltransferase 2, cytochrome P4502E1 and glutathione S&#x02010;transferase genotypes in antitubercular treatment&#x02010;induced hepatotoxicity in north Indians</article-title>. <source xml:lang="en">J Clin Pharm Ther</source>
+<year>2014</year>; <volume>39</volume>: <fpage>91</fpage>&#x02013;<lpage>96</lpage>.<pub-id pub-id-type="pmid">24188272</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="bcp13722-cit-0054">
+<string-name>
+<surname>Guaoua</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ratbi</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>El Bouazzi</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Hammi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tebaa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bourkadi</surname>
+<given-names>JE</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>NAT2 genotypes in Moroccan patients with hepatotoxicity due to antituberculosis drugs</article-title>. <source xml:lang="en">Genet Test Mol Biomarkers</source>
+<year>2016</year>; <volume>20</volume>: <fpage>680</fpage>&#x02013;<lpage>684</lpage>.<pub-id pub-id-type="pmid">27541622</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="bcp13722-cit-0055">
+<string-name>
+<surname>Ng</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Hasnat</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Al Maruf</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ahmed</surname>
+<given-names>MU</given-names>
+</string-name>, <string-name>
+<surname>Pirmohamed</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Day</surname>
+<given-names>CP</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>N&#x02010;acetyltransferase 2 (NAT2) genotype as a risk factor for development of drug&#x02010;induced liver injury relating to antituberculosis drug treatment in a mixed&#x02010;ethnicity patient group</article-title>. <source xml:lang="en">Eur J Clin Pharmacol</source>
+<year>2014</year>; <volume>70</volume>: <fpage>1079</fpage>&#x02013;<lpage>1086</lpage>.<pub-id pub-id-type="pmid">24888881</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="bcp13722-cit-0056">
+<string-name>
+<surname>Mishra</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Daschakraborty</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Shukla</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Kapoor</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Aggarwal</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>N&#x02010;acetyltransferase and cytochrome P450 2E1 gene polymorphisms and susceptibility to antituberculosis drug hepatotoxicity in an Indian population</article-title>. <source xml:lang="en">Natl Med J India</source>
+<year>2013</year>; <volume>26</volume>: <fpage>260</fpage>&#x02013;<lpage>265</lpage>.<pub-id pub-id-type="pmid">25017831</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="bcp13722-cit-0057">
+<string-name>
+<surname>Roy</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Chowdhury</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kundu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Santra</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Dey</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Chakraborty</surname>
+<given-names>M</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Increased risk of antituberculosis drug&#x02010;induced hepatotoxicity in individuals with glutathione S&#x02010;transferase M1 'null' mutation</article-title>. <source xml:lang="en">J Gastroenterol Hepatol</source>
+<year>2001</year>; <volume>16</volume>: <fpage>1033</fpage>&#x02013;<lpage>1037</lpage>.<pub-id pub-id-type="pmid">11595069</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="bcp13722-cit-0058">
+<string-name>
+<surname>Cavaco</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Reis</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Gil</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Ribeiro</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>CYP3A4*1B and NAT2*14 alleles in a native African population</article-title>. <source xml:lang="en">Clin Chem Lab Med</source>
+<year>2003</year>; <volume>41</volume>: <fpage>606</fpage>&#x02013;<lpage>609</lpage>.<pub-id pub-id-type="pmid">12747609</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="bcp13722-cit-0059">
+<string-name>
+<surname>Ohno</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Yamaguchi</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Yamamoto</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Fukuda</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Yokota</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Maekura</surname>
+<given-names>R</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Slow N&#x02010;acetyltransferase 2 genotype affects the incidence of isoniazid and rifampicin&#x02010;induced hepatotoxicity</article-title>. <source xml:lang="en">Int J Tuberc Lung Dis</source>
+<year>2000</year>; <volume>4</volume>: <fpage>256</fpage>&#x02013;<lpage>261</lpage>.<pub-id pub-id-type="pmid">10751073</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="bcp13722-cit-0022">
+<string-name>
+<surname>Lv</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>Z</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>NAT2 genetic polymorphisms and anti&#x02010;tuberculosis drug induced hepatotoxicity in Chinese community population</article-title>. <source xml:lang="en">Ann Hepatol</source>
+<year>2012</year>; <volume>11</volume>: <fpage>700</fpage>&#x02013;<lpage>707</lpage>.<pub-id pub-id-type="pmid">22947533</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="bcp13722-cit-0060">
+<string-name>
+<surname>Du</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>L</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Slow N&#x02010;acetyltransferase 2 genotype contributes to anti&#x02010;tuberculosis drug&#x02010;induced hepatotoxicity: a meta&#x02010;analysis</article-title>. <source xml:lang="en">Mol Biol Rep</source>
+<year>2013</year>; <volume>40</volume>: <fpage>3591</fpage>&#x02013;<lpage>3596</lpage>.<pub-id pub-id-type="pmid">23277397</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="bcp13722-cit-0061">
+<string-name>
+<surname>Shi</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>Susceptibility of N&#x02010;acetyltransferase 2 slow acetylators to antituberculosis drug&#x02010;induced liver injury: a meta&#x02010;analysis</article-title>. <source xml:lang="en">Pharmacogenomics</source>
+<year>2015</year>; <volume>16</volume>: <fpage>2083</fpage>&#x02013;<lpage>2097</lpage>.<pub-id pub-id-type="pmid">26616266</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="bcp13722-cit-0062">
+<string-name>
+<surname>Cordes</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Thiel</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Aschmann</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name>
+<surname>Baier</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Blank</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Kuepfer</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>A physiologically based pharmacokinetic model of isoniazid and its application in individualizing tuberculosis chemotherapy</article-title>. <source xml:lang="en">Antimicrob Agents Chemother</source>
+<year>2016</year>; <volume>60</volume>: <fpage>6134</fpage>&#x02013;<lpage>6145</lpage>.<pub-id pub-id-type="pmid">27480867</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="bcp13722-cit-0051">
+<string-name>
+<surname>Yimer</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Ueda</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Habtewold</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Amogne</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Suda</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Riedel</surname>
+<given-names>KD</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Pharmacogenetic &#x00026; pharmacokinetic biomarker for efavirenz based ARV and rifampicin based anti&#x02010;TB drug induced liver injury in TB&#x02010;HIV infected patients</article-title>. <source xml:lang="en">PLoS One</source>
+<year>2011</year>; <volume>6</volume>: <elocation-id>e27810</elocation-id>.<pub-id pub-id-type="pmid">22162992</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="bcp13722-cit-0048">
+<string-name>
+<surname>Teixeira</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Morato</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name>
+<surname>Cabello</surname>
+<given-names>PH</given-names>
+</string-name>, <string-name>
+<surname>Muniz</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Moreira Ada</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kritski</surname>
+<given-names>AL</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Genetic polymorphisms of NAT2, CYP2E1 and GST enzymes and the occurrence of antituberculosis drug&#x02010;induced hepatitis in Brazilian TB patients</article-title>. <source xml:lang="en">Mem Inst Oswaldo Cruz</source>
+<year>2011</year>; <volume>106</volume>: <fpage>716</fpage>&#x02013;<lpage>724</lpage>.<pub-id pub-id-type="pmid">22012226</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="bcp13722-cit-0029">
+<string-name>
+<surname>Higuchi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Tahara</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Yanagihara</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Fukushima</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Suyama</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Inoue</surname>
+<given-names>Y</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>NAT2 6A, a haplotype of the N&#x02010;acetyltransferase 2 gene, is an important biomarker for risk of anti&#x02010;tuberculosis drug&#x02010;induced hepatotoxicity in Japanese patients with tuberculosis</article-title>. <source xml:lang="en">World J Gastroenterol</source>
+<year>2007</year>; <volume>13</volume>: <fpage>6003</fpage>&#x02013;<lpage>6008</lpage>.<pub-id pub-id-type="pmid">18023090</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="bcp13722-cit-0032">
+<string-name>
+<surname>Huang</surname>
+<given-names>YS</given-names>
+</string-name>, <string-name>
+<surname>Chern</surname>
+<given-names>HD</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Lai</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>SY</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Polymorphism of the N&#x02010;acetyltransferase 2 gene as a susceptibility risk factor for antituberculosis drug&#x02010;induced hepatitis</article-title>. <source xml:lang="en">Hepatology</source>
+<year>2002</year>; <volume>35</volume>: <fpage>883</fpage>&#x02013;<lpage>889</lpage>.<pub-id pub-id-type="pmid">11915035</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="bcp13722-cit-0063">
+<string-name>
+<surname>Kilbane</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Petroff</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Weber</surname>
+<given-names>WW</given-names>
+</string-name>. <article-title>Kinetics of acetyl CoA: arylamine N&#x02010;acetyltransferase from rapid and slow acetylator human liver</article-title>. <source xml:lang="en">Drug Metab Dispos</source>
+<year>1991</year>; <volume>19</volume>: <fpage>503</fpage>&#x02013;<lpage>507</lpage>.<pub-id pub-id-type="pmid">1676662</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="bcp13722-cit-0064">
+<string-name>
+<surname>Hickman</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Palamanda</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Unadkat</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Sim</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Enzyme kinetic properties of human recombinant arylamine N&#x02010;acetyltransferase 2 allotypic variants expressed in Escherichia coli</article-title>. <source xml:lang="en">Biochem Pharmacol</source>
+<year>1995</year>; <volume>50</volume>: <fpage>697</fpage>&#x02013;<lpage>703</lpage>.<pub-id pub-id-type="pmid">7669073</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="bcp13722-cit-0065">
+<string-name>
+<surname>Lee</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Chung</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Lai</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Levy</surname>
+<given-names>GN</given-names>
+</string-name>, <string-name>
+<surname>Weber</surname>
+<given-names>WW</given-names>
+</string-name>. <article-title>Kinetics of arylamine N&#x02010;acetyltransferase in tissues from human breast cancer</article-title>. <source xml:lang="en">Cancer Lett</source>
+<year>1997</year>; <volume>111</volume>: <fpage>39</fpage>&#x02013;<lpage>50</lpage>.<pub-id pub-id-type="pmid">9022126</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="bcp13722-cit-0066">
+<string-name>
+<surname>Walraven</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Zang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Trent</surname>
+<given-names>JO</given-names>
+</string-name>, <string-name>
+<surname>Hein</surname>
+<given-names>DW</given-names>
+</string-name>. <article-title>Structure/function evaluations of single nucleotide polymorphisms in human N&#x02010;acetyltransferase 2</article-title>. <source xml:lang="en">Curr Drug Metab</source>
+<year>2008</year>; <volume>9</volume>: <fpage>471</fpage>&#x02013;<lpage>486</lpage>.<pub-id pub-id-type="pmid">18680467</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="bcp13722-cit-0067">
+<string-name>
+<surname>Kinzig&#x02010;Schippers</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tomalik&#x02010;Scharte</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Jetter</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Scheidel</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Jakob</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Rodamer</surname>
+<given-names>M</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Should we use N&#x02010;acetyltransferase type 2 genotyping to personalize isoniazid doses?</article-title>
+<source xml:lang="en">Antimicrob Agents Chemother</source>
+<year>2005</year>; <volume>49</volume>: <fpage>1733</fpage>&#x02013;<lpage>1738</lpage>.<pub-id pub-id-type="pmid">15855489</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="bcp13722-cit-0068">
+<string-name>
+<surname>Azuma</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ohno</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kubota</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Yokota</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Nagai</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Tsuyuguchi</surname>
+<given-names>K</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>NAT2 genotype guided regimen reduces isoniazid&#x02010;induced liver injury and early treatment failure in the 6&#x02010;month four&#x02010;drug standard treatment of tuberculosis: a randomized controlled trial for pharmacogenetics&#x02010;based therapy</article-title>. <source xml:lang="en">Eur J Clin Pharmacol</source>
+<year>2013</year>; <volume>69</volume>: <fpage>1091</fpage>&#x02013;<lpage>1101</lpage>.<pub-id pub-id-type="pmid">23150149</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="bcp13722-cit-0069">
+<string-name>
+<surname>Ramachandran</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Swaminathan</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Role of pharmacogenomics in the treatment of tuberculosis: a review</article-title>. <source xml:lang="en">Pharm Person Med</source>
+<year>2012</year>; <volume>5</volume>: <fpage>89</fpage>&#x02013;<lpage>98</lpage>.</mixed-citation></ref><ref id="bcp13722-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="bcp13722-cit-0070">
+<string-name>
+<surname>Hussain</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Kar</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Husain</surname>
+<given-names>SA</given-names>
+</string-name>. <article-title>Antituberculosis drug&#x02010;induced hepatitis: risk factors, prevention and management</article-title>. <source xml:lang="en">Indian J Exp Biol</source>
+<year>2003</year>; <volume>41</volume>: <fpage>1226</fpage>&#x02013;<lpage>1232</lpage>.<pub-id pub-id-type="pmid">15332488</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="bcp13722-cit-0071">
+<string-name>
+<surname>Nahid</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Dorman</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Alipanah</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Barry</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Brozek</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Cattamanchi</surname>
+<given-names>A</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Official American Thoracic Society/Centers for Disease Control and Prevention/Infectious Diseases Society of America clinical practice guidelines: treatment of drug&#x02010;susceptible tuberculosis</article-title>. <source xml:lang="en">Clin Infect Dis</source>
+<year>2016</year>; <volume>63</volume>: <fpage>e147</fpage>&#x02013;<lpage>e195</lpage>.<pub-id pub-id-type="pmid">27516382</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0041"><label>41</label><mixed-citation publication-type="book" id="bcp13722-cit-0072">
+<collab collab-type="authors">World Health Organization</collab>
+. <source xml:lang="en">Guidelines on the management of latent tuberculosis infection</source>. <publisher-loc>Geneva, Switzerland</publisher-loc>: <publisher-name>World Health Organization</publisher-name>, <year>2015</year>.</mixed-citation></ref><ref id="bcp13722-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="bcp13722-cit-0073">
+<string-name>
+<surname>Harding</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Sharman</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Faccenda</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Southan</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Pawson</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Ireland</surname>
+<given-names>S</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>The IUPHAR/BPS Guide to PHARMACOLOGY in 2018: updates and expansion to encompass the new guide to IMMUNOPHARMACOLOGY</article-title>. <source xml:lang="en">Nucl Acids Res</source>
+<year>2018</year>; <volume>46</volume>: <fpage>D1091</fpage>&#x02013;<lpage>D1106</lpage>.<pub-id pub-id-type="pmid">29149325</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="bcp13722-cit-0074">
+<string-name>
+<surname>Alexander</surname>
+<given-names>SPH</given-names>
+</string-name>, <string-name>
+<surname>Kelly</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Marrion</surname>
+<given-names>NV</given-names>
+</string-name>, <string-name>
+<surname>Peters</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Faccenda</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Harding</surname>
+<given-names>SD</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>The Concise Guide to PHARMACOLOGY 2017/18: Transporters</article-title>. <source xml:lang="en">Br J Pharmacol</source>
+<year>2017</year>; <volume>174</volume>: <fpage>S360</fpage>&#x02013;<lpage>S446</lpage>.<pub-id pub-id-type="pmid">29055035</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="bcp13722-cit-0016">
+<string-name>
+<surname>Chan</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Chua</surname>
+<given-names>APG</given-names>
+</string-name>, <string-name>
+<surname>Aminkeng</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Chee</surname>
+<given-names>CBE</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Loh</surname>
+<given-names>M</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Association and clinical utility of NAT2 in the prediction of isoniazid&#x02010;induced liver injury in Singaporean patients</article-title>. <source xml:lang="en">PLoS One</source>
+<year>2017</year>; <volume>12</volume>: <elocation-id>e0186200</elocation-id>.<pub-id pub-id-type="pmid">29036176</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="bcp13722-cit-0017">
+<string-name>
+<surname>Wattanapokayakit</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Mushiroda</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Yanai</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Wichukchinda</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Chuchottawon</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Nedsuwan</surname>
+<given-names>S</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>NAT2 slow acetylator associated with anti&#x02010;tuberculosis drug&#x02010;induced liver injury in Thai patients</article-title>. <source xml:lang="en">Int J Tuberc Lung Dis</source>
+<year>2016</year>; <volume>20</volume>: <fpage>1364</fpage>&#x02013;<lpage>1369</lpage>.<pub-id pub-id-type="pmid">27725049</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="bcp13722-cit-0018">
+<string-name>
+<surname>Mushiroda</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Yanai</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Yoshiyama</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Sasaki</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Okumura</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ogata</surname>
+<given-names>H</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Development of a prediction system for anti&#x02010;tuberculosis drug&#x02010;induced liver injury in Japanese patients</article-title>. <source xml:lang="en">Hum Genome Var</source>
+<year>2016</year>; <volume>3</volume>: <elocation-id>PMC4917605</elocation-id>.</mixed-citation></ref><ref id="bcp13722-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="bcp13722-cit-0019">
+<string-name>
+<surname>Yuliwulandari</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Susilowati</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name>
+<surname>Wicaksono</surname>
+<given-names>BD</given-names>
+</string-name>, <string-name>
+<surname>Viyati</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Prayuni</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Razari</surname>
+<given-names>I</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>NAT2 variants are associated with drug&#x02010;induced liver injury caused by anti&#x02010;tuberculosis drugs in Indonesian patients with tuberculosis</article-title>. <source xml:lang="en">J Hum Genet</source>
+<year>2016</year>; <volume>61</volume>: <fpage>533</fpage>&#x02013;<lpage>537</lpage>.<pub-id pub-id-type="pmid">26911349</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="bcp13722-cit-0020">
+<string-name>
+<surname>Wang</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Tsai</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>YL</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>LN</given-names>
+</string-name>, <string-name>
+<surname>Hsu</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>HC</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Gender&#x02010;dimorphic impact of PXR genotype and haplotype on hepatotoxicity during antituberculosis treatment</article-title>. <source xml:lang="en">Medicine (Baltimore)</source>
+<year>2015</year>; <volume>94</volume>: <elocation-id>e982</elocation-id>.<pub-id pub-id-type="pmid">26091473</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="bcp13722-cit-0021">
+<string-name>
+<surname>Ho</surname>
+<given-names>HT</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name>
+<surname>Hsiong</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Perng</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>NC</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>TY</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>The NAT2 tag SNP rs1495741 correlates with the susceptibility of antituberculosis drug&#x02010;induced hepatotoxicity</article-title>. <source xml:lang="en">Pharmacogenet Genomics</source>
+<year>2013</year>; <volume>23</volume>: <fpage>200</fpage>&#x02013;<lpage>207</lpage>.<pub-id pub-id-type="pmid">23407048</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="bcp13722-cit-0023">
+<string-name>
+<surname>Ben Mahmoud</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ghozzi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kamoun</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hakim</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hachicha</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Hammami</surname>
+<given-names>S</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Polymorphism of the N&#x02010;acetyltransferase 2 gene as a susceptibility risk factor for antituberculosis drug&#x02010;induced hepatotoxicity in Tunisian patients with tuberculosis</article-title>. <source xml:lang="en">Pathol Biol (Paris)</source>
+<year>2012</year>; <volume>60</volume>: <fpage>324</fpage>&#x02013;<lpage>330</lpage>.<pub-id pub-id-type="pmid">21856096</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="bcp13722-cit-0025">
+<string-name>
+<surname>Leiro&#x02010;Fernandez</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Valverde</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Vazquez&#x02010;Gallardo</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Botana&#x02010;Rial</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Constenla</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Agundez</surname>
+<given-names>JA</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>N&#x02010;acetyltransferase 2 polymorphisms and risk of anti&#x02010;tuberculosis drug&#x02010;induced hepatotoxicity in Caucasians</article-title>. <source xml:lang="en">Int J Tuberc Lung Dis</source>
+<year>2011</year>; <volume>15</volume>: <fpage>1403</fpage>&#x02013;<lpage>1408</lpage>.<pub-id pub-id-type="pmid">22283902</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="bcp13722-cit-0026">
+<string-name>
+<surname>Sistanizad</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Azizi</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Khalili</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Hajiabdolbaghi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gholami</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Mahjub</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Antituberculosis drug&#x02010;induced hepatotoxicity in Iranian tuberculosis patients: role of isoniazid metabolic polymorphism</article-title>. <source xml:lang="en">Iran J Pharm Res</source>
+<year>2011</year>; <volume>10</volume>: <fpage>633</fpage>&#x02013;<lpage>639</lpage>.<pub-id pub-id-type="pmid">24250397</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="bcp13722-cit-0027">
+<string-name>
+<surname>Khalili</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Fouladdel</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sistanizad</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hajiabdolbaghi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Azizi</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Association of N&#x02010;acetyltransferase&#x02010;2 genotypes and anti&#x02010;tuberculosis induced liver injury; first case&#x02010;controlled study from Iran</article-title>. <source xml:lang="en">Curr Drug Saf</source>
+<year>2011</year>; <volume>6</volume>: <fpage>17</fpage>&#x02013;<lpage>22</lpage>.<pub-id pub-id-type="pmid">21047300</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="bcp13722-cit-0028">
+<string-name>
+<surname>Bozok Cetintas</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Erer</surname>
+<given-names>OF</given-names>
+</string-name>, <string-name>
+<surname>Kosova</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Ozdemir</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Topcuoglu</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Aktogu</surname>
+<given-names>S</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Determining the relation between N&#x02010;acetyltransferase&#x02010;2 acetylator phenotype and antituberculosis drug induced hepatitis by molecular biologic tests</article-title>. <source xml:lang="en">Tuberk Toraks</source>
+<year>2008</year>; <volume>56</volume>: <fpage>81</fpage>&#x02013;<lpage>86</lpage>.<pub-id pub-id-type="pmid">18330759</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="bcp13722-cit-0030">
+<string-name>
+<surname>Possuelo</surname>
+<given-names>LG</given-names>
+</string-name>, <string-name>
+<surname>Castelan</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>de Brito</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name>
+<surname>Ribeiro</surname>
+<given-names>AW</given-names>
+</string-name>, <string-name>
+<surname>Cafrune</surname>
+<given-names>PI</given-names>
+</string-name>, <string-name>
+<surname>Picon</surname>
+<given-names>PD</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Association of slow N&#x02010;acetyltransferase 2 profile and anti&#x02010;TB drug&#x02010;induced hepatotoxicity in patients from southern Brazil</article-title>. <source xml:lang="en">Eur J Clin Pharmacol</source>
+<year>2008</year>; <volume>64</volume>: <fpage>673</fpage>&#x02013;<lpage>681</lpage>.<pub-id pub-id-type="pmid">18421452</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="bcp13722-cit-0031">
+<string-name>
+<surname>Shimizu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Dobashi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Mita</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Endou</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Moriya</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Osano</surname>
+<given-names>K</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>DNA microarray genotyping of N&#x02010;acetyltransferase 2 polymorphism using carbodiimide as the linker for assessment of isoniazid hepatotoxicity</article-title>. <source xml:lang="en">Tuberculosis (Edinb)</source>
+<year>2006</year>; <volume>86</volume>: <fpage>374</fpage>&#x02013;<lpage>381</lpage>.<pub-id pub-id-type="pmid">16246623</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="bcp13722-cit-0034">
+<string-name>
+<surname>Chamorro</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Castagnino</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Musella</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Nogueras</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Aranda</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name>
+<surname>Frias</surname>
+<given-names>A</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Sex, ethnicity, and slow acetylator profile are the major causes of hepatotoxicity induced by antituberculosis drugs</article-title>. <source xml:lang="en">J Gastroenterol Hepatol</source>
+<year>2013</year>; <volume>28</volume>: <fpage>323</fpage>&#x02013;<lpage>328</lpage>.<pub-id pub-id-type="pmid">23190413</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="bcp13722-cit-0035">
+<string-name>
+<surname>Gupta</surname>
+<given-names>VH</given-names>
+</string-name>, <string-name>
+<surname>Amarapurkar</surname>
+<given-names>DN</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sasi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Joshi</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Baijal</surname>
+<given-names>R</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Association of N&#x02010;acetyltransferase 2 and cytochrome P450 2E1 gene polymorphisms with antituberculosis drug&#x02010;induced hepatotoxicity in western India</article-title>. <source xml:lang="en">J Gastroenterol Hepatol</source>
+<year>2013</year>; <volume>28</volume>: <fpage>1368</fpage>&#x02013;<lpage>1374</lpage>.<pub-id pub-id-type="pmid">23875638</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="bcp13722-cit-0036">
+<string-name>
+<surname>Santos</surname>
+<given-names>NP</given-names>
+</string-name>, <string-name>
+<surname>Callegari&#x02010;Jacques</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Ribeiro Dos Santos</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>Silva</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Vallinoto</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Fernandes</surname>
+<given-names>DC</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>N&#x02010;acetyl transferase 2 and cytochrome P450 2E1 genes and isoniazid&#x02010;induced hepatotoxicity in Brazilian patients</article-title>. <source xml:lang="en">Int J Tuberc Lung Dis</source>
+<year>2013</year>; <volume>17</volume>: <fpage>499</fpage>&#x02013;<lpage>504</lpage>.<pub-id pub-id-type="pmid">23394127</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="bcp13722-cit-0037">
+<string-name>
+<surname>An</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>XQ</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>ZY</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>JX</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>NAT2 and CYP2E1 polymorphisms associated with antituberculosis drug&#x02010;induced hepatotoxicity in Chinese patients</article-title>. <source xml:lang="en">Clin Exp Pharmacol Physiol</source>
+<year>2012</year>; <volume>39</volume>: <fpage>535</fpage>&#x02013;<lpage>543</lpage>.<pub-id pub-id-type="pmid">22506592</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="bcp13722-cit-0038">
+<string-name>
+<surname>Bose</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name>
+<surname>Sarma</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name>
+<surname>Medhi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Das</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name>
+<surname>Husain</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Kar</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Role of polymorphic N&#x02010;acetyl transferase2 and cytochrome P4502E1 gene in antituberculosis treatment&#x02010;induced hepatitis</article-title>. <source xml:lang="en">J Gastroenterol Hepatol</source>
+<year>2011</year>; <volume>26</volume>: <fpage>312</fpage>&#x02013;<lpage>318</lpage>.<pub-id pub-id-type="pmid">21261721</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="bcp13722-cit-0039">
+<string-name>
+<surname>Lee</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Chung</surname>
+<given-names>LS</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Chuang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Liou</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>LS</given-names>
+</string-name>. <article-title>NAT2 and CYP2E1 polymorphisms and susceptibility to first&#x02010;line anti&#x02010;tuberculosis drug&#x02010;induced hepatitis</article-title>. <source xml:lang="en">Int J Tuberc Lung Dis</source>
+<year>2010</year>; <volume>14</volume>: <fpage>622</fpage>&#x02013;<lpage>626</lpage>.<pub-id pub-id-type="pmid">20392357</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="bcp13722-cit-0040">
+<string-name>
+<surname>Yamada</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Richardson</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Halaschek&#x02010;Wiener</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>
+<given-names>VJ</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Genetic variations of NAT2 and CYP2E1 and isoniazid hepatotoxicity in a diverse population</article-title>. <source xml:lang="en">Pharmacogenomics</source>
+<year>2009</year>; <volume>10</volume>: <fpage>1433</fpage>&#x02013;<lpage>1445</lpage>.<pub-id pub-id-type="pmid">19761367</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="bcp13722-cit-0041">
+<string-name>
+<surname>Cho</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Koh</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Ryu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ki</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Nam</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>J</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Genetic polymorphisms of NAT2 and CYP2E1 associated with antituberculosis drug&#x02010;induced hepatotoxicity in Korean patients with pulmonary tuberculosis</article-title>. <source xml:lang="en">Tuberculosis</source>
+<year>2007</year>; <volume>87</volume>: <fpage>551</fpage>&#x02013;<lpage>556</lpage>.<pub-id pub-id-type="pmid">17950035</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="bcp13722-cit-0042">
+<string-name>
+<surname>Vuilleumier</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Rossier</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Chiappe</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Degoumois</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Dayer</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Mermillod</surname>
+<given-names>B</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>CYP2E1 genotype and isoniazid&#x02010;induced hepatotoxicity in patients treated for latent tuberculosis</article-title>. <source xml:lang="en">Eur J Clin Pharmacol</source>
+<year>2006</year>; <volume>62</volume>: <fpage>423</fpage>&#x02013;<lpage>429</lpage>.<pub-id pub-id-type="pmid">16770646</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="bcp13722-cit-0043">
+<string-name>
+<surname>Chamorro</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Castagnino</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Aidar</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Musella</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Fr&#x000ed;as</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Visca</surname>
+<given-names>M</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Effect of gene&#x02013;gene and gene&#x02013;environment interactions associated with antituberculosis drug&#x02010;induced hepatotoxicity</article-title>. <source xml:lang="en">Pharmacogenet Genomics</source>
+<year>2017</year>; <volume>27</volume>: <fpage>363</fpage>&#x02013;<lpage>371</lpage>.<pub-id pub-id-type="pmid">28799976</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="bcp13722-cit-0044">
+<string-name>
+<surname>Heinrich</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Zembrzuski</surname>
+<given-names>VM</given-names>
+</string-name>, <string-name>
+<surname>Ota</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Sacchi</surname>
+<given-names>FP</given-names>
+</string-name>, <string-name>
+<surname>Teixeira</surname>
+<given-names>RLF</given-names>
+</string-name>, <string-name>
+<surname>Cabello Acero</surname>
+<given-names>PH</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Factors associated with anti&#x02010;TB drug&#x02010;induced hepatotoxicity and genetic polymorphisms in indigenous and non&#x02010;indigenous populations in Brazil</article-title>. <source xml:lang="en">Tuberculosis</source>
+<year>2016</year>; <volume>101</volume>: <fpage>15</fpage>&#x02013;<lpage>24</lpage>.<pub-id pub-id-type="pmid">27865386</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="bcp13722-cit-0045">
+<string-name>
+<surname>Singla</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Gupta</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Birbian</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Association of NAT2, GST and CYP2E1 polymorphisms and anti&#x02010;tuberculosis drug&#x02010;induced hepatotoxicity</article-title>. <source xml:lang="en">Tuberculosis (Edinb)</source>
+<year>2014</year>; <volume>94</volume>: <fpage>293</fpage>&#x02013;<lpage>298</lpage>.<pub-id pub-id-type="pmid">24637014</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="bcp13722-cit-0046">
+<string-name>
+<surname>Xiang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>X</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>The incidence of liver injury in Uyghur patients treated for TB in Xinjiang Uyghur Autonomous Region, China, and its association with hepatic enzyme polymorphisms NAT2, CYP2E1, GSTM1 and GSTT1</article-title>. <source xml:lang="en">PLoS One</source>
+<year>2014</year>; <volume>9</volume>: <elocation-id>e85905</elocation-id>.<pub-id pub-id-type="pmid">24465778</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="bcp13722-cit-0047">
+<string-name>
+<surname>Costa</surname>
+<given-names>GN</given-names>
+</string-name>, <string-name>
+<surname>Magno</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Santana</surname>
+<given-names>CV</given-names>
+</string-name>, <string-name>
+<surname>Konstantinovas</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Saito</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name>
+<surname>Machado</surname>
+<given-names>M</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Genetic interaction between NAT2, GSTM1, GSTT1, CYP2E1, and environmental factors is associated with adverse reactions to anti&#x02010;tuberculosis drugs</article-title>. <source xml:lang="en">Mol Diagn Ther</source>
+<year>2012</year>; <volume>16</volume>: <fpage>241</fpage>&#x02013;<lpage>250</lpage>.<pub-id pub-id-type="pmid">22788240</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="bcp13722-cit-0049">
+<string-name>
+<surname>Sotsuka</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Sasaki</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hirai</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Yamagishi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Ueno</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Association of isoniazid&#x02010;metabolizing enzyme genotypes and isoniazid&#x02010;induced hepatotoxicity in tuberculosis patients</article-title>. <source xml:lang="en">In Vivo</source>
+<year>2011</year>; <volume>25</volume>: <fpage>803</fpage>&#x02013;<lpage>812</lpage>.<pub-id pub-id-type="pmid">21753138</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="bcp13722-cit-0050">
+<string-name>
+<surname>Zaverucha&#x02010;do&#x02010;Valle</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Monteiro</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name>
+<surname>El&#x02010;Jaick</surname>
+<given-names>KB</given-names>
+</string-name>, <string-name>
+<surname>Rosadas</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Costa</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Quintana</surname>
+<given-names>MS</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>The role of cigarette smoking and liver enzymes polymorphisms in anti&#x02010;tuberculosis drug&#x02010;induced hepatotoxicity in Brazilian patients</article-title>. <source xml:lang="en">Tuberculosis (Edinb)</source>
+<year>2014</year>; <volume>94</volume>: <fpage>299</fpage>&#x02013;<lpage>305</lpage>.<pub-id pub-id-type="pmid">24793319</pub-id></mixed-citation></ref><ref id="bcp13722-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="bcp13722-cit-0052">
+<string-name>
+<surname>Kim</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bahn</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Shin</surname>
+<given-names>E</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Genetic polymorphisms of drug&#x02010;metabolizing enzymes and anti&#x02010;TB drug&#x02010;induced hepatitis</article-title>. <source xml:lang="en">Pharmacogenomics</source>
+<year>2009</year>; <volume>10</volume>: <fpage>1767</fpage>&#x02013;<lpage>1779</lpage>.<pub-id pub-id-type="pmid">19891553</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sec id="Sec8" class="sec">
+ <div class="title" xmlns="http://www.w3.org/1999/xhtml">Results</div>
+ <sec id="Sec9" class="sec">
+  <div class="title" xmlns="http://www.w3.org/1999/xhtml">Search results and general characteristic</div>
+  <p id="Par32" xmlns="http://www.w3.org/1999/xhtml">Figure 
+   <a rid="Fig1" ref-type="fig" href="#Fig1">1</a> shows the flowchart for selection of studies. First, a total of 285 studies were identified from the electronic databases (PubMed = 147, Embase = 56, Web of Science = 23, Cochrane Library = 19, Google database = 30). Then, all papers were input into Endnote X7 (Thomson Reuters Corp., USA) software for the removal of duplicate papers. A total of 151 papers were reviewed, and 142 papers were removed according to the inclusion criteria at abstract and title levels. Additionally, one study was a duplicate publication so we only included the most recently published paper. Ultimately, 9 clinical studies with 754 patients (DAA group = 377, PA group = 377) were involved in the meta-analysis [
+   <a ref-type="bibr" rid="CR17" href="#CR17">17</a>–
+   <a ref-type="bibr" rid="CR25" href="#CR25">25</a>]. The general characteristic of the included studies can be seen in Table 
+   <a rid="Tab1" ref-type="table" href="#Tab1">1</a>. Publication years ranged from 2006 to 2018. Number of patients ranged from 27 to 60, and mean age ranged from 59 to 65. Follow-up duration ranged from 1 month to 1 year.
+   <div id="Fig1" class="fig">
+    <span class="label">Fig. 1</span>
+    <div class="caption">
+     <p>The flow diagram of study selection</p>
+    </div>
+    <div xlink:href="13018_2018_929_Fig1_HTML" id="MO1" class="graphic" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   </div>
+   <div id="Tab1" class="table-wrap">
+    <span class="label">Table 1</span>
+    <div class="caption">
+     <p>General characteristic of the included studies</p>
+    </div>
+    <table frame="hsides" rules="groups">
+     <thead>
+      <tr>
+       <th>Author</th>
+       <th>No. of patients</th>
+       <th>Mean age (years)</th>
+       <th>Female (%)</th>
+       <th>BMI</th>
+       <th>Outcomes</th>
+       <th>Study</th>
+       <th>Follow-up</th>
+      </tr>
+     </thead>
+     <tbody>
+      <tr>
+       <td>Barrett 2013
+        <span class="sup">1,</span>
+        <span class="sup">2,</span>
+        <span class="sup">3,</span>
+        <span class="sup">5,</span>
+        <span class="sup">7</span>
+       </td>
+       <td>43/44</td>
+       <td>61/63</td>
+       <td>33/57</td>
+       <td>31/29</td>
+       <td/>
+       <td>RCT</td>
+       <td>3 months</td>
+      </tr>
+      <tr>
+       <td>Bergin 2011
+        <span class="sup">2,</span>
+        <span class="sup">4,</span>
+        <span class="sup">8,</span>
+        <span class="sup">9,</span>
+        <span class="sup">10,</span>
+        <span class="sup">11,</span>
+        <span class="sup">12</span>
+       </td>
+       <td>29/28</td>
+       <td>69/65</td>
+       <td>68/50</td>
+       <td>26/28</td>
+       <td/>
+       <td>RCT</td>
+       <td>1 month</td>
+      </tr>
+      <tr>
+       <td>Christensen 2015
+        <span class="sup">1,</span>
+        <span class="sup">5,</span>
+        <span class="sup">8,</span>
+        <span class="sup">9,</span>
+       </td>
+       <td>28/23</td>
+       <td>64/65</td>
+       <td>54/52</td>
+       <td>31/30</td>
+       <td/>
+       <td>RCT</td>
+       <td>42 days</td>
+      </tr>
+      <tr>
+       <td>Rodriguez 2014
+        <span class="sup">2,</span>
+        <span class="sup">3,</span>
+        <span class="sup">5,</span>
+        <span class="sup">6</span>
+       </td>
+       <td>60/60</td>
+       <td>59/60</td>
+       <td>34/32</td>
+       <td>28/24</td>
+       <td/>
+       <td>RCT</td>
+       <td>1 year</td>
+      </tr>
+      <tr>
+       <td>Taunton 2014
+        <span class="sup">1,</span>
+        <span class="sup">3,</span>
+        <span class="sup">4,</span>
+        <span class="sup">8,</span>
+        <span class="sup">10</span>
+       </td>
+       <td>27/27</td>
+       <td>62/66</td>
+       <td>56/52</td>
+       <td>28/29</td>
+       <td/>
+       <td>RCT</td>
+       <td>42 days</td>
+      </tr>
+      <tr>
+       <td>Cheng 2017
+        <span class="sup">2,</span>
+        <span class="sup">3,</span>
+        <span class="sup">4,</span>
+        <span class="sup">10,</span>
+        <span class="sup">11,</span>
+        <span class="sup">12</span>
+       </td>
+       <td>35/27</td>
+       <td>59/63</td>
+       <td>57/53</td>
+       <td>28/28</td>
+       <td/>
+       <td>RCT</td>
+       <td>84 days</td>
+      </tr>
+      <tr>
+       <td>Zhang 2006
+        <span class="sup">1,</span>
+        <span class="sup">2,</span>
+        <span class="sup">5,</span>
+        <span class="sup">8,</span>
+        <span class="sup">10,</span>
+        <span class="sup">12</span>
+       </td>
+       <td>60/60</td>
+       <td>61/63</td>
+       <td>58/53</td>
+       <td>NS</td>
+       <td/>
+       <td>RCT</td>
+       <td>3 months</td>
+      </tr>
+      <tr>
+       <td>Zhao 2017
+        <span class="sup">2,</span>
+        <span class="sup">3,</span>
+        <span class="sup">5,</span>
+        <span class="sup">6,</span>
+        <span class="sup">8,</span>
+        <span class="sup">9,</span>
+        <span class="sup">11</span>
+       </td>
+       <td>60/60</td>
+       <td>65/62</td>
+       <td>60/56</td>
+       <td>24/26</td>
+       <td/>
+       <td>RCT</td>
+       <td>3 months</td>
+      </tr>
+      <tr>
+       <td>Zhang 2018
+        <span class="sup">1,</span>
+        <span class="sup">2,</span>
+        <span class="sup">4,</span>
+        <span class="sup">5,</span>
+        <span class="sup">6,</span>
+        <span class="sup">7,</span>
+       </td>
+       <td>35/48</td>
+       <td>NS</td>
+       <td>NS</td>
+       <td>26/25</td>
+       <td/>
+       <td>RCT</td>
+       <td>6 months</td>
+      </tr>
+     </tbody>
+    </table>
+    <div class="table-wrap-foot">
+     <p>
+      <span class="italic">NS</span>, not stated; 
+      <span class="italic">RCT</span>, randomized controlled trials; 1 Harris hip score at 2 weeks, 2, Harris hip score at 6 weeks, 3, Harris hip score at 12 weeks, 4 Harris hip score at 1 year, 5, VAS at 24 h, 6, VAS at 48 h, 7, VAS at 72 h, 8 incision length, 9, operation time, 10. postoperative blood loss, 11 length of hospital stay, 12 complications (intraoperative fracture, postoperative dislocation, heterotopic ossification (HO) and groin pain)
+     </p>
+    </div>
+   </div>
+  </p>
+ </sec>
+ <sec id="Sec10" class="sec">
+  <div class="title" xmlns="http://www.w3.org/1999/xhtml">Quality assessment</div>
+  <p id="Par33" xmlns="http://www.w3.org/1999/xhtml">The risk of bias graph and risk of bias summary is summarized in Figs. 
+   <a rid="Fig2" ref-type="fig" href="#Fig2">2</a> and 
+   <a rid="Fig3" ref-type="fig" href="#Fig3">3</a> respectively. Random sequence generation procedure (selection bias) was low and unclear in two and five of the included studies respectively. Allocation concealment was low in four studies and high in two studies. Blinding of participant was with high risk of bias in all of the included studies. Attrition bias was unclear in six studies. Other bias was high in one study and two were with unclear risk of bias, the rest were all with low risk of bias.
+   <div id="Fig2" class="fig">
+    <span class="label">Fig. 2</span>
+    <div class="caption">
+     <p>Risk of bias graph: review authors’ judgments about each risk of bias item presented as percentages across all included studies</p>
+    </div>
+    <div xlink:href="13018_2018_929_Fig2_HTML" id="MO2" class="graphic" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   </div>
+   <div id="Fig3" class="fig">
+    <span class="label">Fig. 3</span>
+    <div class="caption">
+     <p>Risk of bias summary for included studies. +, no bias; −, bias;?, bias unknown</p>
+    </div>
+    <div xlink:href="13018_2018_929_Fig3_HTML" id="MO3" class="graphic" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   </div>
+  </p>
+ </sec>
+ <sec id="Sec11" class="sec">
+  <div class="title" xmlns="http://www.w3.org/1999/xhtml">Results of meta-analysis</div>
+  <sec id="Sec12" class="sec">
+   <div class="title" xmlns="http://www.w3.org/1999/xhtml">Harris hip score at 2 weeks, 6 weeks, 12 weeks, and 1 year</div>
+   <p id="Par34" xmlns="http://www.w3.org/1999/xhtml">Data on 661 primary THAs (including 329 with DAA and 322 with PA) were pooled from 5 trials analyzing the Harris hip score at 2 weeks. The DAA group was associated with an increase of the Harris hip at 2 weeks and 6 weeks (2 weeks, WMD = 7.41, 95%CI 4.91 to 9.92, 
+    <span class="italic">p</span> = 0.000; Fig. 
+    <a rid="Fig4" ref-type="fig" href="#Fig4">4</a>; 6 weeks, WMD = 6.80, 95%CI 0.64 to 12.95, 
+    <span class="italic">p</span> = 0.030, Fig. 
+    <a rid="Fig5" ref-type="fig" href="#Fig5">5</a>). The DAA and PA groups were not statistically significantly different with regard to pain at 12 weeks and 1 year (12 weeks, WMD = 2.56, 95%CI − 0.40 to 5.51, 
+    <span class="italic">p</span> = 0.090, Fig. 
+    <a rid="Fig6" ref-type="fig" href="#Fig6">6</a>; 1 year, WMD = 0.36, 95%CI − 1.51 to 2.23, 
+    <span class="italic">p</span> = 0.709, Fig. 
+    <a rid="Fig7" ref-type="fig" href="#Fig7">7</a>).
+    <div id="Fig4" class="fig">
+     <span class="label">Fig. 4</span>
+     <div class="caption">
+      <p>Forest plot for comparing DAA versus PA in terms of Harris hip score at 2 weeks</p>
+     </div>
+     <div xlink:href="13018_2018_929_Fig4_HTML" id="MO4" class="graphic" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </div>
+    <div id="Fig5" class="fig">
+     <span class="label">Fig. 5</span>
+     <div class="caption">
+      <p>Forest plot for comparing DAA versus PA in terms of Harris hip score at 6 weeks</p>
+     </div>
+     <div xlink:href="13018_2018_929_Fig5_HTML" id="MO5" class="graphic" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </div>
+    <div id="Fig6" class="fig">
+     <span class="label">Fig. 6</span>
+     <div class="caption">
+      <p>Forest plot for comparing DAA versus PA in terms of Harris hip score at 12 weeks</p>
+     </div>
+     <div xlink:href="13018_2018_929_Fig6_HTML" id="MO6" class="graphic" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </div>
+    <div id="Fig7" class="fig">
+     <span class="label">Fig. 7</span>
+     <div class="caption">
+      <p>Forest plot for comparing DAA versus PA in terms of Harris hip score at 1 year</p>
+     </div>
+     <div xlink:href="13018_2018_929_Fig7_HTML" id="MO7" class="graphic" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </div>
+   </p>
+  </sec>
+  <sec id="Sec13" class="sec">
+   <div class="title" xmlns="http://www.w3.org/1999/xhtml">VAS at 24 h, 48 h, and 72 h</div>
+   <p id="Par35" xmlns="http://www.w3.org/1999/xhtml">Compared with PA group, the DAA group was associated with a decrease of the VAS at each time point (24 h, WMD = − 0.71, 95%CI − 0.90 to − 0.51, 
+    <span class="italic">p</span> = 0.000; 48 h, WMD = − 1.55, 95%CI − 2.24 to − 0.86, 
+    <span class="italic">p</span> = 0.000; 72 h, WMD = − 1.56, 95%CI − 2.64 to − 0.48, 
+    <span class="italic">p</span> = 0.005, Fig. 
+    <a rid="Fig8" ref-type="fig" href="#Fig8">8</a>).
+    <div id="Fig8" class="fig">
+     <span class="label">Fig. 8</span>
+     <div class="caption">
+      <p>Forest plot for comparing DAA versus PA in terms of VAS at 24 h, 48 h, and 72 h</p>
+     </div>
+     <div xlink:href="13018_2018_929_Fig8_HTML" id="MO8" class="graphic" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </div>
+   </p>
+  </sec>
+  <sec id="Sec14" class="sec">
+   <div class="title" xmlns="http://www.w3.org/1999/xhtml">Incision length</div>
+   <p id="Par36" xmlns="http://www.w3.org/1999/xhtml">Data on 359 primary THAs (including 184 with DAA and 175 with PA) were pooled from 4 trials analyzing the incision length. Compared with PA, DAA group was associated with a reduction of the incision length by 3.51 cm (WMD = − 3.51, 95%CI − 4.15 to − 2.86, 
+    <span class="italic">p</span> = 0.000, Fig. 
+    <a rid="Fig9" ref-type="fig" href="#Fig9">9</a>).
+    <div id="Fig9" class="fig">
+     <span class="label">Fig. 9</span>
+     <div class="caption">
+      <p>Forest plot for comparing DAA versus PA in terms of incision length</p>
+     </div>
+     <div xlink:href="13018_2018_929_Fig9_HTML" id="MO9" class="graphic" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </div>
+   </p>
+  </sec>
+  <sec id="Sec15" class="sec">
+   <div class="title" xmlns="http://www.w3.org/1999/xhtml">Operation time</div>
+   <p id="Par37" xmlns="http://www.w3.org/1999/xhtml">Data on 446 primary THAs (including 227 with DAA and 219 with PA) were pooled from 5 trials analyzing the operation time. Compared with PA, DAA group was not associated with an increase of the operation time (WMD = 3.83, 95%CI − 14.39 to 22.06, 
+    <span class="italic">p</span> = 0.680, Fig. 
+    <a rid="Fig10" ref-type="fig" href="#Fig10">10</a>).
+    <div id="Fig10" class="fig">
+     <span class="label">Fig. 10</span>
+     <div class="caption">
+      <p>Forest plot for comparing DAA versus PA in terms of operation time</p>
+     </div>
+     <div xlink:href="13018_2018_929_Fig10_HTML" id="MO10" class="graphic" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </div>
+   </p>
+  </sec>
+  <sec id="Sec16" class="sec">
+   <div class="title" xmlns="http://www.w3.org/1999/xhtml">Postoperative blood loss</div>
+   <p id="Par38" xmlns="http://www.w3.org/1999/xhtml">Data on 380 primary THAs (including 184 with DAA and 196 with PA) were pooled from 4 trials analyzing the postoperative blood loss. Compared with PA, DAA group was associated with a reduction of the postoperative blood loss (WMD = − 67.02, 95%CI − 131.46 to − 2.58, 
+    <span class="italic">p</span> = 0.041, Fig. 
+    <a rid="Fig11" ref-type="fig" href="#Fig11">11</a>).
+    <div id="Fig11" class="fig">
+     <span class="label">Fig. 11</span>
+     <div class="caption">
+      <p>Forest plot for comparing DAA versus PA in terms of postoperative blood loss</p>
+     </div>
+     <div xlink:href="13018_2018_929_Fig11_HTML" id="MO11" class="graphic" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </div>
+   </p>
+  </sec>
+  <sec id="Sec17" class="sec">
+   <div class="title" xmlns="http://www.w3.org/1999/xhtml">Length of hospital stay</div>
+   <p id="Par39" xmlns="http://www.w3.org/1999/xhtml">Four studies totaling 290 THAs (DAA = 152, PA = 138) analyzing the length of hospital stay. There was no significant difference between the DAA group and PA group in terms of the length of hospital stay (WMD = − 0.26, 95%CI − 0.58 to 0.06, 
+    <span class="italic">p</span> = 0.118, Fig. 
+    <a rid="Fig12" ref-type="fig" href="#Fig12">12</a>).
+    <div id="Fig12" class="fig">
+     <span class="label">Fig. 12</span>
+     <div class="caption">
+      <p>Forest plot for comparing DAA versus PA in terms of the length of hospital stay</p>
+     </div>
+     <div xlink:href="13018_2018_929_Fig12_HTML" id="MO12" class="graphic" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </div>
+   </p>
+  </sec>
+  <sec id="Sec18" class="sec">
+   <div class="title" xmlns="http://www.w3.org/1999/xhtml">Complications</div>
+   <p id="Par40" xmlns="http://www.w3.org/1999/xhtml">There was no significant difference between DAA group and PA group in terms of the intraoperative fracture (RR = 1.62, 95%CI 1.62 to 4.46, 
+    <span class="italic">p</span> = 0.350, Fig. 
+    <a rid="Fig13" ref-type="fig" href="#Fig13">13</a>); postoperative dislocation (RR = 0.52, 95%CI 0.10 to 2.27, 
+    <span class="italic">p</span> = 0.441, Fig. 
+    <a rid="Fig13" ref-type="fig" href="#Fig13">13</a>), HO (RR = 1.57, 95%CI 0.49 to 5.09, 
+    <span class="italic">p</span> = 0.450, Fig. 
+    <a rid="Fig13" ref-type="fig" href="#Fig13">13</a>), and groin pain (RR = 2.62, 95%CI 0.63 to 10.94, 
+    <span class="italic">p</span> = 0.191, Fig. 
+    <a rid="Fig13" ref-type="fig" href="#Fig13">13</a>).
+    <div id="Fig13" class="fig">
+     <span class="label">Fig. 13</span>
+     <div class="caption">
+      <p>Forest plot for comparing DAA versus PA in terms of complications</p>
+     </div>
+     <div xlink:href="13018_2018_929_Fig13_HTML" id="MO13" class="graphic" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </div>
+   </p>
+  </sec>
+ </sec>
+</sec>

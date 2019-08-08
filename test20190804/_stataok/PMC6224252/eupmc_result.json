@@ -1,0 +1,306 @@
+{
+  "id": [
+    "30337500"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30337500"
+  ],
+  "pmcid": [
+    "PMC6224252"
+  ],
+  "doi": [
+    "10.18632/aging.101584"
+  ],
+  "title": [
+    "A single-nucleotide polymorphism (rs1805087) in the methionine synthase (METH) gene increases the risk of prostate cancer."
+  ],
+  "authorString": [
+    "Zhang X, Tang J, Shen N, Ren K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang X"
+          ],
+          "firstName": [
+            "Xiaosong"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Urology, Nantong Tongzhou District People's Hospital, Nantong 226300, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tang J"
+          ],
+          "firstName": [
+            "Jilei"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Orthopedics, Qidong People's Hospital, Nantong 226200, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shen N"
+          ],
+          "firstName": [
+            "Nan"
+          ],
+          "lastName": [
+            "Shen"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Clinical Pharmacy, the Affiliated Jiangyin Hospital of Southeast University Medical School, Jiangyin 214400, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ren K"
+          ],
+          "firstName": [
+            "Kewei"
+          ],
+          "lastName": [
+            "Ren"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Orthopedics, the Affiliated Jiangyin Hospital of Southeast University Medical School, Jiangyin 214400, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2743539"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Aging"
+          ],
+          "ISOAbbreviation": [
+            "Aging (Albany NY)"
+          ],
+          "medlineAbbreviation": [
+            "Aging (Albany NY)"
+          ],
+          "NLMid": [
+            "101508617"
+          ],
+          "ISSN": [
+            "1945-4589"
+          ],
+          "ESSN": [
+            "1945-4589"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "2741-2754"
+  ],
+  "abstractText": [
+    "Methionine synthase (METH, i.e., MTR) is a key enzyme in the folate pathway, which plays a critical role in the synthesis, repair, and methylation of DNA. The association between METH gene polymorphisms and prostate cancer susceptibility remains ambiguous. Thus, we performed an updated meta-analysis of METH single-nucleotide polymorphism rs1805087 involving 12 independent case-control studies comprising 9986 prostate cancer patients and 40134 controls. The odds ratio and 95% confidence intervals were applied to evaluate the relation of this single-nucleotide polymorphism with prostate cancer. Statistical analysis was performed in STATA 11.0. A significant association was found between rs1805087 and increased prostate cancer risk, overall and with Hardy-Weinberg equilibrium. In subgroup analyses (based on ethnicity, source of control, genotyping methods, or publication status), similar associations were observed (e.g., genotype GA vs. AA: odds ratio 1.19, 95% confidence interval 1.01-1.40 among whites; G allele vs. A allele: odds ratio 1.14, 95% confidence interval 1.02-1.28 among hospital-based controls). Thus, the common polymorphism (rs1805087) of METH may be associated with increased prostate cancer risk. Further studies with a larger sample size and detailed gene-environment interactions should be conducted to identify the role of METH polymorphisms in prostate cancer susceptibility."
+  ],
+  "affiliation": [
+    "Department of Urology, Nantong Tongzhou District People's Hospital, Nantong 226300, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Polymorphism",
+        "Susceptibility",
+        "Meta-analysis",
+        "methionine synthase",
+        "prostate cancer"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6224252?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6224252"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.18632/aging.101584"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-10-20"
+  ],
+  "firstIndexDate": [
+    "2018-10-19"
+  ],
+  "dateOfRevision": [
+    "2019-07-24"
+  ],
+  "firstPublicationDate": [
+    "2018-10-01"
+  ]
+}

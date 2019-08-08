@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template xmlns:svg="http://www.w3.org/2000/svg">
+<image extension="png" borders="297 885 901" sections="header body ticks scale" split="horizontal" source="raw.png">
+<image extension="png" borders="501.5 902.5" sections="ltable graph rtable" split="vertical" source="raw.body.png"/>
+</image>
+</template>
